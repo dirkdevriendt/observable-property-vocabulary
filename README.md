@@ -1,3 +1,7 @@
-# Template repo
+# Observable Property Vocabulary
 
-for instructions see: [how to create a repo from a template](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template).
+## How to add or modify a vocabulary term
+Adding or modifying a term is as simple as opening an issue and selecting the 'Request a new vocabulary term' template.
+Once all information is added this information will be reviewed by one of the domain experts.
+
+## How to use this vocabulary
