@@ -7,26 +7,36 @@ on:
 
 
 jobs:
-    publish-vocabulary:
-        if: github.repository != 'eu-parc/vocabulary-template'
-        uses: eu-parc/voc2skosmos-workflow/.github/workflows/csv2skos.yml@main
+  publish-vocabulary:
+        uses: eu-parc/voc2skosmos-workflow/.github/workflows/yml2skos.yml@main
         with:
             ref: ${{ github.ref }}
-            namespace: http://www.placeholder.com/
-            namespace_label: placeholder
-            mappings_file: rules/mappings.yarrr.yml
+            namespace: https://w3id.org/peh/terms/
+            namespace_label: pehterms
+            linkml_schema: https://raw.githubusercontent.com/eu-parc/parco-hbm/main/linkml/schema/peh.yaml
+            data: data/ObservablePropertyList_data.yml
         secrets:
             token: ${{ secrets.GITHUB_TOKEN }}
 
-    ## PICK EITHER ONE OF THE TWO
-    #publish-vocabulary:
-    #    if: github.repository != 'eu-parc/vocabulary-template'
-    #    uses: eu-parc/voc2skosmos-workflow/.github/workflows/yml2skos.yml@main
-    #    with:
-    #        ref: ${{ github.ref }}
-    #        namespace: http://www.placeholder.com/
-    #        namespace_label: placeholder
-    #        linkml_schema: schema/resource.linkml.yml
-    #        data: data/data.yml
-    #    secrets:
-    #        token: ${{ secrets.GITHUB_TOKEN }}
+  #publish-vocabulary:
+  #  uses: eu-parc/voc2nanopub/.github/workflows/yml2nanopub.yml@main
+  #  with:
+  #    ref: ${{ github.ref }}
+  #    linkml_schema: schema/peh.linkml.yml
+  #    data: data/ObservablePropertyList_data.yml
+  #    target_name: observable_properties
+  #    server_mode: ${{ github.event_name == 'pull_request' && 'test' || 'production' }}
+  #    dry_run: ${{ github.event_name == 'pull_request' && 'true' || 'false' }}
+  #    output_pairs: data/redirect-pairs.txt
+  #    preflabel: name
+  #    type_prefix: OP
+  #    #voc_version: ${{ github.event.release.tag_name }}
+  #  secrets:
+  #    token: ${{ secrets.GITHUB_TOKEN }}
+  #    NANOPUB_ORCID_ID: ${{ secrets.NANOPUB_ORCID_ID }}
+  #    NANOPUB_NAME: ${{ secrets.NANOPUB_NAME }}
+  #    NANOPUB_PRIVATE_KEY: ${{ secrets.NANOPUB_PRIVATE_KEY }}
+  #    NANOPUB_PUBLIC_KEY: ${{ secrets.NANOPUB_PUBLIC_KEY }}
+  #    NANOPUB_INTRO_URI: ${{ secrets.NANOPUB_INTRO_URI }}
+
+      
