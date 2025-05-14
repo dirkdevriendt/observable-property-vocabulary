@@ -4368,7 +4368,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - sampling
-  indicator: Urine density of the sample
+  indicator: Urine_density_of_the_sample
   varname: density
 - id: crt
   unique_name: crt
@@ -4393,7 +4393,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - sampling
-  indicator: Concentration of creatinine in urine of the sample
+  indicator: Concentration_of_creatinine_in_urine_of_the_sample
   varname: crt
 - id: osm
   unique_name: osm
@@ -4418,7 +4418,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - sampling
-  indicator: Osmotic concentration of urine of the sample
+  indicator: Osmotic_concentration_of_urine_of_the_sample
   varname: osm
 - id: sg
   unique_name: sg
@@ -4442,7 +4442,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - sampling
-  indicator: Specific gravity of urine of the sample
+  indicator: Specific_gravity_of_urine_of_the_sample
   varname: sg
 - id: uvolume
   unique_name: uvolume
@@ -4467,7 +4467,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - sampling
-  indicator: Volume of the urine sample
+  indicator: Volume_of_the_urine_sample
   varname: uvolume
 - id: fourhphe
   unique_name: fourhphe
@@ -4487,7 +4487,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - sampling
-  indicator: mass concentration of fourhphe in urine
+  indicator: mass_concentration_of_fourhphe_in_urine
   varname: fourhphe
 - id: ninehfluo
   unique_name: ninehfluo
@@ -4507,7 +4507,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - sampling
-  indicator: mass concentration of ninehfluo in urine
+  indicator: mass_concentration_of_ninehfluo_in_urine
   varname: ninehfluo
 - id: ohpyr
   unique_name: ohpyr
@@ -4527,7 +4527,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - sampling
-  indicator: mass concentration of ohpyr in urine
+  indicator: mass_concentration_of_ohpyr_in_urine
   varname: ohpyr
 - id: onehphe
   unique_name: onehphe
@@ -4547,7 +4547,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - sampling
-  indicator: mass concentration of onehphe in urine
+  indicator: mass_concentration_of_onehphe_in_urine
   varname: onehphe
 - id: oneohnap
   unique_name: oneohnap
@@ -4567,7 +4567,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - sampling
-  indicator: mass concentration of oneohnap in urine
+  indicator: mass_concentration_of_oneohnap_in_urine
   varname: oneohnap
 - id: threehfluo
   unique_name: threehfluo
@@ -4587,7 +4587,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - sampling
-  indicator: mass concentration of threehfluo in urine
+  indicator: mass_concentration_of_threehfluo_in_urine
   varname: threehfluo
 - id: threehphe
   unique_name: threehphe
@@ -4607,7 +4607,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - sampling
-  indicator: mass concentration of threehphe in urine
+  indicator: mass_concentration_of_threehphe_in_urine
   varname: threehphe
 - id: twohfluo
   unique_name: twohfluo
@@ -4627,7 +4627,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - sampling
-  indicator: mass concentration of twohfluo in urine
+  indicator: mass_concentration_of_twohfluo_in_urine
   varname: twohfluo
 - id: twohphe
   unique_name: twohphe
@@ -4647,7 +4647,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - sampling
-  indicator: mass concentration of twohphe in urine
+  indicator: mass_concentration_of_twohphe_in_urine
   varname: twohphe
 - id: twoohnap
   unique_name: twoohnap
@@ -4667,7 +4667,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - sampling
-  indicator: mass concentration of twoohnap in urine
+  indicator: mass_concentration_of_twoohnap_in_urine
   varname: twoohnap
 - id: bpa
   unique_name: bpa
@@ -4687,7 +4687,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - sampling
-  indicator: mass concentration of bpa in urine
+  indicator: mass_concentration_of_bpa_in_urine
   varname: bpa
 - id: bpaf
   unique_name: bpaf
@@ -4707,7 +4707,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - sampling
-  indicator: mass concentration of bpaf in urine
+  indicator: mass_concentration_of_bpaf_in_urine
   varname: bpaf
 - id: bpb
   unique_name: bpb
@@ -4727,7 +4727,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - sampling
-  indicator: mass concentration of bpb in urine
+  indicator: mass_concentration_of_bpb_in_urine
   varname: bpb
 - id: bpf
   unique_name: bpf
@@ -4747,7 +4747,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - sampling
-  indicator: mass concentration of bpf in urine
+  indicator: mass_concentration_of_bpf_in_urine
   varname: bpf
 - id: bps
   unique_name: bps
@@ -4767,7 +4767,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - sampling
-  indicator: mass concentration of bps in urine
+  indicator: mass_concentration_of_bps_in_urine
   varname: bps
 - id: bpz
   unique_name: bpz
@@ -4787,7 +4787,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - sampling
-  indicator: mass concentration of bpz in urine
+  indicator: mass_concentration_of_bpz_in_urine
   varname: bpz
 - id: mcoch
   unique_name: mcoch
@@ -4807,7 +4807,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - sampling
-  indicator: mass concentration of mcoch in urine
+  indicator: mass_concentration_of_mcoch_in_urine
   varname: mcoch
 - id: mhnch
   unique_name: mhnch
@@ -4827,7 +4827,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - sampling
-  indicator: mass concentration of mhnch in urine
+  indicator: mass_concentration_of_mhnch_in_urine
   varname: mhnch
 - id: minch
   unique_name: minch
@@ -4847,7 +4847,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - sampling
-  indicator: mass concentration of minch in urine
+  indicator: mass_concentration_of_minch_in_urine
   varname: minch
 - id: bboehep
   unique_name: bboehep
@@ -4867,7 +4867,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - sampling
-  indicator: mass concentration of bboehep in urine
+  indicator: mass_concentration_of_bboehep_in_urine
   varname: bboehep
 - id: bboephr
   unique_name: bboephr
@@ -4887,7 +4887,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - sampling
-  indicator: mass concentration of bboephr in urine
+  indicator: mass_concentration_of_bboephr_in_urine
   varname: bboephr
 - id: bcepms
   unique_name: bcepms
@@ -4907,7 +4907,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - sampling
-  indicator: mass concentration of bcepms in urine
+  indicator: mass_concentration_of_bcepms_in_urine
   varname: bcepms
 - id: bciphipp
   unique_name: bciphipp
@@ -4927,7 +4927,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - sampling
-  indicator: mass concentration of bciphipp in urine
+  indicator: mass_concentration_of_bciphipp_in_urine
   varname: bciphipp
 - id: bcippms
   unique_name: bcippms
@@ -4947,7 +4947,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - sampling
-  indicator: mass concentration of bcippms in urine
+  indicator: mass_concentration_of_bcippms_in_urine
   varname: bcippms
 - id: bdcippms
   unique_name: bdcippms
@@ -4967,7 +4967,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - sampling
-  indicator: mass concentration of bdcippms in urine
+  indicator: mass_concentration_of_bdcippms_in_urine
   varname: bdcippms
 - id: behp
   unique_name: behp
@@ -4987,7 +4987,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - sampling
-  indicator: mass concentration of behp in urine
+  indicator: mass_concentration_of_behp_in_urine
   varname: behp
 - id: dnbphr
   unique_name: dnbphr
@@ -5007,7 +5007,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - sampling
-  indicator: mass concentration of dnbphr in urine
+  indicator: mass_concentration_of_dnbphr_in_urine
   varname: dnbphr
 - id: dphpms
   unique_name: dphpms
@@ -5027,7 +5027,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - sampling
-  indicator: mass concentration of dphpms in urine
+  indicator: mass_concentration_of_dphpms_in_urine
   varname: dphpms
 - id: ehphp
   unique_name: ehphp
@@ -5047,7 +5047,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - sampling
-  indicator: mass concentration of ehphp in urine
+  indicator: mass_concentration_of_ehphp_in_urine
   varname: ehphp
 - id: fourohdphp
   unique_name: fourohdphp
@@ -5067,7 +5067,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - sampling
-  indicator: mass concentration of fourohdphp in urine
+  indicator: mass_concentration_of_fourohdphp_in_urine
   varname: fourohdphp
 - id: ohehdphp
   unique_name: ohehdphp
@@ -5087,7 +5087,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - sampling
-  indicator: mass concentration of ohehdphp in urine
+  indicator: mass_concentration_of_ohehdphp_in_urine
   varname: ohehdphp
 - id: ohtboep
   unique_name: ohtboep
@@ -5107,7 +5107,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - sampling
-  indicator: mass concentration of ohtboep in urine
+  indicator: mass_concentration_of_ohtboep_in_urine
   varname: ohtboep
 - id: ohtphp
   unique_name: ohtphp
@@ -5127,7 +5127,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - sampling
-  indicator: mass concentration of ohtphp in urine
+  indicator: mass_concentration_of_ohtphp_in_urine
   varname: ohtphp
 - id: tcep
   unique_name: tcep
@@ -5147,7 +5147,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - sampling
-  indicator: mass concentration of tcep in urine
+  indicator: mass_concentration_of_tcep_in_urine
   varname: tcep
 - id: tcpy
   unique_name: tcpy
@@ -5167,7 +5167,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - sampling
-  indicator: mass concentration of tcpy in urine
+  indicator: mass_concentration_of_tcpy_in_urine
   varname: tcpy
 - id: cdcca
   unique_name: cdcca
@@ -5187,7 +5187,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - sampling
-  indicator: mass concentration of cdcca in urine
+  indicator: mass_concentration_of_cdcca_in_urine
   varname: cdcca
 - id: cisdbca
   unique_name: cisdbca
@@ -5207,7 +5207,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - sampling
-  indicator: mass concentration of cisdbca in urine
+  indicator: mass_concentration_of_cisdbca_in_urine
   varname: cisdbca
 - id: fpba
   unique_name: fpba
@@ -5227,7 +5227,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - sampling
-  indicator: mass concentration of fpba in urine
+  indicator: mass_concentration_of_fpba_in_urine
   varname: fpba
 - id: tdcca
   unique_name: tdcca
@@ -5247,7 +5247,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - sampling
-  indicator: mass concentration of tdcca in urine
+  indicator: mass_concentration_of_tdcca_in_urine
   varname: tdcca
 - id: threepba
   unique_name: threepba
@@ -5267,7 +5267,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - sampling
-  indicator: mass concentration of threepba in urine
+  indicator: mass_concentration_of_threepba_in_urine
   varname: threepba
 - id: cxmepp
   unique_name: cxmepp
@@ -5287,7 +5287,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - sampling
-  indicator: mass concentration of cxmepp in urine
+  indicator: mass_concentration_of_cxmepp_in_urine
   varname: cxmepp
 - id: cxmeptp
   unique_name: cxmeptp
@@ -5307,7 +5307,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - sampling
-  indicator: mass concentration of cxmeptp in urine
+  indicator: mass_concentration_of_cxmeptp_in_urine
   varname: cxmeptp
 - id: cxmidp
   unique_name: cxmidp
@@ -5327,7 +5327,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - sampling
-  indicator: mass concentration of cxmidp in urine
+  indicator: mass_concentration_of_cxmidp_in_urine
   varname: cxmidp
 - id: cxmmhtp
   unique_name: cxmmhtp
@@ -5347,7 +5347,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - sampling
-  indicator: mass concentration of cxmmhtp in urine
+  indicator: mass_concentration_of_cxmmhtp_in_urine
   varname: cxmmhtp
 - id: cxmphp
   unique_name: cxmphp
@@ -5367,7 +5367,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - sampling
-  indicator: mass concentration of cxmphp in urine
+  indicator: mass_concentration_of_cxmphp_in_urine
   varname: cxmphp
 - id: cxmphxp
   unique_name: cxmphxp
@@ -5387,7 +5387,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - sampling
-  indicator: mass concentration of cxmphxp in urine
+  indicator: mass_concentration_of_cxmphxp_in_urine
   varname: cxmphxp
 - id: mbzp
   unique_name: mbzp
@@ -5407,7 +5407,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - sampling
-  indicator: mass concentration of mbzp in urine
+  indicator: mass_concentration_of_mbzp_in_urine
   varname: mbzp
 - id: mcop
   unique_name: mcop
@@ -5427,7 +5427,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - sampling
-  indicator: mass concentration of mcop in urine
+  indicator: mass_concentration_of_mcop_in_urine
   varname: mcop
 - id: meha
   unique_name: meha
@@ -5447,7 +5447,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - sampling
-  indicator: mass concentration of meha in urine
+  indicator: mass_concentration_of_meha_in_urine
   varname: meha
 - id: mehp
   unique_name: mehp
@@ -5467,7 +5467,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - sampling
-  indicator: mass concentration of mehp in urine
+  indicator: mass_concentration_of_mehp_in_urine
   varname: mehp
 - id: mehtp
   unique_name: mehtp
@@ -5487,7 +5487,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - sampling
-  indicator: mass concentration of mehtp in urine
+  indicator: mass_concentration_of_mehtp_in_urine
   varname: mehtp
 - id: mep
   unique_name: mep
@@ -5507,7 +5507,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - sampling
-  indicator: mass concentration of mep in urine
+  indicator: mass_concentration_of_mep_in_urine
   varname: mep
 - id: mhnp
   unique_name: mhnp
@@ -5527,7 +5527,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - sampling
-  indicator: mass concentration of mhnp in urine
+  indicator: mass_concentration_of_mhnp_in_urine
   varname: mhnp
 - id: mibp
   unique_name: mibp
@@ -5547,7 +5547,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - sampling
-  indicator: mass concentration of mibp in urine
+  indicator: mass_concentration_of_mibp_in_urine
   varname: mibp
 - id: minp
   unique_name: minp
@@ -5567,7 +5567,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - sampling
-  indicator: mass concentration of minp in urine
+  indicator: mass_concentration_of_minp_in_urine
   varname: minp
 - id: mnbp
   unique_name: mnbp
@@ -5587,7 +5587,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - sampling
-  indicator: mass concentration of mnbp in urine
+  indicator: mass_concentration_of_mnbp_in_urine
   varname: mnbp
 - id: ohmeha
   unique_name: ohmeha
@@ -5607,7 +5607,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - sampling
-  indicator: mass concentration of ohmeha in urine
+  indicator: mass_concentration_of_ohmeha_in_urine
   varname: ohmeha
 - id: ohmehp
   unique_name: ohmehp
@@ -5627,7 +5627,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - sampling
-  indicator: mass concentration of ohmehp in urine
+  indicator: mass_concentration_of_ohmehp_in_urine
   varname: ohmehp
 - id: ohmehtp
   unique_name: ohmehtp
@@ -5647,7 +5647,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - sampling
-  indicator: mass concentration of ohmehtp in urine
+  indicator: mass_concentration_of_ohmehtp_in_urine
   varname: ohmehtp
 - id: ohmidp
   unique_name: ohmidp
@@ -5667,7 +5667,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - sampling
-  indicator: mass concentration of ohmidp in urine
+  indicator: mass_concentration_of_ohmidp_in_urine
   varname: ohmidp
 - id: ohmphp
   unique_name: ohmphp
@@ -5687,7 +5687,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - sampling
-  indicator: mass concentration of ohmphp in urine
+  indicator: mass_concentration_of_ohmphp_in_urine
   varname: ohmphp
 - id: ohmprhpp
   unique_name: ohmprhpp
@@ -5707,7 +5707,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - sampling
-  indicator: mass concentration of ohmprhpp in urine
+  indicator: mass_concentration_of_ohmprhpp_in_urine
   varname: ohmprhpp
 - id: onefourdehtm
   unique_name: onefourdehtm
@@ -5727,7 +5727,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - sampling
-  indicator: mass concentration of onefourdehtm in urine
+  indicator: mass_concentration_of_onefourdehtm_in_urine
   varname: onefourdehtm
 - id: oxomeha
   unique_name: oxomeha
@@ -5747,7 +5747,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - sampling
-  indicator: mass concentration of oxomeha in urine
+  indicator: mass_concentration_of_oxomeha_in_urine
   varname: oxomeha
 - id: oxomehp
   unique_name: oxomehp
@@ -5767,7 +5767,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - sampling
-  indicator: mass concentration of oxomehp in urine
+  indicator: mass_concentration_of_oxomehp_in_urine
   varname: oxomehp
 - id: oxomehtp
   unique_name: oxomehtp
@@ -5787,7 +5787,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - sampling
-  indicator: mass concentration of oxomehtp in urine
+  indicator: mass_concentration_of_oxomehtp_in_urine
   varname: oxomehtp
 - id: twofourdehtm
   unique_name: twofourdehtm
@@ -5807,7 +5807,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - sampling
-  indicator: mass concentration of twofourdehtm in urine
+  indicator: mass_concentration_of_twofourdehtm_in_urine
   varname: twofourdehtm
 - id: fourhphe_meb_crt
   unique_name: fourhphe - standardized for creatinine
@@ -5824,7 +5824,7 @@ observable_properties:
   default_observation_result_type: calculation
   relevant_observation_types:
   - sampling
-  indicator: fourhphe - standardized for creatinine
+  indicator: fourhphe_-_standardized_for_creatinine
   varname: fourhphe_meb_crt
   calculation_designs:
   - calculation_name: urine_measurement_creatinine_standardization
@@ -5861,7 +5861,7 @@ observable_properties:
   default_observation_result_type: calculation
   relevant_observation_types:
   - sampling
-  indicator: fourhphe - normalized for specific gravity
+  indicator: fourhphe_-_normalized_for_specific_gravity
   varname: fourhphe_meb_sg
   calculation_designs:
   - calculation_name: urine_measurement_specific_gravity_normalization
@@ -5897,7 +5897,7 @@ observable_properties:
   default_observation_result_type: calculation
   relevant_observation_types:
   - sampling
-  indicator: ninehfluo - standardized for creatinine
+  indicator: ninehfluo_-_standardized_for_creatinine
   varname: ninehfluo_meb_crt
   calculation_designs:
   - calculation_name: urine_measurement_creatinine_standardization
@@ -5934,7 +5934,7 @@ observable_properties:
   default_observation_result_type: calculation
   relevant_observation_types:
   - sampling
-  indicator: ninehfluo - normalized for specific gravity
+  indicator: ninehfluo_-_normalized_for_specific_gravity
   varname: ninehfluo_meb_sg
   calculation_designs:
   - calculation_name: urine_measurement_specific_gravity_normalization
@@ -5970,7 +5970,7 @@ observable_properties:
   default_observation_result_type: calculation
   relevant_observation_types:
   - sampling
-  indicator: ohpyr - standardized for creatinine
+  indicator: ohpyr_-_standardized_for_creatinine
   varname: ohpyr_meb_crt
   calculation_designs:
   - calculation_name: urine_measurement_creatinine_standardization
@@ -6007,7 +6007,7 @@ observable_properties:
   default_observation_result_type: calculation
   relevant_observation_types:
   - sampling
-  indicator: ohpyr - normalized for specific gravity
+  indicator: ohpyr_-_normalized_for_specific_gravity
   varname: ohpyr_meb_sg
   calculation_designs:
   - calculation_name: urine_measurement_specific_gravity_normalization
@@ -6043,7 +6043,7 @@ observable_properties:
   default_observation_result_type: calculation
   relevant_observation_types:
   - sampling
-  indicator: onehphe - standardized for creatinine
+  indicator: onehphe_-_standardized_for_creatinine
   varname: onehphe_meb_crt
   calculation_designs:
   - calculation_name: urine_measurement_creatinine_standardization
@@ -6080,7 +6080,7 @@ observable_properties:
   default_observation_result_type: calculation
   relevant_observation_types:
   - sampling
-  indicator: onehphe - normalized for specific gravity
+  indicator: onehphe_-_normalized_for_specific_gravity
   varname: onehphe_meb_sg
   calculation_designs:
   - calculation_name: urine_measurement_specific_gravity_normalization
@@ -6116,7 +6116,7 @@ observable_properties:
   default_observation_result_type: calculation
   relevant_observation_types:
   - sampling
-  indicator: oneohnap - standardized for creatinine
+  indicator: oneohnap_-_standardized_for_creatinine
   varname: oneohnap_meb_crt
   calculation_designs:
   - calculation_name: urine_measurement_creatinine_standardization
@@ -6153,7 +6153,7 @@ observable_properties:
   default_observation_result_type: calculation
   relevant_observation_types:
   - sampling
-  indicator: oneohnap - normalized for specific gravity
+  indicator: oneohnap_-_normalized_for_specific_gravity
   varname: oneohnap_meb_sg
   calculation_designs:
   - calculation_name: urine_measurement_specific_gravity_normalization
@@ -6189,7 +6189,7 @@ observable_properties:
   default_observation_result_type: calculation
   relevant_observation_types:
   - sampling
-  indicator: threehfluo - standardized for creatinine
+  indicator: threehfluo_-_standardized_for_creatinine
   varname: threehfluo_meb_crt
   calculation_designs:
   - calculation_name: urine_measurement_creatinine_standardization
@@ -6226,7 +6226,7 @@ observable_properties:
   default_observation_result_type: calculation
   relevant_observation_types:
   - sampling
-  indicator: threehfluo - normalized for specific gravity
+  indicator: threehfluo_-_normalized_for_specific_gravity
   varname: threehfluo_meb_sg
   calculation_designs:
   - calculation_name: urine_measurement_specific_gravity_normalization
@@ -6262,7 +6262,7 @@ observable_properties:
   default_observation_result_type: calculation
   relevant_observation_types:
   - sampling
-  indicator: threehphe - standardized for creatinine
+  indicator: threehphe_-_standardized_for_creatinine
   varname: threehphe_meb_crt
   calculation_designs:
   - calculation_name: urine_measurement_creatinine_standardization
@@ -6299,7 +6299,7 @@ observable_properties:
   default_observation_result_type: calculation
   relevant_observation_types:
   - sampling
-  indicator: threehphe - normalized for specific gravity
+  indicator: threehphe_-_normalized_for_specific_gravity
   varname: threehphe_meb_sg
   calculation_designs:
   - calculation_name: urine_measurement_specific_gravity_normalization
@@ -6335,7 +6335,7 @@ observable_properties:
   default_observation_result_type: calculation
   relevant_observation_types:
   - sampling
-  indicator: twohfluo - standardized for creatinine
+  indicator: twohfluo_-_standardized_for_creatinine
   varname: twohfluo_meb_crt
   calculation_designs:
   - calculation_name: urine_measurement_creatinine_standardization
@@ -6372,7 +6372,7 @@ observable_properties:
   default_observation_result_type: calculation
   relevant_observation_types:
   - sampling
-  indicator: twohfluo - normalized for specific gravity
+  indicator: twohfluo_-_normalized_for_specific_gravity
   varname: twohfluo_meb_sg
   calculation_designs:
   - calculation_name: urine_measurement_specific_gravity_normalization
@@ -6408,7 +6408,7 @@ observable_properties:
   default_observation_result_type: calculation
   relevant_observation_types:
   - sampling
-  indicator: twohphe - standardized for creatinine
+  indicator: twohphe_-_standardized_for_creatinine
   varname: twohphe_meb_crt
   calculation_designs:
   - calculation_name: urine_measurement_creatinine_standardization
@@ -6445,7 +6445,7 @@ observable_properties:
   default_observation_result_type: calculation
   relevant_observation_types:
   - sampling
-  indicator: twohphe - normalized for specific gravity
+  indicator: twohphe_-_normalized_for_specific_gravity
   varname: twohphe_meb_sg
   calculation_designs:
   - calculation_name: urine_measurement_specific_gravity_normalization
@@ -6481,7 +6481,7 @@ observable_properties:
   default_observation_result_type: calculation
   relevant_observation_types:
   - sampling
-  indicator: twoohnap - standardized for creatinine
+  indicator: twoohnap_-_standardized_for_creatinine
   varname: twoohnap_meb_crt
   calculation_designs:
   - calculation_name: urine_measurement_creatinine_standardization
@@ -6518,7 +6518,7 @@ observable_properties:
   default_observation_result_type: calculation
   relevant_observation_types:
   - sampling
-  indicator: twoohnap - normalized for specific gravity
+  indicator: twoohnap_-_normalized_for_specific_gravity
   varname: twoohnap_meb_sg
   calculation_designs:
   - calculation_name: urine_measurement_specific_gravity_normalization
@@ -6554,7 +6554,7 @@ observable_properties:
   default_observation_result_type: calculation
   relevant_observation_types:
   - sampling
-  indicator: bpa - standardized for creatinine
+  indicator: bpa_-_standardized_for_creatinine
   varname: bpa_meb_crt
   calculation_designs:
   - calculation_name: urine_measurement_creatinine_standardization
@@ -6591,7 +6591,7 @@ observable_properties:
   default_observation_result_type: calculation
   relevant_observation_types:
   - sampling
-  indicator: bpa - normalized for specific gravity
+  indicator: bpa_-_normalized_for_specific_gravity
   varname: bpa_meb_sg
   calculation_designs:
   - calculation_name: urine_measurement_specific_gravity_normalization
@@ -6627,7 +6627,7 @@ observable_properties:
   default_observation_result_type: calculation
   relevant_observation_types:
   - sampling
-  indicator: bpaf - standardized for creatinine
+  indicator: bpaf_-_standardized_for_creatinine
   varname: bpaf_meb_crt
   calculation_designs:
   - calculation_name: urine_measurement_creatinine_standardization
@@ -6664,7 +6664,7 @@ observable_properties:
   default_observation_result_type: calculation
   relevant_observation_types:
   - sampling
-  indicator: bpaf - normalized for specific gravity
+  indicator: bpaf_-_normalized_for_specific_gravity
   varname: bpaf_meb_sg
   calculation_designs:
   - calculation_name: urine_measurement_specific_gravity_normalization
@@ -6700,7 +6700,7 @@ observable_properties:
   default_observation_result_type: calculation
   relevant_observation_types:
   - sampling
-  indicator: bpb - standardized for creatinine
+  indicator: bpb_-_standardized_for_creatinine
   varname: bpb_meb_crt
   calculation_designs:
   - calculation_name: urine_measurement_creatinine_standardization
@@ -6737,7 +6737,7 @@ observable_properties:
   default_observation_result_type: calculation
   relevant_observation_types:
   - sampling
-  indicator: bpb - normalized for specific gravity
+  indicator: bpb_-_normalized_for_specific_gravity
   varname: bpb_meb_sg
   calculation_designs:
   - calculation_name: urine_measurement_specific_gravity_normalization
@@ -6773,7 +6773,7 @@ observable_properties:
   default_observation_result_type: calculation
   relevant_observation_types:
   - sampling
-  indicator: bpf - standardized for creatinine
+  indicator: bpf_-_standardized_for_creatinine
   varname: bpf_meb_crt
   calculation_designs:
   - calculation_name: urine_measurement_creatinine_standardization
@@ -6810,7 +6810,7 @@ observable_properties:
   default_observation_result_type: calculation
   relevant_observation_types:
   - sampling
-  indicator: bpf - normalized for specific gravity
+  indicator: bpf_-_normalized_for_specific_gravity
   varname: bpf_meb_sg
   calculation_designs:
   - calculation_name: urine_measurement_specific_gravity_normalization
@@ -6846,7 +6846,7 @@ observable_properties:
   default_observation_result_type: calculation
   relevant_observation_types:
   - sampling
-  indicator: bps - standardized for creatinine
+  indicator: bps_-_standardized_for_creatinine
   varname: bps_meb_crt
   calculation_designs:
   - calculation_name: urine_measurement_creatinine_standardization
@@ -6883,7 +6883,7 @@ observable_properties:
   default_observation_result_type: calculation
   relevant_observation_types:
   - sampling
-  indicator: bps - normalized for specific gravity
+  indicator: bps_-_normalized_for_specific_gravity
   varname: bps_meb_sg
   calculation_designs:
   - calculation_name: urine_measurement_specific_gravity_normalization
@@ -6919,7 +6919,7 @@ observable_properties:
   default_observation_result_type: calculation
   relevant_observation_types:
   - sampling
-  indicator: bpz - standardized for creatinine
+  indicator: bpz_-_standardized_for_creatinine
   varname: bpz_meb_crt
   calculation_designs:
   - calculation_name: urine_measurement_creatinine_standardization
@@ -6956,7 +6956,7 @@ observable_properties:
   default_observation_result_type: calculation
   relevant_observation_types:
   - sampling
-  indicator: bpz - normalized for specific gravity
+  indicator: bpz_-_normalized_for_specific_gravity
   varname: bpz_meb_sg
   calculation_designs:
   - calculation_name: urine_measurement_specific_gravity_normalization
@@ -6992,7 +6992,7 @@ observable_properties:
   default_observation_result_type: calculation
   relevant_observation_types:
   - sampling
-  indicator: mcoch - standardized for creatinine
+  indicator: mcoch_-_standardized_for_creatinine
   varname: mcoch_meb_crt
   calculation_designs:
   - calculation_name: urine_measurement_creatinine_standardization
@@ -7029,7 +7029,7 @@ observable_properties:
   default_observation_result_type: calculation
   relevant_observation_types:
   - sampling
-  indicator: mcoch - normalized for specific gravity
+  indicator: mcoch_-_normalized_for_specific_gravity
   varname: mcoch_meb_sg
   calculation_designs:
   - calculation_name: urine_measurement_specific_gravity_normalization
@@ -7065,7 +7065,7 @@ observable_properties:
   default_observation_result_type: calculation
   relevant_observation_types:
   - sampling
-  indicator: mhnch - standardized for creatinine
+  indicator: mhnch_-_standardized_for_creatinine
   varname: mhnch_meb_crt
   calculation_designs:
   - calculation_name: urine_measurement_creatinine_standardization
@@ -7102,7 +7102,7 @@ observable_properties:
   default_observation_result_type: calculation
   relevant_observation_types:
   - sampling
-  indicator: mhnch - normalized for specific gravity
+  indicator: mhnch_-_normalized_for_specific_gravity
   varname: mhnch_meb_sg
   calculation_designs:
   - calculation_name: urine_measurement_specific_gravity_normalization
@@ -7138,7 +7138,7 @@ observable_properties:
   default_observation_result_type: calculation
   relevant_observation_types:
   - sampling
-  indicator: minch - standardized for creatinine
+  indicator: minch_-_standardized_for_creatinine
   varname: minch_meb_crt
   calculation_designs:
   - calculation_name: urine_measurement_creatinine_standardization
@@ -7175,7 +7175,7 @@ observable_properties:
   default_observation_result_type: calculation
   relevant_observation_types:
   - sampling
-  indicator: minch - normalized for specific gravity
+  indicator: minch_-_normalized_for_specific_gravity
   varname: minch_meb_sg
   calculation_designs:
   - calculation_name: urine_measurement_specific_gravity_normalization
@@ -7211,7 +7211,7 @@ observable_properties:
   default_observation_result_type: calculation
   relevant_observation_types:
   - sampling
-  indicator: bboehep - standardized for creatinine
+  indicator: bboehep_-_standardized_for_creatinine
   varname: bboehep_meb_crt
   calculation_designs:
   - calculation_name: urine_measurement_creatinine_standardization
@@ -7248,7 +7248,7 @@ observable_properties:
   default_observation_result_type: calculation
   relevant_observation_types:
   - sampling
-  indicator: bboehep - normalized for specific gravity
+  indicator: bboehep_-_normalized_for_specific_gravity
   varname: bboehep_meb_sg
   calculation_designs:
   - calculation_name: urine_measurement_specific_gravity_normalization
@@ -7284,7 +7284,7 @@ observable_properties:
   default_observation_result_type: calculation
   relevant_observation_types:
   - sampling
-  indicator: bboephr - standardized for creatinine
+  indicator: bboephr_-_standardized_for_creatinine
   varname: bboephr_meb_crt
   calculation_designs:
   - calculation_name: urine_measurement_creatinine_standardization
@@ -7321,7 +7321,7 @@ observable_properties:
   default_observation_result_type: calculation
   relevant_observation_types:
   - sampling
-  indicator: bboephr - normalized for specific gravity
+  indicator: bboephr_-_normalized_for_specific_gravity
   varname: bboephr_meb_sg
   calculation_designs:
   - calculation_name: urine_measurement_specific_gravity_normalization
@@ -7357,7 +7357,7 @@ observable_properties:
   default_observation_result_type: calculation
   relevant_observation_types:
   - sampling
-  indicator: bcepms - standardized for creatinine
+  indicator: bcepms_-_standardized_for_creatinine
   varname: bcepms_meb_crt
   calculation_designs:
   - calculation_name: urine_measurement_creatinine_standardization
@@ -7394,7 +7394,7 @@ observable_properties:
   default_observation_result_type: calculation
   relevant_observation_types:
   - sampling
-  indicator: bcepms - normalized for specific gravity
+  indicator: bcepms_-_normalized_for_specific_gravity
   varname: bcepms_meb_sg
   calculation_designs:
   - calculation_name: urine_measurement_specific_gravity_normalization
@@ -7430,7 +7430,7 @@ observable_properties:
   default_observation_result_type: calculation
   relevant_observation_types:
   - sampling
-  indicator: bciphipp - standardized for creatinine
+  indicator: bciphipp_-_standardized_for_creatinine
   varname: bciphipp_meb_crt
   calculation_designs:
   - calculation_name: urine_measurement_creatinine_standardization
@@ -7467,7 +7467,7 @@ observable_properties:
   default_observation_result_type: calculation
   relevant_observation_types:
   - sampling
-  indicator: bciphipp - normalized for specific gravity
+  indicator: bciphipp_-_normalized_for_specific_gravity
   varname: bciphipp_meb_sg
   calculation_designs:
   - calculation_name: urine_measurement_specific_gravity_normalization
@@ -7503,7 +7503,7 @@ observable_properties:
   default_observation_result_type: calculation
   relevant_observation_types:
   - sampling
-  indicator: bcippms - standardized for creatinine
+  indicator: bcippms_-_standardized_for_creatinine
   varname: bcippms_meb_crt
   calculation_designs:
   - calculation_name: urine_measurement_creatinine_standardization
@@ -7540,7 +7540,7 @@ observable_properties:
   default_observation_result_type: calculation
   relevant_observation_types:
   - sampling
-  indicator: bcippms - normalized for specific gravity
+  indicator: bcippms_-_normalized_for_specific_gravity
   varname: bcippms_meb_sg
   calculation_designs:
   - calculation_name: urine_measurement_specific_gravity_normalization
@@ -7576,7 +7576,7 @@ observable_properties:
   default_observation_result_type: calculation
   relevant_observation_types:
   - sampling
-  indicator: bdcippms - standardized for creatinine
+  indicator: bdcippms_-_standardized_for_creatinine
   varname: bdcippms_meb_crt
   calculation_designs:
   - calculation_name: urine_measurement_creatinine_standardization
@@ -7613,7 +7613,7 @@ observable_properties:
   default_observation_result_type: calculation
   relevant_observation_types:
   - sampling
-  indicator: bdcippms - normalized for specific gravity
+  indicator: bdcippms_-_normalized_for_specific_gravity
   varname: bdcippms_meb_sg
   calculation_designs:
   - calculation_name: urine_measurement_specific_gravity_normalization
@@ -7649,7 +7649,7 @@ observable_properties:
   default_observation_result_type: calculation
   relevant_observation_types:
   - sampling
-  indicator: behp - standardized for creatinine
+  indicator: behp_-_standardized_for_creatinine
   varname: behp_meb_crt
   calculation_designs:
   - calculation_name: urine_measurement_creatinine_standardization
@@ -7686,7 +7686,7 @@ observable_properties:
   default_observation_result_type: calculation
   relevant_observation_types:
   - sampling
-  indicator: behp - normalized for specific gravity
+  indicator: behp_-_normalized_for_specific_gravity
   varname: behp_meb_sg
   calculation_designs:
   - calculation_name: urine_measurement_specific_gravity_normalization
@@ -7722,7 +7722,7 @@ observable_properties:
   default_observation_result_type: calculation
   relevant_observation_types:
   - sampling
-  indicator: dnbphr - standardized for creatinine
+  indicator: dnbphr_-_standardized_for_creatinine
   varname: dnbphr_meb_crt
   calculation_designs:
   - calculation_name: urine_measurement_creatinine_standardization
@@ -7759,7 +7759,7 @@ observable_properties:
   default_observation_result_type: calculation
   relevant_observation_types:
   - sampling
-  indicator: dnbphr - normalized for specific gravity
+  indicator: dnbphr_-_normalized_for_specific_gravity
   varname: dnbphr_meb_sg
   calculation_designs:
   - calculation_name: urine_measurement_specific_gravity_normalization
@@ -7795,7 +7795,7 @@ observable_properties:
   default_observation_result_type: calculation
   relevant_observation_types:
   - sampling
-  indicator: dphpms - standardized for creatinine
+  indicator: dphpms_-_standardized_for_creatinine
   varname: dphpms_meb_crt
   calculation_designs:
   - calculation_name: urine_measurement_creatinine_standardization
@@ -7832,7 +7832,7 @@ observable_properties:
   default_observation_result_type: calculation
   relevant_observation_types:
   - sampling
-  indicator: dphpms - normalized for specific gravity
+  indicator: dphpms_-_normalized_for_specific_gravity
   varname: dphpms_meb_sg
   calculation_designs:
   - calculation_name: urine_measurement_specific_gravity_normalization
@@ -7868,7 +7868,7 @@ observable_properties:
   default_observation_result_type: calculation
   relevant_observation_types:
   - sampling
-  indicator: ehphp - standardized for creatinine
+  indicator: ehphp_-_standardized_for_creatinine
   varname: ehphp_meb_crt
   calculation_designs:
   - calculation_name: urine_measurement_creatinine_standardization
@@ -7905,7 +7905,7 @@ observable_properties:
   default_observation_result_type: calculation
   relevant_observation_types:
   - sampling
-  indicator: ehphp - normalized for specific gravity
+  indicator: ehphp_-_normalized_for_specific_gravity
   varname: ehphp_meb_sg
   calculation_designs:
   - calculation_name: urine_measurement_specific_gravity_normalization
@@ -7941,7 +7941,7 @@ observable_properties:
   default_observation_result_type: calculation
   relevant_observation_types:
   - sampling
-  indicator: fourohdphp - standardized for creatinine
+  indicator: fourohdphp_-_standardized_for_creatinine
   varname: fourohdphp_meb_crt
   calculation_designs:
   - calculation_name: urine_measurement_creatinine_standardization
@@ -7978,7 +7978,7 @@ observable_properties:
   default_observation_result_type: calculation
   relevant_observation_types:
   - sampling
-  indicator: fourohdphp - normalized for specific gravity
+  indicator: fourohdphp_-_normalized_for_specific_gravity
   varname: fourohdphp_meb_sg
   calculation_designs:
   - calculation_name: urine_measurement_specific_gravity_normalization
@@ -8014,7 +8014,7 @@ observable_properties:
   default_observation_result_type: calculation
   relevant_observation_types:
   - sampling
-  indicator: ohehdphp - standardized for creatinine
+  indicator: ohehdphp_-_standardized_for_creatinine
   varname: ohehdphp_meb_crt
   calculation_designs:
   - calculation_name: urine_measurement_creatinine_standardization
@@ -8051,7 +8051,7 @@ observable_properties:
   default_observation_result_type: calculation
   relevant_observation_types:
   - sampling
-  indicator: ohehdphp - normalized for specific gravity
+  indicator: ohehdphp_-_normalized_for_specific_gravity
   varname: ohehdphp_meb_sg
   calculation_designs:
   - calculation_name: urine_measurement_specific_gravity_normalization
@@ -8087,7 +8087,7 @@ observable_properties:
   default_observation_result_type: calculation
   relevant_observation_types:
   - sampling
-  indicator: ohtboep - standardized for creatinine
+  indicator: ohtboep_-_standardized_for_creatinine
   varname: ohtboep_meb_crt
   calculation_designs:
   - calculation_name: urine_measurement_creatinine_standardization
@@ -8124,7 +8124,7 @@ observable_properties:
   default_observation_result_type: calculation
   relevant_observation_types:
   - sampling
-  indicator: ohtboep - normalized for specific gravity
+  indicator: ohtboep_-_normalized_for_specific_gravity
   varname: ohtboep_meb_sg
   calculation_designs:
   - calculation_name: urine_measurement_specific_gravity_normalization
@@ -8160,7 +8160,7 @@ observable_properties:
   default_observation_result_type: calculation
   relevant_observation_types:
   - sampling
-  indicator: ohtphp - standardized for creatinine
+  indicator: ohtphp_-_standardized_for_creatinine
   varname: ohtphp_meb_crt
   calculation_designs:
   - calculation_name: urine_measurement_creatinine_standardization
@@ -8197,7 +8197,7 @@ observable_properties:
   default_observation_result_type: calculation
   relevant_observation_types:
   - sampling
-  indicator: ohtphp - normalized for specific gravity
+  indicator: ohtphp_-_normalized_for_specific_gravity
   varname: ohtphp_meb_sg
   calculation_designs:
   - calculation_name: urine_measurement_specific_gravity_normalization
@@ -8233,7 +8233,7 @@ observable_properties:
   default_observation_result_type: calculation
   relevant_observation_types:
   - sampling
-  indicator: tcep - standardized for creatinine
+  indicator: tcep_-_standardized_for_creatinine
   varname: tcep_meb_crt
   calculation_designs:
   - calculation_name: urine_measurement_creatinine_standardization
@@ -8270,7 +8270,7 @@ observable_properties:
   default_observation_result_type: calculation
   relevant_observation_types:
   - sampling
-  indicator: tcep - normalized for specific gravity
+  indicator: tcep_-_normalized_for_specific_gravity
   varname: tcep_meb_sg
   calculation_designs:
   - calculation_name: urine_measurement_specific_gravity_normalization
@@ -8306,7 +8306,7 @@ observable_properties:
   default_observation_result_type: calculation
   relevant_observation_types:
   - sampling
-  indicator: tcpy - standardized for creatinine
+  indicator: tcpy_-_standardized_for_creatinine
   varname: tcpy_meb_crt
   calculation_designs:
   - calculation_name: urine_measurement_creatinine_standardization
@@ -8343,7 +8343,7 @@ observable_properties:
   default_observation_result_type: calculation
   relevant_observation_types:
   - sampling
-  indicator: tcpy - normalized for specific gravity
+  indicator: tcpy_-_normalized_for_specific_gravity
   varname: tcpy_meb_sg
   calculation_designs:
   - calculation_name: urine_measurement_specific_gravity_normalization
@@ -8379,7 +8379,7 @@ observable_properties:
   default_observation_result_type: calculation
   relevant_observation_types:
   - sampling
-  indicator: cdcca - standardized for creatinine
+  indicator: cdcca_-_standardized_for_creatinine
   varname: cdcca_meb_crt
   calculation_designs:
   - calculation_name: urine_measurement_creatinine_standardization
@@ -8416,7 +8416,7 @@ observable_properties:
   default_observation_result_type: calculation
   relevant_observation_types:
   - sampling
-  indicator: cdcca - normalized for specific gravity
+  indicator: cdcca_-_normalized_for_specific_gravity
   varname: cdcca_meb_sg
   calculation_designs:
   - calculation_name: urine_measurement_specific_gravity_normalization
@@ -8452,7 +8452,7 @@ observable_properties:
   default_observation_result_type: calculation
   relevant_observation_types:
   - sampling
-  indicator: cisdbca - standardized for creatinine
+  indicator: cisdbca_-_standardized_for_creatinine
   varname: cisdbca_meb_crt
   calculation_designs:
   - calculation_name: urine_measurement_creatinine_standardization
@@ -8489,7 +8489,7 @@ observable_properties:
   default_observation_result_type: calculation
   relevant_observation_types:
   - sampling
-  indicator: cisdbca - normalized for specific gravity
+  indicator: cisdbca_-_normalized_for_specific_gravity
   varname: cisdbca_meb_sg
   calculation_designs:
   - calculation_name: urine_measurement_specific_gravity_normalization
@@ -8525,7 +8525,7 @@ observable_properties:
   default_observation_result_type: calculation
   relevant_observation_types:
   - sampling
-  indicator: fpba - standardized for creatinine
+  indicator: fpba_-_standardized_for_creatinine
   varname: fpba_meb_crt
   calculation_designs:
   - calculation_name: urine_measurement_creatinine_standardization
@@ -8562,7 +8562,7 @@ observable_properties:
   default_observation_result_type: calculation
   relevant_observation_types:
   - sampling
-  indicator: fpba - normalized for specific gravity
+  indicator: fpba_-_normalized_for_specific_gravity
   varname: fpba_meb_sg
   calculation_designs:
   - calculation_name: urine_measurement_specific_gravity_normalization
@@ -8598,7 +8598,7 @@ observable_properties:
   default_observation_result_type: calculation
   relevant_observation_types:
   - sampling
-  indicator: tdcca - standardized for creatinine
+  indicator: tdcca_-_standardized_for_creatinine
   varname: tdcca_meb_crt
   calculation_designs:
   - calculation_name: urine_measurement_creatinine_standardization
@@ -8635,7 +8635,7 @@ observable_properties:
   default_observation_result_type: calculation
   relevant_observation_types:
   - sampling
-  indicator: tdcca - normalized for specific gravity
+  indicator: tdcca_-_normalized_for_specific_gravity
   varname: tdcca_meb_sg
   calculation_designs:
   - calculation_name: urine_measurement_specific_gravity_normalization
@@ -8671,7 +8671,7 @@ observable_properties:
   default_observation_result_type: calculation
   relevant_observation_types:
   - sampling
-  indicator: threepba - standardized for creatinine
+  indicator: threepba_-_standardized_for_creatinine
   varname: threepba_meb_crt
   calculation_designs:
   - calculation_name: urine_measurement_creatinine_standardization
@@ -8708,7 +8708,7 @@ observable_properties:
   default_observation_result_type: calculation
   relevant_observation_types:
   - sampling
-  indicator: threepba - normalized for specific gravity
+  indicator: threepba_-_normalized_for_specific_gravity
   varname: threepba_meb_sg
   calculation_designs:
   - calculation_name: urine_measurement_specific_gravity_normalization
@@ -8744,7 +8744,7 @@ observable_properties:
   default_observation_result_type: calculation
   relevant_observation_types:
   - sampling
-  indicator: cxmepp - standardized for creatinine
+  indicator: cxmepp_-_standardized_for_creatinine
   varname: cxmepp_meb_crt
   calculation_designs:
   - calculation_name: urine_measurement_creatinine_standardization
@@ -8781,7 +8781,7 @@ observable_properties:
   default_observation_result_type: calculation
   relevant_observation_types:
   - sampling
-  indicator: cxmepp - normalized for specific gravity
+  indicator: cxmepp_-_normalized_for_specific_gravity
   varname: cxmepp_meb_sg
   calculation_designs:
   - calculation_name: urine_measurement_specific_gravity_normalization
@@ -8817,7 +8817,7 @@ observable_properties:
   default_observation_result_type: calculation
   relevant_observation_types:
   - sampling
-  indicator: cxmeptp - standardized for creatinine
+  indicator: cxmeptp_-_standardized_for_creatinine
   varname: cxmeptp_meb_crt
   calculation_designs:
   - calculation_name: urine_measurement_creatinine_standardization
@@ -8854,7 +8854,7 @@ observable_properties:
   default_observation_result_type: calculation
   relevant_observation_types:
   - sampling
-  indicator: cxmeptp - normalized for specific gravity
+  indicator: cxmeptp_-_normalized_for_specific_gravity
   varname: cxmeptp_meb_sg
   calculation_designs:
   - calculation_name: urine_measurement_specific_gravity_normalization
@@ -8890,7 +8890,7 @@ observable_properties:
   default_observation_result_type: calculation
   relevant_observation_types:
   - sampling
-  indicator: cxmidp - standardized for creatinine
+  indicator: cxmidp_-_standardized_for_creatinine
   varname: cxmidp_meb_crt
   calculation_designs:
   - calculation_name: urine_measurement_creatinine_standardization
@@ -8927,7 +8927,7 @@ observable_properties:
   default_observation_result_type: calculation
   relevant_observation_types:
   - sampling
-  indicator: cxmidp - normalized for specific gravity
+  indicator: cxmidp_-_normalized_for_specific_gravity
   varname: cxmidp_meb_sg
   calculation_designs:
   - calculation_name: urine_measurement_specific_gravity_normalization
@@ -8963,7 +8963,7 @@ observable_properties:
   default_observation_result_type: calculation
   relevant_observation_types:
   - sampling
-  indicator: cxmmhtp - standardized for creatinine
+  indicator: cxmmhtp_-_standardized_for_creatinine
   varname: cxmmhtp_meb_crt
   calculation_designs:
   - calculation_name: urine_measurement_creatinine_standardization
@@ -9000,7 +9000,7 @@ observable_properties:
   default_observation_result_type: calculation
   relevant_observation_types:
   - sampling
-  indicator: cxmmhtp - normalized for specific gravity
+  indicator: cxmmhtp_-_normalized_for_specific_gravity
   varname: cxmmhtp_meb_sg
   calculation_designs:
   - calculation_name: urine_measurement_specific_gravity_normalization
@@ -9036,7 +9036,7 @@ observable_properties:
   default_observation_result_type: calculation
   relevant_observation_types:
   - sampling
-  indicator: cxmphp - standardized for creatinine
+  indicator: cxmphp_-_standardized_for_creatinine
   varname: cxmphp_meb_crt
   calculation_designs:
   - calculation_name: urine_measurement_creatinine_standardization
@@ -9073,7 +9073,7 @@ observable_properties:
   default_observation_result_type: calculation
   relevant_observation_types:
   - sampling
-  indicator: cxmphp - normalized for specific gravity
+  indicator: cxmphp_-_normalized_for_specific_gravity
   varname: cxmphp_meb_sg
   calculation_designs:
   - calculation_name: urine_measurement_specific_gravity_normalization
@@ -9109,7 +9109,7 @@ observable_properties:
   default_observation_result_type: calculation
   relevant_observation_types:
   - sampling
-  indicator: cxmphxp - standardized for creatinine
+  indicator: cxmphxp_-_standardized_for_creatinine
   varname: cxmphxp_meb_crt
   calculation_designs:
   - calculation_name: urine_measurement_creatinine_standardization
@@ -9146,7 +9146,7 @@ observable_properties:
   default_observation_result_type: calculation
   relevant_observation_types:
   - sampling
-  indicator: cxmphxp - normalized for specific gravity
+  indicator: cxmphxp_-_normalized_for_specific_gravity
   varname: cxmphxp_meb_sg
   calculation_designs:
   - calculation_name: urine_measurement_specific_gravity_normalization
@@ -9182,7 +9182,7 @@ observable_properties:
   default_observation_result_type: calculation
   relevant_observation_types:
   - sampling
-  indicator: mbzp - standardized for creatinine
+  indicator: mbzp_-_standardized_for_creatinine
   varname: mbzp_meb_crt
   calculation_designs:
   - calculation_name: urine_measurement_creatinine_standardization
@@ -9219,7 +9219,7 @@ observable_properties:
   default_observation_result_type: calculation
   relevant_observation_types:
   - sampling
-  indicator: mbzp - normalized for specific gravity
+  indicator: mbzp_-_normalized_for_specific_gravity
   varname: mbzp_meb_sg
   calculation_designs:
   - calculation_name: urine_measurement_specific_gravity_normalization
@@ -9255,7 +9255,7 @@ observable_properties:
   default_observation_result_type: calculation
   relevant_observation_types:
   - sampling
-  indicator: mcop - standardized for creatinine
+  indicator: mcop_-_standardized_for_creatinine
   varname: mcop_meb_crt
   calculation_designs:
   - calculation_name: urine_measurement_creatinine_standardization
@@ -9292,7 +9292,7 @@ observable_properties:
   default_observation_result_type: calculation
   relevant_observation_types:
   - sampling
-  indicator: mcop - normalized for specific gravity
+  indicator: mcop_-_normalized_for_specific_gravity
   varname: mcop_meb_sg
   calculation_designs:
   - calculation_name: urine_measurement_specific_gravity_normalization
@@ -9328,7 +9328,7 @@ observable_properties:
   default_observation_result_type: calculation
   relevant_observation_types:
   - sampling
-  indicator: meha - standardized for creatinine
+  indicator: meha_-_standardized_for_creatinine
   varname: meha_meb_crt
   calculation_designs:
   - calculation_name: urine_measurement_creatinine_standardization
@@ -9365,7 +9365,7 @@ observable_properties:
   default_observation_result_type: calculation
   relevant_observation_types:
   - sampling
-  indicator: meha - normalized for specific gravity
+  indicator: meha_-_normalized_for_specific_gravity
   varname: meha_meb_sg
   calculation_designs:
   - calculation_name: urine_measurement_specific_gravity_normalization
@@ -9401,7 +9401,7 @@ observable_properties:
   default_observation_result_type: calculation
   relevant_observation_types:
   - sampling
-  indicator: mehp - standardized for creatinine
+  indicator: mehp_-_standardized_for_creatinine
   varname: mehp_meb_crt
   calculation_designs:
   - calculation_name: urine_measurement_creatinine_standardization
@@ -9438,7 +9438,7 @@ observable_properties:
   default_observation_result_type: calculation
   relevant_observation_types:
   - sampling
-  indicator: mehp - normalized for specific gravity
+  indicator: mehp_-_normalized_for_specific_gravity
   varname: mehp_meb_sg
   calculation_designs:
   - calculation_name: urine_measurement_specific_gravity_normalization
@@ -9474,7 +9474,7 @@ observable_properties:
   default_observation_result_type: calculation
   relevant_observation_types:
   - sampling
-  indicator: mehtp - standardized for creatinine
+  indicator: mehtp_-_standardized_for_creatinine
   varname: mehtp_meb_crt
   calculation_designs:
   - calculation_name: urine_measurement_creatinine_standardization
@@ -9511,7 +9511,7 @@ observable_properties:
   default_observation_result_type: calculation
   relevant_observation_types:
   - sampling
-  indicator: mehtp - normalized for specific gravity
+  indicator: mehtp_-_normalized_for_specific_gravity
   varname: mehtp_meb_sg
   calculation_designs:
   - calculation_name: urine_measurement_specific_gravity_normalization
@@ -9547,7 +9547,7 @@ observable_properties:
   default_observation_result_type: calculation
   relevant_observation_types:
   - sampling
-  indicator: mep - standardized for creatinine
+  indicator: mep_-_standardized_for_creatinine
   varname: mep_meb_crt
   calculation_designs:
   - calculation_name: urine_measurement_creatinine_standardization
@@ -9584,7 +9584,7 @@ observable_properties:
   default_observation_result_type: calculation
   relevant_observation_types:
   - sampling
-  indicator: mep - normalized for specific gravity
+  indicator: mep_-_normalized_for_specific_gravity
   varname: mep_meb_sg
   calculation_designs:
   - calculation_name: urine_measurement_specific_gravity_normalization
@@ -9620,7 +9620,7 @@ observable_properties:
   default_observation_result_type: calculation
   relevant_observation_types:
   - sampling
-  indicator: mhnp - standardized for creatinine
+  indicator: mhnp_-_standardized_for_creatinine
   varname: mhnp_meb_crt
   calculation_designs:
   - calculation_name: urine_measurement_creatinine_standardization
@@ -9657,7 +9657,7 @@ observable_properties:
   default_observation_result_type: calculation
   relevant_observation_types:
   - sampling
-  indicator: mhnp - normalized for specific gravity
+  indicator: mhnp_-_normalized_for_specific_gravity
   varname: mhnp_meb_sg
   calculation_designs:
   - calculation_name: urine_measurement_specific_gravity_normalization
@@ -9693,7 +9693,7 @@ observable_properties:
   default_observation_result_type: calculation
   relevant_observation_types:
   - sampling
-  indicator: mibp - standardized for creatinine
+  indicator: mibp_-_standardized_for_creatinine
   varname: mibp_meb_crt
   calculation_designs:
   - calculation_name: urine_measurement_creatinine_standardization
@@ -9730,7 +9730,7 @@ observable_properties:
   default_observation_result_type: calculation
   relevant_observation_types:
   - sampling
-  indicator: mibp - normalized for specific gravity
+  indicator: mibp_-_normalized_for_specific_gravity
   varname: mibp_meb_sg
   calculation_designs:
   - calculation_name: urine_measurement_specific_gravity_normalization
@@ -9766,7 +9766,7 @@ observable_properties:
   default_observation_result_type: calculation
   relevant_observation_types:
   - sampling
-  indicator: minp - standardized for creatinine
+  indicator: minp_-_standardized_for_creatinine
   varname: minp_meb_crt
   calculation_designs:
   - calculation_name: urine_measurement_creatinine_standardization
@@ -9803,7 +9803,7 @@ observable_properties:
   default_observation_result_type: calculation
   relevant_observation_types:
   - sampling
-  indicator: minp - normalized for specific gravity
+  indicator: minp_-_normalized_for_specific_gravity
   varname: minp_meb_sg
   calculation_designs:
   - calculation_name: urine_measurement_specific_gravity_normalization
@@ -9839,7 +9839,7 @@ observable_properties:
   default_observation_result_type: calculation
   relevant_observation_types:
   - sampling
-  indicator: mnbp - standardized for creatinine
+  indicator: mnbp_-_standardized_for_creatinine
   varname: mnbp_meb_crt
   calculation_designs:
   - calculation_name: urine_measurement_creatinine_standardization
@@ -9876,7 +9876,7 @@ observable_properties:
   default_observation_result_type: calculation
   relevant_observation_types:
   - sampling
-  indicator: mnbp - normalized for specific gravity
+  indicator: mnbp_-_normalized_for_specific_gravity
   varname: mnbp_meb_sg
   calculation_designs:
   - calculation_name: urine_measurement_specific_gravity_normalization
@@ -9912,7 +9912,7 @@ observable_properties:
   default_observation_result_type: calculation
   relevant_observation_types:
   - sampling
-  indicator: ohmeha - standardized for creatinine
+  indicator: ohmeha_-_standardized_for_creatinine
   varname: ohmeha_meb_crt
   calculation_designs:
   - calculation_name: urine_measurement_creatinine_standardization
@@ -9949,7 +9949,7 @@ observable_properties:
   default_observation_result_type: calculation
   relevant_observation_types:
   - sampling
-  indicator: ohmeha - normalized for specific gravity
+  indicator: ohmeha_-_normalized_for_specific_gravity
   varname: ohmeha_meb_sg
   calculation_designs:
   - calculation_name: urine_measurement_specific_gravity_normalization
@@ -9985,7 +9985,7 @@ observable_properties:
   default_observation_result_type: calculation
   relevant_observation_types:
   - sampling
-  indicator: ohmehp - standardized for creatinine
+  indicator: ohmehp_-_standardized_for_creatinine
   varname: ohmehp_meb_crt
   calculation_designs:
   - calculation_name: urine_measurement_creatinine_standardization
@@ -10022,7 +10022,7 @@ observable_properties:
   default_observation_result_type: calculation
   relevant_observation_types:
   - sampling
-  indicator: ohmehp - normalized for specific gravity
+  indicator: ohmehp_-_normalized_for_specific_gravity
   varname: ohmehp_meb_sg
   calculation_designs:
   - calculation_name: urine_measurement_specific_gravity_normalization
@@ -10058,7 +10058,7 @@ observable_properties:
   default_observation_result_type: calculation
   relevant_observation_types:
   - sampling
-  indicator: ohmehtp - standardized for creatinine
+  indicator: ohmehtp_-_standardized_for_creatinine
   varname: ohmehtp_meb_crt
   calculation_designs:
   - calculation_name: urine_measurement_creatinine_standardization
@@ -10095,7 +10095,7 @@ observable_properties:
   default_observation_result_type: calculation
   relevant_observation_types:
   - sampling
-  indicator: ohmehtp - normalized for specific gravity
+  indicator: ohmehtp_-_normalized_for_specific_gravity
   varname: ohmehtp_meb_sg
   calculation_designs:
   - calculation_name: urine_measurement_specific_gravity_normalization
@@ -10131,7 +10131,7 @@ observable_properties:
   default_observation_result_type: calculation
   relevant_observation_types:
   - sampling
-  indicator: ohmidp - standardized for creatinine
+  indicator: ohmidp_-_standardized_for_creatinine
   varname: ohmidp_meb_crt
   calculation_designs:
   - calculation_name: urine_measurement_creatinine_standardization
@@ -10168,7 +10168,7 @@ observable_properties:
   default_observation_result_type: calculation
   relevant_observation_types:
   - sampling
-  indicator: ohmidp - normalized for specific gravity
+  indicator: ohmidp_-_normalized_for_specific_gravity
   varname: ohmidp_meb_sg
   calculation_designs:
   - calculation_name: urine_measurement_specific_gravity_normalization
@@ -10204,7 +10204,7 @@ observable_properties:
   default_observation_result_type: calculation
   relevant_observation_types:
   - sampling
-  indicator: ohmphp - standardized for creatinine
+  indicator: ohmphp_-_standardized_for_creatinine
   varname: ohmphp_meb_crt
   calculation_designs:
   - calculation_name: urine_measurement_creatinine_standardization
@@ -10241,7 +10241,7 @@ observable_properties:
   default_observation_result_type: calculation
   relevant_observation_types:
   - sampling
-  indicator: ohmphp - normalized for specific gravity
+  indicator: ohmphp_-_normalized_for_specific_gravity
   varname: ohmphp_meb_sg
   calculation_designs:
   - calculation_name: urine_measurement_specific_gravity_normalization
@@ -10277,7 +10277,7 @@ observable_properties:
   default_observation_result_type: calculation
   relevant_observation_types:
   - sampling
-  indicator: ohmprhpp - standardized for creatinine
+  indicator: ohmprhpp_-_standardized_for_creatinine
   varname: ohmprhpp_meb_crt
   calculation_designs:
   - calculation_name: urine_measurement_creatinine_standardization
@@ -10314,7 +10314,7 @@ observable_properties:
   default_observation_result_type: calculation
   relevant_observation_types:
   - sampling
-  indicator: ohmprhpp - normalized for specific gravity
+  indicator: ohmprhpp_-_normalized_for_specific_gravity
   varname: ohmprhpp_meb_sg
   calculation_designs:
   - calculation_name: urine_measurement_specific_gravity_normalization
@@ -10350,7 +10350,7 @@ observable_properties:
   default_observation_result_type: calculation
   relevant_observation_types:
   - sampling
-  indicator: onefourdehtm - standardized for creatinine
+  indicator: onefourdehtm_-_standardized_for_creatinine
   varname: onefourdehtm_meb_crt
   calculation_designs:
   - calculation_name: urine_measurement_creatinine_standardization
@@ -10387,7 +10387,7 @@ observable_properties:
   default_observation_result_type: calculation
   relevant_observation_types:
   - sampling
-  indicator: onefourdehtm - normalized for specific gravity
+  indicator: onefourdehtm_-_normalized_for_specific_gravity
   varname: onefourdehtm_meb_sg
   calculation_designs:
   - calculation_name: urine_measurement_specific_gravity_normalization
@@ -10423,7 +10423,7 @@ observable_properties:
   default_observation_result_type: calculation
   relevant_observation_types:
   - sampling
-  indicator: oxomeha - standardized for creatinine
+  indicator: oxomeha_-_standardized_for_creatinine
   varname: oxomeha_meb_crt
   calculation_designs:
   - calculation_name: urine_measurement_creatinine_standardization
@@ -10460,7 +10460,7 @@ observable_properties:
   default_observation_result_type: calculation
   relevant_observation_types:
   - sampling
-  indicator: oxomeha - normalized for specific gravity
+  indicator: oxomeha_-_normalized_for_specific_gravity
   varname: oxomeha_meb_sg
   calculation_designs:
   - calculation_name: urine_measurement_specific_gravity_normalization
@@ -10496,7 +10496,7 @@ observable_properties:
   default_observation_result_type: calculation
   relevant_observation_types:
   - sampling
-  indicator: oxomehp - standardized for creatinine
+  indicator: oxomehp_-_standardized_for_creatinine
   varname: oxomehp_meb_crt
   calculation_designs:
   - calculation_name: urine_measurement_creatinine_standardization
@@ -10533,7 +10533,7 @@ observable_properties:
   default_observation_result_type: calculation
   relevant_observation_types:
   - sampling
-  indicator: oxomehp - normalized for specific gravity
+  indicator: oxomehp_-_normalized_for_specific_gravity
   varname: oxomehp_meb_sg
   calculation_designs:
   - calculation_name: urine_measurement_specific_gravity_normalization
@@ -10569,7 +10569,7 @@ observable_properties:
   default_observation_result_type: calculation
   relevant_observation_types:
   - sampling
-  indicator: oxomehtp - standardized for creatinine
+  indicator: oxomehtp_-_standardized_for_creatinine
   varname: oxomehtp_meb_crt
   calculation_designs:
   - calculation_name: urine_measurement_creatinine_standardization
@@ -10606,7 +10606,7 @@ observable_properties:
   default_observation_result_type: calculation
   relevant_observation_types:
   - sampling
-  indicator: oxomehtp - normalized for specific gravity
+  indicator: oxomehtp_-_normalized_for_specific_gravity
   varname: oxomehtp_meb_sg
   calculation_designs:
   - calculation_name: urine_measurement_specific_gravity_normalization
@@ -10642,7 +10642,7 @@ observable_properties:
   default_observation_result_type: calculation
   relevant_observation_types:
   - sampling
-  indicator: twofourdehtm - standardized for creatinine
+  indicator: twofourdehtm_-_standardized_for_creatinine
   varname: twofourdehtm_meb_crt
   calculation_designs:
   - calculation_name: urine_measurement_creatinine_standardization
@@ -10679,7 +10679,7 @@ observable_properties:
   default_observation_result_type: calculation
   relevant_observation_types:
   - sampling
-  indicator: twofourdehtm - normalized for specific gravity
+  indicator: twofourdehtm_-_normalized_for_specific_gravity
   varname: twofourdehtm_meb_sg
   calculation_designs:
   - calculation_name: urine_measurement_specific_gravity_normalization
@@ -10700,7 +10700,7 @@ observable_properties:
       function_results:
       - value_type: decimal
         unit: MicroGM-PER-GM
-- id: Exposure Biomarker measured
+- id: Exposure_Biomarker_measured
   unique_name: Exposure Biomarker measured
   name: Exposure Biomarker measured
   label: Exposure Biomarker measured
@@ -10716,7 +10716,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: LOD - available
+- id: LOD_-_available
   unique_name: LOD - available
   name: LOD - available
   label: LOD - available
@@ -10729,7 +10729,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Provide the limit of detection (LOD) for the selected biomarker
+- id: Provide_the_limit_of_detection_(LOD)_for_the_selected_biomarker
   unique_name: Provide the limit of detection (LOD) for the selected biomarker
   name: Provide the limit of detection (LOD) for the selected biomarker
   description: Provide value
@@ -10743,7 +10743,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Unit of measure LOD
+- id: Unit_of_measure_LOD
   unique_name: Unit of measure LOD
   name: Unit of measure LOD
   description: Unit of measure LOD
@@ -10760,7 +10760,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Definition LOD
+- id: Definition_LOD
   unique_name: Definition LOD
   name: Definition LOD
   description: Specifiy the definition used to define the LOD
@@ -10785,7 +10785,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Definition LOD - Other
+- id: Definition_LOD_-_Other
   unique_name: Definition LOD - Other
   name: Definition LOD - Other
   description: In case of "other Definition LOD" please specify
@@ -10799,7 +10799,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: LOQ - available
+- id: LOQ_-_available
   unique_name: LOQ - available
   name: LOQ - available
   label: LOQ - available
@@ -10812,7 +10812,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Provide the limit of quantification (LOQ) for the selected biomarker
+- id: Provide_the_limit_of_quantification_(LOQ)_for_the_selected_biomarker
   unique_name: Provide the limit of quantification (LOQ) for the selected biomarker
   name: Provide the limit of quantification (LOQ) for the selected biomarker
   description: Provide value
@@ -10826,7 +10826,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Unit of measure LOQ
+- id: Unit_of_measure_LOQ
   unique_name: Unit of measure LOQ
   name: Unit of measure LOQ
   description: Unit of measure LOD
@@ -10843,7 +10843,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Definition LOQ
+- id: Definition_LOQ
   unique_name: Definition LOQ
   name: Definition LOQ
   description: Specifiy the definition used to define the LOQ
@@ -10878,7 +10878,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Definition LOQ - Other
+- id: Definition_LOQ_-_Other
   unique_name: Definition LOQ - Other
   name: Definition LOQ - Other
   label: Definition LOQ - Other
@@ -10891,7 +10891,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Number of samples analysed
+- id: Number_of_samples_analysed
   unique_name: Number of samples analysed
   name: Number of samples analysed
   label: Number of samples analysed
@@ -10904,7 +10904,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Number of samples below LOD
+- id: Number_of_samples_below_LOD
   unique_name: Number of samples below LOD
   name: Number of samples below LOD
   label: Number of samples below LOD
@@ -10917,7 +10917,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Number of samples below LOQ
+- id: Number_of_samples_below_LOQ
   unique_name: Number of samples below LOQ
   name: Number of samples below LOQ
   label: Number of samples below LOQ
@@ -10930,7 +10930,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Institution name of the laboratory performing the chemical analysis
+- id: Institution_name_of_the_laboratory_performing_the_chemical_analysis
   unique_name: Institution name of the laboratory performing the chemical analysis
   name: Institution name of the laboratory performing the chemical analysis
   label: Institution name of the laboratory performing the chemical analysis
@@ -10943,7 +10943,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Country of the laboratory performing the chemical analysis
+- id: Country_of_the_laboratory_performing_the_chemical_analysis
   unique_name: Country of the laboratory performing the chemical analysis
   name: Country of the laboratory performing the chemical analysis
   label: Country of the laboratory performing the chemical analysis
@@ -10959,8 +10959,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: if applicable; name of the group within the institution/laboratory performing
-    the chemical analysis
+- id: if_applicable;_name_of_the_group_within_the_institution/laboratory_performing_the_chemical_analysis
   unique_name: if applicable; name of the group within the institution/laboratory
     performing the chemical analysis
   name: if applicable; name of the group within the institution/laboratory performing
@@ -10976,7 +10975,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Analytical method used
+- id: Analytical_method_used
   unique_name: Analytical method used
   name: Analytical method used
   label: Analytical method used
@@ -11044,7 +11043,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Specify "other" Analytical method
+- id: Specify_other_Analytical_method
   unique_name: Specify "other" Analytical method
   name: Specify "other" Analytical method
   description: If none of the analytical methods provided are relevant for your analysis,
@@ -11060,7 +11059,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: List successful participation in proficiency tests (PTs)
+- id: List_successful_participation_in_proficiency_tests_(PTs)
   unique_name: List successful participation in proficiency tests (PTs)
   name: List successful participation in proficiency tests (PTs)
   description: indicate participation in PT scheme, not longer ago than 2 years before
@@ -11099,7 +11098,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Specify "other" PTs
+- id: Specify_other_PTs
   unique_name: Specify "other" PTs
   name: Specify "other" PTs
   description: If none of the aformentioned proficiency tests are relevant for your
@@ -11115,7 +11114,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Sample preparation method
+- id: Sample_preparation_method
   unique_name: Sample preparation method
   name: Sample preparation method
   label: Sample preparation method
@@ -11149,7 +11148,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Are field blank samples run to check for contamination?
+- id: Are_field_blank_samples_run_to_check_for_contamination?
   unique_name: Are field blank samples run to check for contamination?
   name: Are field blank samples run to check for contamination?
   label: Are field blank samples run to check for contamination?
@@ -11162,7 +11161,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: If field blank samples are checked, on how many samples were blanks run?
+- id: If_field_blank_samples_are_checked,_on_how_many_samples_were_blanks_run?
   unique_name: If field blank samples are checked, on how many samples were blanks
     run?
   name: If field blank samples are checked, on how many samples were blanks run?
@@ -11176,7 +11175,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Are duplicate or replicate samples analyzed to ensure precision?
+- id: Are_duplicate_or_replicate_samples_analyzed_to_ensure_precision?
   unique_name: Are duplicate or replicate samples analyzed to ensure precision?
   name: Are duplicate or replicate samples analyzed to ensure precision?
   label: Are duplicate or replicate samples analyzed to ensure precision?
@@ -11189,7 +11188,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: If yes, what is the number of duplicates/replicates?
+- id: If_yes,_what_is_the_number_of_duplicates/replicates?
   unique_name: If yes, what is the number of duplicates/replicates?
   name: If yes, what is the number of duplicates/replicates?
   label: If yes, what is the number of duplicates/replicates?
@@ -11202,7 +11201,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Analytical phase QA/QC
+- id: Analytical_phase_QA/QC
   unique_name: Analytical phase QA/QC
   name: Analytical phase QA/QC
   description: Indicate which analytical QA/QC measures are adopted in the study
@@ -11229,7 +11228,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Link to Data collection Instance
+- id: Link_to_Data_collection_Instance
   unique_name: Link to Data collection Instance
   name: Link to Data collection Instance
   label: Link to Data collection Instance
@@ -11242,7 +11241,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Data collection Identifier provided as URL
+- id: Data_collection_Identifier_provided_as_URL
   unique_name: Data collection Identifier provided as URL
   name: Data collection Identifier provided as URL
   label: Data collection Identifier provided as URL
@@ -11255,7 +11254,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Name of the data collection
+- id: Name_of_the_data_collection
   unique_name: Name of the data collection
   name: Name of the data collection
   description: Please indicate the name of the collection. If the name is not defined
@@ -11270,7 +11269,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Short name or acronym of the data collection
+- id: Short_name_or_acronym_of_the_data_collection
   unique_name: Short name or acronym of the data collection
   name: Short name or acronym of the data collection
   label: Short name or acronym of the data collection
@@ -11283,7 +11282,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Language used
+- id: Language_used
   unique_name: Language used
   name: Language used
   description: Specify the language used in interviews, surveys, or any direct interactions
@@ -11331,7 +11330,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Start date of the data collection
+- id: Start_date_of_the_data_collection
   unique_name: Start date of the data collection
   name: Start date of the data collection
   description: 'Please provide the beginning (or previewed starting) date of the data
@@ -11346,7 +11345,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: End date of the data collection
+- id: End_date_of_the_data_collection
   unique_name: End date of the data collection
   name: End date of the data collection
   description: Please provide the previewed ending date of the data collection.
@@ -11360,7 +11359,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Implementation level
+- id: Implementation_level
   unique_name: Implementation level
   name: Implementation level
   description: Please indicate the implementation level (of coverage).
@@ -11397,7 +11396,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Resource type
+- id: Resource_type
   unique_name: Resource type
   name: Resource type
   description: Please provide a type of the resource being described. "Dataset" is
@@ -11421,7 +11420,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Distribution File Format
+- id: Distribution_File_Format
   unique_name: Distribution File Format
   name: Distribution File Format
   label: Distribution File Format
@@ -11437,7 +11436,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Conforms To
+- id: Conforms_To
   unique_name: Conforms To
   name: Conforms To
   description: Please provide an established standard to which the dataset distribution
@@ -11452,7 +11451,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Data usage license
+- id: Data_usage_license
   unique_name: Data usage license
   name: Data usage license
   description: Conditions (limitations) on the reuse, as stated by the Intellectual
@@ -11483,7 +11482,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: 'Access conditions '
+- id: Access_conditions_
   unique_name: 'Access conditions '
   name: 'Access conditions '
   description: Access conditions may include restrictions beyond license (local laws
@@ -11509,7 +11508,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Access procedures
+- id: Access_procedures
   unique_name: Access procedures
   name: Access procedures
   description: 'Please add information on procedure to obtain access to the dataset. '
@@ -11523,7 +11522,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Text for acknowledgement
+- id: Text_for_acknowledgement
   unique_name: Text for acknowledgement
   name: Text for acknowledgement
   description: The data owner/provider can specify a text for acknowledgement which
@@ -11538,7 +11537,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Text for disclaimer
+- id: Text_for_disclaimer
   unique_name: Text for disclaimer
   name: Text for disclaimer
   description: The data owner/provider can specify a text for disclaimer which should
@@ -11553,7 +11552,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Anonymization process
+- id: Anonymization_process
   unique_name: Anonymization process
   name: Anonymization process
   label: Anonymization process
@@ -11569,7 +11568,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Pseudonymization/anonymization process
+- id: Pseudonymization/anonymization_process
   unique_name: Pseudonymization/anonymization process
   name: Pseudonymization/anonymization process
   description: Please state the anonymization process.
@@ -11588,7 +11587,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Aggregation level of data
+- id: Aggregation_level_of_data
   unique_name: Aggregation level of data
   name: Aggregation level of data
   label: Aggregation level of data
@@ -11604,7 +11603,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: R-script or tool version number
+- id: R-script_or_tool_version_number
   unique_name: R-script or tool version number
   name: R-script or tool version number
   description: Only for aggregated and published dataset
@@ -11618,7 +11617,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Descriptive analysis
+- id: Descriptive_analysis
   unique_name: Descriptive analysis
   name: Descriptive analysis
   description: Only for aggregated and published dataset
@@ -11632,7 +11631,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Stratification procedures
+- id: Stratification_procedures
   unique_name: Stratification procedures
   name: Stratification procedures
   description: Only for aggregated and published dataset
@@ -11646,7 +11645,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: 'Data transformations or scaling applied '
+- id: Data_transformations_or_scaling_applied_
   unique_name: 'Data transformations or scaling applied '
   name: 'Data transformations or scaling applied '
   description: For example Log transformation, crt adjustment, lipid adjustment etc...
@@ -11667,7 +11666,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Handling values below LOD
+- id: Handling_values_below_LOD
   unique_name: Handling values below LOD
   name: Handling values below LOD
   label: Handling values below LOD
@@ -11693,7 +11692,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Please, provide a suitable description in case you selected 'other'
+- id: Please,_provide_a_suitable_description_in_case_you_selected_'other'
   unique_name: Please, provide a suitable description in case you selected 'other'
   name: Please, provide a suitable description in case you selected 'other'
   label: Please, provide a suitable description in case you selected 'other'
@@ -11706,7 +11705,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Handling values below LOQ
+- id: Handling_values_below_LOQ
   unique_name: Handling values below LOQ
   name: Handling values below LOQ
   label: Handling values below LOQ
@@ -11732,7 +11731,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Please, provide a suitable description in case you selected 'other'.1
+- id: Please,_provide_a_suitable_description_in_case_you_selected_'other'.1
   unique_name: Please, provide a suitable description in case you selected 'other'.1
   name: Please, provide a suitable description in case you selected 'other'.1
   label: Please, provide a suitable description in case you selected 'other'.1
@@ -11745,7 +11744,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Handling missing values
+- id: Handling_missing_values
   unique_name: Handling missing values
   name: Handling missing values
   label: Handling missing values
@@ -11758,7 +11757,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Codebook Reference
+- id: Codebook_Reference
   unique_name: Codebook Reference
   name: Codebook Reference
   label: Codebook Reference
@@ -11771,7 +11770,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Codebook Name
+- id: Codebook_Name
   unique_name: Codebook Name
   name: Codebook Name
   label: Codebook Name
@@ -11784,7 +11783,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Codebook Version
+- id: Codebook_Version
   unique_name: Codebook Version
   name: Codebook Version
   label: Codebook Version
@@ -11797,7 +11796,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Data formats available
+- id: Data_formats_available
   unique_name: Data formats available
   name: Data formats available
   label: Data formats available
@@ -11813,7 +11812,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: File size
+- id: File_size
   unique_name: File size
   name: File size
   description: Please proved an estimation of the byte size of the dataset distribution.
@@ -11827,7 +11826,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Access service
+- id: Access_service
   unique_name: Access service
   name: Access service
   description: 'Please provide in free-text format the name of the data service that
@@ -11842,7 +11841,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Access URL
+- id: Access_URL
   unique_name: Access URL
   name: Access URL
   label: Access URL
@@ -11855,7 +11854,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Affiliation  (Institute)
+- id: Affiliation__(Institute)
   unique_name: Affiliation  (Institute)
   name: Affiliation  (Institute)
   description: Affiliation to the institution coordinating the study.
@@ -11869,7 +11868,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Institute country
+- id: Institute_country
   unique_name: Institute country
   name: Institute country
   description: Country where the institution coordinating the study is located
@@ -11883,7 +11882,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Type of Institution
+- id: Type_of_Institution
   unique_name: Type of Institution
   name: Type of Institution
   label: Type of Institution
@@ -11905,7 +11904,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Type of Institution -  Other
+- id: Type_of_Institution_-__Other
   unique_name: Type of Institution -  Other
   name: Type of Institution -  Other
   description: In case of "other" type of institution specify
@@ -11919,7 +11918,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Project Identifier provided as URL
+- id: Project_Identifier_provided_as_URL
   unique_name: Project Identifier provided as URL
   name: Project Identifier provided as URL
   description: If possible, provide a GUPRI (Globally Unique, Persistent and Resolvable
@@ -11934,7 +11933,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Name of the project (English)
+- id: Name_of_the_project_(English)
   unique_name: Name of the project (English)
   name: Name of the project (English)
   description: Please indicate the name of the project. If the name is not defined
@@ -11949,7 +11948,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Name of the project (Original language)
+- id: Name_of_the_project_(Original_language)
   unique_name: Name of the project (Original language)
   name: Name of the project (Original language)
   label: Name of the project (Original language)
@@ -11962,7 +11961,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Short name or acronym of the project
+- id: Short_name_or_acronym_of_the_project
   unique_name: Short name or acronym of the project
   name: Short name or acronym of the project
   label: Short name or acronym of the project
@@ -11990,7 +11989,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Budget in Euro
+- id: Budget_in_Euro
   unique_name: Budget in Euro
   name: Budget in Euro
   description: Please indicate the total budget, to the nearest thousand Euros.
@@ -12004,7 +12003,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Start date of the project
+- id: Start_date_of_the_project
   unique_name: Start date of the project
   name: Start date of the project
   description: Please provide the beginning (or previewed starting) date of the project.
@@ -12020,7 +12019,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: End date of the project
+- id: End_date_of_the_project
   unique_name: End date of the project
   name: End date of the project
   description: Please provide the (previewed) ending date of the project. Project
@@ -12036,7 +12035,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Activity status
+- id: Activity_status
   unique_name: Activity status
   name: Activity status
   description: Is the study in planning stage, ongoing, or concluded
@@ -12059,7 +12058,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Other - activity status
+- id: Other_-_activity_status
   unique_name: Other - activity status
   name: Other - activity status
   description: In case of "other" activity status specify
@@ -12087,7 +12086,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Link to Study Metadata Instance
+- id: Link_to_Study_Metadata_Instance
   unique_name: Link to Study Metadata Instance
   name: Link to Study Metadata Instance
   label: Link to Study Metadata Instance
@@ -12100,7 +12099,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Type of sample collected
+- id: Type_of_sample_collected
   unique_name: Type of sample collected
   name: Type of sample collected
   description: Please fill out this template for each sample type separately.
@@ -12119,7 +12118,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: If you selected human biological samples, specify the matrix
+- id: If_you_selected_human_biological_samples,_specify_the_matrix
   unique_name: If you selected human biological samples, specify the matrix
   name: If you selected human biological samples, specify the matrix
   label: If you selected human biological samples, specify the matrix
@@ -12189,7 +12188,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: If you selected environmental samples specify the matrix
+- id: If_you_selected_environmental_samples_specify_the_matrix
   unique_name: If you selected environmental samples specify the matrix
   name: If you selected environmental samples specify the matrix
   label: If you selected environmental samples specify the matrix
@@ -12219,7 +12218,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Start date of sampling
+- id: Start_date_of_sampling
   unique_name: Start date of sampling
   name: Start date of sampling
   label: Start date of sampling
@@ -12232,7 +12231,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: End date of sampling
+- id: End_date_of_sampling
   unique_name: End date of sampling
   name: End date of sampling
   label: End date of sampling
@@ -12245,7 +12244,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Number of samples
+- id: Number_of_samples
   unique_name: Number of samples
   name: Number of samples
   label: Number of samples
@@ -12258,7 +12257,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Planned minimal volume of sample
+- id: Planned_minimal_volume_of_sample
   unique_name: Planned minimal volume of sample
   name: Planned minimal volume of sample
   description: Indicate the samples "minimum amount" that is planned to be collected
@@ -12272,7 +12271,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Unit of measure (of sample volume)
+- id: Unit_of_measure_(of_sample_volume)
   unique_name: Unit of measure (of sample volume)
   name: Unit of measure (of sample volume)
   description: Please specify the Unit of Measurement (UoM)
@@ -12301,7 +12300,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Are biobank samples collected
+- id: Are_biobank_samples_collected
   unique_name: Are biobank samples collected
   name: Are biobank samples collected
   label: Are biobank samples collected
@@ -12314,7 +12313,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Sample collection method
+- id: Sample_collection_method
   unique_name: Sample collection method
   name: Sample collection method
   description: Important sampling parameters (e.g., if you had blood sample, if this
@@ -12329,7 +12328,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Where does sample collection take place?
+- id: Where_does_sample_collection_take_place?
   unique_name: Where does sample collection take place?
   name: Where does sample collection take place?
   label: Where does sample collection take place?
@@ -12355,7 +12354,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Other - Place of sample collection
+- id: Other_-_Place_of_sample_collection
   unique_name: Other - Place of sample collection
   name: Other - Place of sample collection
   description: In case of "other" place of sample collection specify
@@ -12369,7 +12368,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Sampling container material
+- id: Sampling_container_material
   unique_name: Sampling container material
   name: Sampling container material
   description: Primary sampling container
@@ -12474,7 +12473,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Dilution level
+- id: Dilution_level
   unique_name: Dilution level
   name: Dilution level
   description: 'For urinary samples: availability of information on the dilution level'
@@ -12499,7 +12498,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Other - dilution level
+- id: Other_-_dilution_level
   unique_name: Other - dilution level
   name: Other - dilution level
   description: In case of "other" information on urinary dilution level please specify
@@ -12513,7 +12512,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Blood lipids
+- id: Blood_lipids
   unique_name: Blood lipids
   name: Blood lipids
   description: 'For blood samples: availability of information on blood lipids.'
@@ -12536,7 +12535,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Other - blood lipids
+- id: Other_-_blood_lipids
   unique_name: Other - blood lipids
   name: Other - blood lipids
   description: In case of "other" information available on blood lipids please specify
@@ -12550,7 +12549,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Quality Assurance (pre-analytical)
+- id: Quality_Assurance_(pre-analytical)
   unique_name: Quality Assurance (pre-analytical)
   name: Quality Assurance (pre-analytical)
   description: Pre-analytical Quality Assurance/Quality Control (QA/QC) measures implemented
@@ -12588,7 +12587,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Other - Quality Assurance
+- id: Other_-_Quality_Assurance
   unique_name: Other - Quality Assurance
   name: Other - Quality Assurance
   description: In case of "other" pre-analytical quality assurance or Quality control
@@ -12603,7 +12602,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Effect biomarkers measured
+- id: Effect_biomarkers_measured
   unique_name: Effect biomarkers measured
   name: Effect biomarkers measured
   description: 'Does the study include analysis of effect biomarkers in human samples
@@ -12618,7 +12617,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Link to Chemical Analysis Instance
+- id: Link_to_Chemical_Analysis_Instance
   unique_name: Link to Chemical Analysis Instance
   name: Link to Chemical Analysis Instance
   label: Link to Chemical Analysis Instance
@@ -12645,7 +12644,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: 'Questionnaires used '
+- id: Questionnaires_used_
   unique_name: 'Questionnaires used '
   name: 'Questionnaires used '
   label: 'Questionnaires used '
@@ -12683,7 +12682,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Mode of questionnaire conduct
+- id: Mode_of_questionnaire_conduct
   unique_name: Mode of questionnaire conduct
   name: Mode of questionnaire conduct
   label: Mode of questionnaire conduct
@@ -12713,7 +12712,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Who answered the questionnaire
+- id: Who_answered_the_questionnaire
   unique_name: Who answered the questionnaire
   name: Who answered the questionnaire
   label: Who answered the questionnaire
@@ -12739,7 +12738,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Other - person who answered the questionnaire
+- id: Other_-_person_who_answered_the_questionnaire
   unique_name: Other - person who answered the questionnaire
   name: Other - person who answered the questionnaire
   description: In case of "other" person responding to the questionnaire specify
@@ -12753,7 +12752,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Is the questionnaire available online?
+- id: Is_the_questionnaire_available_online?
   unique_name: Is the questionnaire available online?
   name: Is the questionnaire available online?
   description: Is the questionnaire template publicly available for consultation by
@@ -12768,7 +12767,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: In case you answered with yes, please provide a link to the questionnaire
+- id: In_case_you_answered_with_yes,_please_provide_a_link_to_the_questionnaire
   unique_name: In case you answered with yes, please provide a link to the questionnaire
   name: In case you answered with yes, please provide a link to the questionnaire
   description: 'e.g. if published in zenodo or on the study website. '
@@ -12782,7 +12781,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Type of target population
+- id: Type_of_target_population
   unique_name: Type of target population
   name: Type of target population
   label: Type of target population
@@ -12810,7 +12809,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Other - target population
+- id: Other_-_target_population
   unique_name: Other - target population
   name: Other - target population
   description: In case of "other" type of target population specify
@@ -12824,7 +12823,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Number of participants
+- id: Number_of_participants
   unique_name: Number of participants
   name: Number of participants
   label: Number of participants
@@ -12837,7 +12836,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: from age
+- id: from_age
   unique_name: from age
   name: from age
   label: from age
@@ -12850,7 +12849,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: to age
+- id: to_age
   unique_name: to age
   name: to age
   label: to age
@@ -12863,7 +12862,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Sex of participant
+- id: Sex_of_participant
   unique_name: Sex of participant
   name: Sex of participant
   description: Biological sex of participant at birth
@@ -12882,7 +12881,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Inclusion criteria
+- id: Inclusion_criteria
   unique_name: Inclusion criteria
   name: Inclusion criteria
   description: 'List the inclusion criteria applied '
@@ -12896,7 +12895,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Exclusion criteria
+- id: Exclusion_criteria
   unique_name: Exclusion criteria
   name: Exclusion criteria
   description: List the exclusion criteria applied
@@ -12910,7 +12909,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Lifestyle information
+- id: Lifestyle_information
   unique_name: Lifestyle information
   name: Lifestyle information
   description: Availability of Lifestyle information from participants
@@ -12941,7 +12940,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Socio-demographic information
+- id: Socio-demographic_information
   unique_name: Socio-demographic information
   name: Socio-demographic information
   description: Availability of socio-demographic information from participants
@@ -12964,7 +12963,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Environmental factors information
+- id: Environmental_factors_information
   unique_name: Environmental factors information
   name: Environmental factors information
   description: Availability of environmental factors information from participants
@@ -12995,7 +12994,9 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: "Sampling frame \n"
+- id: 'Sampling_frame_
+
+    '
   unique_name: "Sampling frame \n"
   name: "Sampling frame \n"
   description: Origin of participant selection
@@ -13030,7 +13031,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Other - sampling frame
+- id: Other_-_sampling_frame
   unique_name: Other - sampling frame
   name: Other - sampling frame
   description: In case of "other" sampling frame specify
@@ -13044,7 +13045,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: 'Recruitment method 
+- id: 'Recruitment_method 
 
     '
   unique_name: 'Recruitment method 
@@ -13079,7 +13080,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Other -  recruitment method
+- id: Other_-__recruitment_method
   unique_name: Other -  recruitment method
   name: Other -  recruitment method
   description: In case of "other" recruitment method specify
@@ -13093,7 +13094,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Repeated sampling
+- id: Repeated_sampling
   unique_name: Repeated sampling
   name: Repeated sampling
   description: 'Does the study design include repeated sampling of the participants? '
@@ -13107,7 +13108,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Repeated sampling-description
+- id: Repeated_sampling-description
   unique_name: Repeated sampling-description
   name: Repeated sampling-description
   description: In case of repeated sampling please describe. e.g. pre- post- work
@@ -13122,7 +13123,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: What type of anthropometric & health measurements are performed by fieldworkers?
+- id: What_type_of_anthropometric_&_health_measurements_are_performed_by_fieldworkers?
   unique_name: What type of anthropometric & health measurements are performed by
     fieldworkers?
   name: What type of anthropometric & health measurements are performed by fieldworkers?
@@ -13167,7 +13168,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Other- anthropometric & health measurements are performed by fieldworkers?
+- id: Other-_anthropometric_&_health_measurements_are_performed_by_fieldworkers?
   unique_name: Other- anthropometric & health measurements are performed by fieldworkers?
   name: Other- anthropometric & health measurements are performed by fieldworkers?
   description: In case of "other" anthropometric & health measurements performed by
@@ -13182,7 +13183,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Link to Sample Metadata Instance
+- id: Link_to_Sample_Metadata_Instance
   unique_name: Link to Sample Metadata Instance
   name: Link to Sample Metadata Instance
   label: Link to Sample Metadata Instance
@@ -13195,7 +13196,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Study Identifier provided as URL
+- id: Study_Identifier_provided_as_URL
   unique_name: Study Identifier provided as URL
   name: Study Identifier provided as URL
   description: Please indicate the identifier of the HBM activity. If possible, provide
@@ -13210,7 +13211,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Study name (English)
+- id: Study_name_(English)
   unique_name: Study name (English)
   name: Study name (English)
   description: Please indicate the name or title of the study. If the name or title
@@ -13226,7 +13227,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Study name (Original language)
+- id: Study_name_(Original_language)
   unique_name: Study name (Original language)
   name: Study name (Original language)
   label: Study name (Original language)
@@ -13239,7 +13240,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Short name or acronym of the study
+- id: Short_name_or_acronym_of_the_study
   unique_name: Short name or acronym of the study
   name: Short name or acronym of the study
   label: Short name or acronym of the study
@@ -13252,7 +13253,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Start date of the study
+- id: Start_date_of_the_study
   unique_name: Start date of the study
   name: Start date of the study
   description: Please provide the beginning (or previewed starting) date of the study.
@@ -13268,7 +13269,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: End date of the study
+- id: End_date_of_the_study
   unique_name: End date of the study
   name: End date of the study
   description: Please provide the (previewed) ending date of the study. Study ending
@@ -13283,7 +13284,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Identifier of related studies
+- id: Identifier_of_related_studies
   unique_name: Identifier of related studies
   name: Identifier of related studies
   label: Identifier of related studies
@@ -13296,7 +13297,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: 'Role of contact '
+- id: Role_of_contact_
   unique_name: 'Role of contact '
   name: 'Role of contact '
   label: 'Role of contact '
@@ -13342,7 +13343,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Monitoring reasons
+- id: Monitoring_reasons
   unique_name: Monitoring reasons
   name: Monitoring reasons
   description: What are the primary reasons for performing human biomonitoring in
@@ -13357,7 +13358,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Monitoring reasons - Other
+- id: Monitoring_reasons_-_Other
   unique_name: Monitoring reasons - Other
   name: Monitoring reasons - Other
   description: In case of "other" Monitoring reason specify
@@ -13371,7 +13372,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Type of study
+- id: Type_of_study
   unique_name: Type of study
   name: Type of study
   label: Type of study
@@ -13408,7 +13409,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Study setting
+- id: Study_setting
   unique_name: Study setting
   name: Study setting
   label: Study setting
@@ -13430,7 +13431,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Sampling method
+- id: Sampling_method
   unique_name: Sampling method
   name: Sampling method
   label: Sampling method
@@ -13462,7 +13463,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Sampling method description
+- id: Sampling_method_description
   unique_name: Sampling method description
   name: Sampling method description
   description: 'Please add an open description of your sampling method, for example
@@ -13478,7 +13479,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Ethical approval - obtained
+- id: Ethical_approval_-_obtained
   unique_name: Ethical approval - obtained
   name: Ethical approval - obtained
   label: Ethical approval - obtained
@@ -13491,7 +13492,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Ethical approval - name of ethics committee
+- id: Ethical_approval_-_name_of_ethics_committee
   unique_name: Ethical approval - name of ethics committee
   name: Ethical approval - name of ethics committee
   description: Provide the name of the ethical committee(s) issuing the approval
@@ -13505,7 +13506,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Ethical approval - date of approval
+- id: Ethical_approval_-_date_of_approval
   unique_name: Ethical approval - date of approval
   name: Ethical approval - date of approval
   description: Provide the issue date of the approval
@@ -13519,7 +13520,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Seasonal coverage
+- id: Seasonal_coverage
   unique_name: Seasonal coverage
   name: Seasonal coverage
   description: 'Spring: From March 21st to June 20th
@@ -13548,7 +13549,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Is it intended to link the collected data to other data registries?
+- id: Is_it_intended_to_link_the_collected_data_to_other_data_registries?
   unique_name: Is it intended to link the collected data to other data registries?
   name: Is it intended to link the collected data to other data registries?
   description: 'For example birth registries, cancer incidence, GIS, etc. '
@@ -13562,7 +13563,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: In case you link to other data registries, what type of data registry?
+- id: In_case_you_link_to_other_data_registries,_what_type_of_data_registry?
   unique_name: In case you link to other data registries, what type of data registry?
   name: In case you link to other data registries, what type of data registry?
   label: In case you link to other data registries, what type of data registry?
@@ -13606,7 +13607,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Other - data registry
+- id: Other_-_data_registry
   unique_name: Other - data registry
   name: Other - data registry
   description: In case of "other" data registry specify
@@ -13620,7 +13621,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Please, provide a link to the data registry
+- id: Please,_provide_a_link_to_the_data_registry
   unique_name: Please, provide a link to the data registry
   name: Please, provide a link to the data registry
   label: Please, provide a link to the data registry
@@ -13633,8 +13634,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Does your population sample have subgroups that need to be differentiated from
-    each other? Please indicate how many.
+- id: Does_your_population_sample_have_subgroups_that_need_to_be_differentiated_from_each_other?_Please_indicate_how_many.
   unique_name: Does your population sample have subgroups that need to be differentiated
     from each other? Please indicate how many.
   name: Does your population sample have subgroups that need to be differentiated
@@ -13653,7 +13653,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Access conditions - Other
+- id: Access_conditions_-_Other
   unique_name: Access conditions - Other
   name: Access conditions - Other
   description: If other access conditions apply please specify
@@ -13667,7 +13667,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Link to Study Population Metadata Instance(s)
+- id: Link_to_Study_Population_Metadata_Instance(s)
   unique_name: Link to Study Population Metadata Instance(s)
   name: Link to Study Population Metadata Instance(s)
   label: Link to Study Population Metadata Instance(s)

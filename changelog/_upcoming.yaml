@@ -1,0 +1,1256 @@
+version: 0.1.0
+release_date: "XXXX-XX-XX"
+maintainer: "gertjan.bisschop@vito.be"
+
+changes:
+- label: Today's date (as filled by participant on questionnaire)
+  action: added
+- label: 1. Role of respondent
+  action: added
+- label: 2. Age of respondent (years)
+  action: added
+- label: 3. What is your family situation?
+  action: added
+- label: 4. Current occupation (Check all that apply) ||| Respondent ||| Work
+  action: added
+- label: 4. Current occupation (Check all that apply) ||| Partner ||| Work
+  action: added
+- label: 4. Current occupation (Check all that apply) ||| Respondent ||| Parental
+    leave
+  action: added
+- label: 4. Current occupation (Check all that apply) ||| Partner ||| Parental leave
+  action: added
+- label: 4. Current occupation (Check all that apply) ||| Respondent ||| Student
+  action: added
+- label: 4. Current occupation (Check all that apply) ||| Partner ||| Student
+  action: added
+- label: 4. Current occupation (Check all that apply) ||| Respondent ||| Job-seeker
+  action: added
+- label: 4. Current occupation (Check all that apply) ||| Partner ||| Job-seeker
+  action: added
+- label: 4. Current occupation (Check all that apply) ||| Respondent ||| Sick leave
+    for > 3 months
+  action: added
+- label: 4. Current occupation (Check all that apply) ||| Partner ||| Sick leave for
+    > 3 months
+  action: added
+- label: 4. Current occupation (Check all that apply) ||| Respondent ||| Housework
+  action: added
+- label: 4. Current occupation (Check all that apply) ||| Partner ||| Housework
+  action: added
+- label: 4. Current occupation (Check all that apply) ||| Respondent ||| Retirement
+  action: added
+- label: 4. Current occupation (Check all that apply) ||| Partner ||| Retirement
+  action: added
+- label: 4. Current occupation (Check all that apply) ||| Respondent ||| Other
+  action: added
+- label: 4. Current occupation (Check all that apply) ||| Partner ||| Other
+  action: added
+- label: 5. Average monthly total net income (in Euros)
+  action: added
+- label: 6. Income in a 9 step ladder
+  action: added
+- label: 7.1. Highest level education (respondent)
+  action: added
+- label: 7.2. Highest level education (Partner)
+  action: added
+- label: 1. Questions on familial respiratory diseases and allergies ||| Do you have
+    doctor-diagnosed asthma or doctor-diagnosed allergy within the family?
+  action: added
+- label: 1. Questions on familial respiratory diseases and allergies ||| Do you have
+    doctor-diagnosed asthma or doctor-diagnosed allergy within the family? ||| Respondent
+    ||| Asthma
+  action: added
+- label: 1. Questions on familial respiratory diseases and allergies ||| Do you have
+    doctor-diagnosed asthma or doctor-diagnosed allergy within the family? ||| Respondent
+    ||| Asthma ||| Medication
+  action: added
+- label: 1. Questions on familial respiratory diseases and allergies ||| Do you have
+    doctor-diagnosed asthma or doctor-diagnosed allergy within the family? ||| Respondent
+    ||| Hayfever
+  action: added
+- label: 1. Questions on familial respiratory diseases and allergies ||| Do you have
+    doctor-diagnosed asthma or doctor-diagnosed allergy within the family? ||| Respondent
+    ||| Hayfever ||| Medication
+  action: added
+- label: 1. Questions on familial respiratory diseases and allergies ||| Do you have
+    doctor-diagnosed asthma or doctor-diagnosed allergy within the family? ||| Respondent
+    ||| Eczema
+  action: added
+- label: 1. Questions on familial respiratory diseases and allergies ||| Do you have
+    doctor-diagnosed asthma or doctor-diagnosed allergy within the family? ||| Respondent
+    ||| Eczema ||| Medication
+  action: added
+- label: 1. Questions on familial respiratory diseases and allergies ||| Do you have
+    doctor-diagnosed asthma or doctor-diagnosed allergy within the family? ||| Respondent
+    ||| Other
+  action: added
+- label: 1. Questions on familial respiratory diseases and allergies ||| Do you have
+    doctor-diagnosed asthma or doctor-diagnosed allergy within the family? ||| Respondent
+    ||| Other ||| Medication
+  action: added
+- label: 1. Questions on familial respiratory diseases and allergies ||| Do you have
+    doctor-diagnosed asthma or doctor-diagnosed allergy within the family? ||| Partner
+    ||| Asthma
+  action: added
+- label: 1. Questions on familial respiratory diseases and allergies ||| Do you have
+    doctor-diagnosed asthma or doctor-diagnosed allergy within the family? ||| Partner
+    ||| Asthma ||| Medication
+  action: added
+- label: 1. Questions on familial respiratory diseases and allergies ||| Do you have
+    doctor-diagnosed asthma or doctor-diagnosed allergy within the family? ||| Partner
+    ||| Hayfever
+  action: added
+- label: 1. Questions on familial respiratory diseases and allergies ||| Do you have
+    doctor-diagnosed asthma or doctor-diagnosed allergy within the family? ||| Partner
+    ||| Hayfever ||| Medication
+  action: added
+- label: 1. Questions on familial respiratory diseases and allergies ||| Do you have
+    doctor-diagnosed asthma or doctor-diagnosed allergy within the family? ||| Partner
+    ||| Eczema
+  action: added
+- label: 1. Questions on familial respiratory diseases and allergies ||| Do you have
+    doctor-diagnosed asthma or doctor-diagnosed allergy within the family? ||| Partner
+    ||| Eczema ||| Medication
+  action: added
+- label: 1. Questions on familial respiratory diseases and allergies ||| Do you have
+    doctor-diagnosed asthma or doctor-diagnosed allergy within the family? ||| Partner
+    ||| Other
+  action: added
+- label: 1. Questions on familial respiratory diseases and allergies ||| Do you have
+    doctor-diagnosed asthma or doctor-diagnosed allergy within the family? ||| Partner
+    ||| Other ||| Medication
+  action: added
+- label: 1. Questions on familial respiratory diseases and allergies ||| Do you have
+    doctor-diagnosed asthma or doctor-diagnosed allergy within the family? ||| Children
+    ||| Asthma
+  action: added
+- label: 1. Questions on familial respiratory diseases and allergies ||| Do you have
+    doctor-diagnosed asthma or doctor-diagnosed allergy within the family? ||| Children
+    ||| Asthma ||| Medication
+  action: added
+- label: 1. Questions on familial respiratory diseases and allergies ||| Do you have
+    doctor-diagnosed asthma or doctor-diagnosed allergy within the family? ||| Children
+    ||| Hayfever
+  action: added
+- label: 1. Questions on familial respiratory diseases and allergies ||| Do you have
+    doctor-diagnosed asthma or doctor-diagnosed allergy within the family? ||| Children
+    ||| Hayfever ||| Medication
+  action: added
+- label: 1. Questions on familial respiratory diseases and allergies ||| Do you have
+    doctor-diagnosed asthma or doctor-diagnosed allergy within the family? ||| Children
+    ||| Eczema
+  action: added
+- label: 1. Questions on familial respiratory diseases and allergies ||| Do you have
+    doctor-diagnosed asthma or doctor-diagnosed allergy within the family? ||| Children
+    ||| Eczema ||| Medication
+  action: added
+- label: 1. Questions on familial respiratory diseases and allergies ||| Do you have
+    doctor-diagnosed asthma or doctor-diagnosed allergy within the family? ||| Children
+    ||| Other
+  action: added
+- label: 1. Questions on familial respiratory diseases and allergies ||| Do you have
+    doctor-diagnosed asthma or doctor-diagnosed allergy within the family? ||| Children
+    ||| Other ||| Medication
+  action: added
+- label: 2. Over the last month, how often did you experience below symptoms? |||
+    Eye problem
+  action: added
+- label: 2. Over the last month, how often did you experience below symptoms? |||
+    Nose problem
+  action: added
+- label: 2. Over the last month, how often did you experience below symptoms? |||
+    Throat problem
+  action: added
+- label: 2. Over the last month, how often did you experience below symptoms? |||
+    Headache
+  action: added
+- label: 2. Over the last month, how often did you experience below symptoms? |||
+    Memory problem
+  action: added
+- label: 2. Over the last month, how often did you experience below symptoms? |||
+    Dizziness
+  action: added
+- label: 2. Over the last month, how often did you experience below symptoms? |||
+    Fatigue, sleepiness
+  action: added
+- label: 2. Over the last month, how often did you experience below symptoms? |||
+    Feeling of having a heavy head
+  action: added
+- label: 2. Over the last month, how often did you experience below symptoms? |||
+    Eczema or atopic dermatitis
+  action: added
+- label: 2. Over the last month, how often did you experience below symptoms? |||
+    Wheezing or other breathing problems
+  action: added
+- label: "3. Have you over the last month, felt yourself bothered by any of the following\
+    \ odors at home? (not in a basement) ||| Stagnant \u201Dbad\u201D air"
+  action: added
+- label: 3. Have you over the last month, felt yourself bothered by any of the following
+    odors at home? (not in a basement) ||| Unpleasant air
+  action: added
+- label: 3. Have you over the last month, felt yourself bothered by any of the following
+    odors at home? (not in a basement) ||| Pungent odor
+  action: added
+- label: 3. Have you over the last month, felt yourself bothered by any of the following
+    odors at home? (not in a basement) ||| Mould odor
+  action: added
+- label: 3. Have you over the last month, felt yourself bothered by any of the following
+    odors at home? (not in a basement) ||| Earthy odor
+  action: added
+- label: 3. Have you over the last month, felt yourself bothered by any of the following
+    odors at home? (not in a basement) ||| Tobacco smoke
+  action: added
+- label: 3. Have you over the last month, felt yourself bothered by any of the following
+    odors at home? (not in a basement) ||| Dry air
+  action: added
+- label: 3. Have you over the last month, felt yourself bothered by any of the following
+    odors at home? (not in a basement) ||| Damp air
+  action: added
+- label: 4. On a scale from 0 (extreme poor) to 6 (extreme good), how do you perceive
+    the following characteristics of your home? (fill in numbers only) ||| Illumination
+    in the living room
+  action: added
+- label: 4. On a scale from 0 (extreme poor) to 6 (extreme good), how do you perceive
+    the following characteristics of your home? (fill in numbers only) ||| Noise
+  action: added
+- label: 4. On a scale from 0 (extreme poor) to 6 (extreme good), how do you perceive
+    the following characteristics of your home? (fill in numbers only) ||| Indoor
+    air quality
+  action: added
+- label: 4. On a scale from 0 (extreme poor) to 6 (extreme good), how do you perceive
+    the following characteristics of your home? (fill in numbers only) ||| Outdoor
+    air quality
+  action: added
+- label: 4. On a scale from 0 (extreme poor) to 6 (extreme good), how do you perceive
+    the following characteristics of your home? (fill in numbers only) ||| Thermal
+    comfort in spring/summer
+  action: added
+- label: 4. On a scale from 0 (extreme poor) to 6 (extreme good), how do you perceive
+    the following characteristics of your home? (fill in numbers only) ||| Thermal
+    comfort in autumn/winter
+  action: added
+- label: 5. Are there any other indoor air quality related issues you consider relevant
+    to report?
+  action: added
+- label: 1. Questions on personal behavior of yourself in the past 3 days ||| Presence
+    in a room where smoking was taking place (by yourself or by others)
+  action: added
+- label: 1. Questions on personal behavior of yourself in the past 3 days ||| If answered
+    <Yes>, how many hours?
+  action: added
+- label: 1. Questions on personal behavior of yourself in the past 3 days ||| Presence
+    in a room with a burning fireplace, wood stove or coal stove (not a pellet stove)
+  action: added
+- label: 1. Questions on personal behavior of yourself in the past 3 days ||| Cigarette
+    smoking
+  action: added
+- label: 1. Questions on personal behavior of yourself in the past 3 days ||| E-cigarette
+    smoking or vaping
+  action: added
+- label: 1. Questions on personal behavior of yourself in the past 3 days ||| Consumption
+    of grilled food or barbeque
+  action: added
+- label: 1. Questions on personal behavior of yourself in the past 3 days ||| Consumption
+    of deep-fried food
+  action: added
+- label: 1. Questions on personal behavior of yourself in the past 3 days ||| Consumption
+    of fish or seafood
+  action: added
+- label: 1. Questions on personal behavior of yourself in the past 3 days ||| Consumption
+    of ready-made meals
+  action: added
+- label: 1. Questions on personal behavior of yourself in the past 3 days ||| Consumption
+    of fast food
+  action: added
+- label: 1. Questions on personal behavior of yourself in the past 3 days ||| Consumption
+    of canned foods
+  action: added
+- label: 1. Questions on personal behavior of yourself in the past 3 days ||| Traveling
+    through heavy traffic in a motorized vehicle
+  action: added
+- label: 1. Questions on personal behavior of yourself in the past 3 days ||| Cycling
+    or walking along heavy traffic
+  action: added
+- label: 1. Questions on personal behavior of yourself in the past 3 days ||| Use
+    of personal care products
+  action: added
+- label: 1. Questions on personal behavior of yourself in the past 3 days ||| Use
+    of personal care products with national or EU Ecolabel
+  action: added
+- label: 2. In the past 3 days, did you or someone in the family use the following
+    products in your home ||| Fragrance diffusers
+  action: added
+- label: 2. In the past 3 days, did you or someone in the family use the following
+    products in your home ||| Indoor use of pesticides or insecticides
+  action: added
+- label: 2. In the past 3 days, did you or someone in the family use the following
+    products in your home ||| Outdoor use of pesticides/insecticides
+  action: added
+- label: 2. In the past 3 days, did you or someone in the family use the following
+    products in your home ||| Anti-flea product for pets
+  action: added
+- label: 2. In the past 3 days, did you or someone in the family use the following
+    products in your home ||| Material to make your own ceramics
+  action: added
+- label: 2. In the past 3 days, did you or someone in the family use the following
+    products in your home ||| Paint, glue, varnish
+  action: added
+- label: 2. In the past 3 days, did you or someone in the family use the following
+    products in your home ||| Cleaning products
+  action: added
+- label: 2. In the past 3 days, did you or someone in the family use the following
+    products in your home ||| Cleaning products with national or EU Ecolabel
+  action: added
+- label: 2. In the past 3 days, did you or someone in the family use the following
+    products in your home ||| Personal hygiene sprays e.g. deodorant, hairspray
+  action: added
+- label: 1. Birthdate
+  action: added
+- label: 2. Birthweight (in gram)
+  action: added
+- label: Birthweight - don't know/prefer not to answer
+  action: added
+- label: 3. Weight now (kg)
+  action: added
+- label: 4. Height now (cm)
+  action: added
+- label: 5. Sex
+  action: added
+- label: 6. Does the child go to school or attend childcare?
+  action: added
+- label: 1. Has your child ever had one of the following diseases? ||| Wheezing
+  action: added
+- label: 1. Has your child ever had one of the following diseases? ||| Allergies (diagnosed
+    by a doctor)
+  action: added
+- label: 1. Has your child ever had one of the following diseases? ||| If answered
+    <Yes>, please specify the source of the allergy
+  action: added
+- label: 1. Has your child ever had one of the following diseases? ||| Asthma (diagnosed
+    by a doctor)
+  action: added
+- label: 1. Has your child ever had one of the following diseases? ||| Eczema (diagnosed
+    by a doctor)
+  action: added
+- label: 2. Over the last month, how often did you notice your child experience below
+    symptoms? ||| Eye problem
+  action: added
+- label: 2. Over the last month, how often did you notice your child experience below
+    symptoms? ||| Nose problem
+  action: added
+- label: 2. Over the last month, how often did you notice your child experience below
+    symptoms? ||| Throat problem
+  action: added
+- label: 2. Over the last month, how often did you notice your child experience below
+    symptoms? ||| Eczema
+  action: added
+- label: 2. Over the last month, how often did you notice your child experience below
+    symptoms? ||| Wheezing
+  action: added
+- label: '1. Questions on personal behavior of your child in the past 3 days ||| Mouthing
+    behaviour: putting toys, hands or other objects in the mouth'
+  action: added
+- label: 1. Questions on personal behavior of your child in the past 3 days ||| Presence
+    in a room where smoking was taking place (by yourself or by others)
+  action: added
+- label: 1. Questions on personal behavior of your child in the past 3 days ||| Presence
+    in a room where smoking was taking place (by yourself or by others) ||| If answered
+    <Yes>, how many hours?
+  action: added
+- label: 1. Questions on personal behavior of your child in the past 3 days ||| Presence
+    at another place for more than 8 hours on at least one day, or for more than 12
+    hours cumulatively over 3 days
+  action: added
+- label: 1. Questions on personal behavior of your child in the past 3 days ||| Presence
+    at another place for more than 8 hours on at least one day, or for more than 12
+    hours cumulatively over 3 days ||| If answered <Yes>, please specify the place
+  action: added
+- label: 1. Questions on personal behavior of your child in the past 3 days ||| Presence
+    at another place for more than 8 hours on at least one day, or for more than 12
+    hours cumulatively over 3 days ||| If answered <Other>, please specify the space
+  action: added
+- label: 1. Questions on personal behavior of your child in the past 3 days ||| Presence
+    in a room with a burning fireplace, wood stove or coal stove
+  action: added
+- label: 1. Questions on personal behavior of your child in the past 3 days ||| Consumption
+    of grilled food or barbeque
+  action: added
+- label: 1. Questions on personal behavior of your child in the past 3 days ||| Consumption
+    of deep-fried food
+  action: added
+- label: 1. Questions on personal behavior of your child in the past 3 days ||| Consumption
+    of fish or seafood
+  action: added
+- label: 1. Questions on personal behavior of your child in the past 3 days ||| Consumption
+    of ready-made meals
+  action: added
+- label: 1. Questions on personal behavior of your child in the past 3 days ||| Consumption
+    of fast food
+  action: added
+- label: 1. Questions on personal behavior of your child in the past 3 days ||| Consumption
+    of canned foods
+  action: added
+- label: 1. Questions on personal behavior of your child in the past 3 days ||| Traveling
+    through heavy traffic in a motorized vehicle
+  action: added
+- label: 1. Questions on personal behavior of your child in the past 3 days ||| Cycling
+    or walking along heavy traffic
+  action: added
+- label: 1. Questions on personal behavior of your child in the past 3 days ||| Use
+    of personal care products
+  action: added
+- label: 1. Questions on personal behavior of your child in the past 3 days ||| Use
+    of personal care products with national or EU Ecolabel
+  action: added
+- label: 2. Was your child breastfed? (select from dropdown list)
+  action: added
+- label: 3. How frequent in the past month did your child play with electronics? (Select
+    from dropdown list))
+  action: added
+- label: 4. How frequent in the past month did your child play on the floor in the
+    room? (Select from dropdown list)
+  action: added
+- label: 1. How do you judge the indoor air quality in your dwelling during the last
+    two months? (Select from dropdown list)
+  action: added
+- label: 2. How concerned are you about the influence of outdoor air quality on your
+    personal health?
+  action: added
+- label: 3. Imagine a ladder with 9 steps, with people on the first step who are not
+    at all conscious of the importance of air quality for health and well-being and
+    on the highest step, the ninth, people who are very conscious of the importance
+    of indoor air quality. Where are you at the moment?
+  action: added
+- label: 4. To what extent do you agree with the following statements ||| My behavioural
+    choices have a significant impact on air quality in my home
+  action: added
+- label: 4. To what extent do you agree with the following statements ||| In general,
+    it is difficult for me and housemates to have an influence on exposure to the
+    risks from the indoor environment at home.
+  action: added
+- label: 4. To what extent do you agree with the following statements ||| It is easy
+    for me to adjust the ventilation at home.
+  action: added
+- label: 4. To what extent do you agree with the following statements ||| It is easy
+    for me to open the window at home
+  action: added
+- label: 4. To what extent do you agree with the following statements ||| The healthiness
+    of indoor climate (air quality, lights, sounds) in the home environment is important
+    to me
+  action: added
+- label: 4. To what extent do you agree with the following statements ||| The healthiness
+    of outdoor climate (air quality, sounds) in the home environment is important
+    to me
+  action: added
+- label: 4. To what extent do you agree with the following statements ||| Improving
+    the indoor air quality is a necessary task for me
+  action: added
+- label: 4. To what extent do you agree with the following statements ||| I think
+    improving my indoor air quality would be enjoyable
+  action: added
+- label: 5. There are a variety of reasons why perople choose to improve the indoor
+    air quality. Please consider the following and indicate what would be reasons
+    for you to improve indoor air quality ||| I expect it will be good for my health
+  action: added
+- label: 5. There are a variety of reasons why perople choose to improve the indoor
+    air quality. Please consider the following and indicate what would be reasons
+    for you to improve indoor air quality ||| I expect it will be good for my child's/children's
+    health
+  action: added
+- label: 5. There are a variety of reasons why perople choose to improve the indoor
+    air quality. Please consider the following and indicate what would be reasons
+    for you to improve indoor air quality ||| I want others to know I improve the
+    indoor air quality
+  action: added
+- label: 5. There are a variety of reasons why perople choose to improve the indoor
+    air quality. Please consider the following and indicate what would be reasons
+    for you to improve indoor air quality ||| I am required to improve the indoor
+    air quality
+  action: added
+- label: 5. There are a variety of reasons why perople choose to improve the indoor
+    air quality. Please consider the following and indicate what would be reasons
+    for you to improve indoor air quality ||| I feel pressured to improve the indoor
+    air quality
+  action: added
+- label: 5. There are a variety of reasons why perople choose to improve the indoor
+    air quality. Please consider the following and indicate what would be reasons
+    for you to improve indoor air quality ||| It will look good to others if I improve
+    the indoor air quality
+  action: added
+- label: 5. There are a variety of reasons why perople choose to improve the indoor
+    air quality. Please consider the following and indicate what would be reasons
+    for you to improve indoor air quality ||| I would not want to improve indoor air
+    quality in my home
+  action: added
+- label: 6. Improving indoor air quality may not be easy for everyone. Please consider
+    the following and indicate how true each of these reasons is for you ||| It takes
+    too much effort to improve indoor air quality in my home
+  action: added
+- label: 6. Improving indoor air quality may not be easy for everyone. Please consider
+    the following and indicate how true each of these reasons is for you ||| I find
+    it difficult to improve indoor air quality in my home
+  action: added
+- label: 6. Improving indoor air quality may not be easy for everyone. Please consider
+    the following and indicate how true each of these reasons is for you ||| I do
+    not have the tools to improve indoor air quality in my home
+  action: added
+- label: 6. Improving indoor air quality may not be easy for everyone. Please consider
+    the following and indicate how true each of these reasons is for you ||| I do
+    not know how to improve indoor air quality in my home
+  action: added
+- label: 7. In the last month, how often have you done the following activities for
+    your health / wellbeing in your home? ||| Regulate temperature (heat / cool)
+  action: added
+- label: 7. In the last month, how often have you done the following activities for
+    your health / wellbeing in your home? ||| Regulate ventilation
+  action: added
+- label: 7. In the last month, how often have you done the following activities for
+    your health / wellbeing in your home? ||| Open window
+  action: added
+- label: 7. In the last month, how often have you done the following activities for
+    your health / wellbeing in your home? ||| Use products with an EU Ecolabel to
+    clean the house
+  action: added
+- label: 7. In the last month, how often have you done the following activities for
+    your health / wellbeing in your home? ||| Use only natural non-toxic products
+    to clean the house
+  action: added
+- label: agemonths
+  action: added
+- label: population
+  action: added
+- label: Study Subject ID
+  action: added
+- label: Country Code
+  action: added
+- label: Household ID
+  action: added
+- label: Adult ID
+  action: added
+- label: Child ID
+  action: added
+- label: Urine density of the sample
+  action: added
+- label: Concentration of creatinine in urine of the sample
+  action: added
+- label: Osmotic concentration of urine of the sample
+  action: added
+- label: Specific gravity of urine of the sample
+  action: added
+- label: Volume of the urine sample
+  action: added
+- label: mass concentration of fourhphe in urine
+  action: added
+- label: mass concentration of ninehfluo in urine
+  action: added
+- label: mass concentration of ohpyr in urine
+  action: added
+- label: mass concentration of onehphe in urine
+  action: added
+- label: mass concentration of oneohnap in urine
+  action: added
+- label: mass concentration of threehfluo in urine
+  action: added
+- label: mass concentration of threehphe in urine
+  action: added
+- label: mass concentration of twohfluo in urine
+  action: added
+- label: mass concentration of twohphe in urine
+  action: added
+- label: mass concentration of twoohnap in urine
+  action: added
+- label: mass concentration of bpa in urine
+  action: added
+- label: mass concentration of bpaf in urine
+  action: added
+- label: mass concentration of bpb in urine
+  action: added
+- label: mass concentration of bpf in urine
+  action: added
+- label: mass concentration of bps in urine
+  action: added
+- label: mass concentration of bpz in urine
+  action: added
+- label: mass concentration of mcoch in urine
+  action: added
+- label: mass concentration of mhnch in urine
+  action: added
+- label: mass concentration of minch in urine
+  action: added
+- label: mass concentration of bboehep in urine
+  action: added
+- label: mass concentration of bboephr in urine
+  action: added
+- label: mass concentration of bcepms in urine
+  action: added
+- label: mass concentration of bciphipp in urine
+  action: added
+- label: mass concentration of bcippms in urine
+  action: added
+- label: mass concentration of bdcippms in urine
+  action: added
+- label: mass concentration of behp in urine
+  action: added
+- label: mass concentration of dnbphr in urine
+  action: added
+- label: mass concentration of dphpms in urine
+  action: added
+- label: mass concentration of ehphp in urine
+  action: added
+- label: mass concentration of fourohdphp in urine
+  action: added
+- label: mass concentration of ohehdphp in urine
+  action: added
+- label: mass concentration of ohtboep in urine
+  action: added
+- label: mass concentration of ohtphp in urine
+  action: added
+- label: mass concentration of tcep in urine
+  action: added
+- label: mass concentration of tcpy in urine
+  action: added
+- label: mass concentration of cdcca in urine
+  action: added
+- label: mass concentration of cisdbca in urine
+  action: added
+- label: mass concentration of fpba in urine
+  action: added
+- label: mass concentration of tdcca in urine
+  action: added
+- label: mass concentration of threepba in urine
+  action: added
+- label: mass concentration of cxmepp in urine
+  action: added
+- label: mass concentration of cxmeptp in urine
+  action: added
+- label: mass concentration of cxmidp in urine
+  action: added
+- label: mass concentration of cxmmhtp in urine
+  action: added
+- label: mass concentration of cxmphp in urine
+  action: added
+- label: mass concentration of cxmphxp in urine
+  action: added
+- label: mass concentration of mbzp in urine
+  action: added
+- label: mass concentration of mcop in urine
+  action: added
+- label: mass concentration of meha in urine
+  action: added
+- label: mass concentration of mehp in urine
+  action: added
+- label: mass concentration of mehtp in urine
+  action: added
+- label: mass concentration of mep in urine
+  action: added
+- label: mass concentration of mhnp in urine
+  action: added
+- label: mass concentration of mibp in urine
+  action: added
+- label: mass concentration of minp in urine
+  action: added
+- label: mass concentration of mnbp in urine
+  action: added
+- label: mass concentration of ohmeha in urine
+  action: added
+- label: mass concentration of ohmehp in urine
+  action: added
+- label: mass concentration of ohmehtp in urine
+  action: added
+- label: mass concentration of ohmidp in urine
+  action: added
+- label: mass concentration of ohmphp in urine
+  action: added
+- label: mass concentration of ohmprhpp in urine
+  action: added
+- label: mass concentration of onefourdehtm in urine
+  action: added
+- label: mass concentration of oxomeha in urine
+  action: added
+- label: mass concentration of oxomehp in urine
+  action: added
+- label: mass concentration of oxomehtp in urine
+  action: added
+- label: mass concentration of twofourdehtm in urine
+  action: added
+- label: fourhphe - standardized for creatinine
+  action: added
+- label: fourhphe - normalized for specific gravity
+  action: added
+- label: ninehfluo - standardized for creatinine
+  action: added
+- label: ninehfluo - normalized for specific gravity
+  action: added
+- label: ohpyr - standardized for creatinine
+  action: added
+- label: ohpyr - normalized for specific gravity
+  action: added
+- label: onehphe - standardized for creatinine
+  action: added
+- label: onehphe - normalized for specific gravity
+  action: added
+- label: oneohnap - standardized for creatinine
+  action: added
+- label: oneohnap - normalized for specific gravity
+  action: added
+- label: threehfluo - standardized for creatinine
+  action: added
+- label: threehfluo - normalized for specific gravity
+  action: added
+- label: threehphe - standardized for creatinine
+  action: added
+- label: threehphe - normalized for specific gravity
+  action: added
+- label: twohfluo - standardized for creatinine
+  action: added
+- label: twohfluo - normalized for specific gravity
+  action: added
+- label: twohphe - standardized for creatinine
+  action: added
+- label: twohphe - normalized for specific gravity
+  action: added
+- label: twoohnap - standardized for creatinine
+  action: added
+- label: twoohnap - normalized for specific gravity
+  action: added
+- label: bpa - standardized for creatinine
+  action: added
+- label: bpa - normalized for specific gravity
+  action: added
+- label: bpaf - standardized for creatinine
+  action: added
+- label: bpaf - normalized for specific gravity
+  action: added
+- label: bpb - standardized for creatinine
+  action: added
+- label: bpb - normalized for specific gravity
+  action: added
+- label: bpf - standardized for creatinine
+  action: added
+- label: bpf - normalized for specific gravity
+  action: added
+- label: bps - standardized for creatinine
+  action: added
+- label: bps - normalized for specific gravity
+  action: added
+- label: bpz - standardized for creatinine
+  action: added
+- label: bpz - normalized for specific gravity
+  action: added
+- label: mcoch - standardized for creatinine
+  action: added
+- label: mcoch - normalized for specific gravity
+  action: added
+- label: mhnch - standardized for creatinine
+  action: added
+- label: mhnch - normalized for specific gravity
+  action: added
+- label: minch - standardized for creatinine
+  action: added
+- label: minch - normalized for specific gravity
+  action: added
+- label: bboehep - standardized for creatinine
+  action: added
+- label: bboehep - normalized for specific gravity
+  action: added
+- label: bboephr - standardized for creatinine
+  action: added
+- label: bboephr - normalized for specific gravity
+  action: added
+- label: bcepms - standardized for creatinine
+  action: added
+- label: bcepms - normalized for specific gravity
+  action: added
+- label: bciphipp - standardized for creatinine
+  action: added
+- label: bciphipp - normalized for specific gravity
+  action: added
+- label: bcippms - standardized for creatinine
+  action: added
+- label: bcippms - normalized for specific gravity
+  action: added
+- label: bdcippms - standardized for creatinine
+  action: added
+- label: bdcippms - normalized for specific gravity
+  action: added
+- label: behp - standardized for creatinine
+  action: added
+- label: behp - normalized for specific gravity
+  action: added
+- label: dnbphr - standardized for creatinine
+  action: added
+- label: dnbphr - normalized for specific gravity
+  action: added
+- label: dphpms - standardized for creatinine
+  action: added
+- label: dphpms - normalized for specific gravity
+  action: added
+- label: ehphp - standardized for creatinine
+  action: added
+- label: ehphp - normalized for specific gravity
+  action: added
+- label: fourohdphp - standardized for creatinine
+  action: added
+- label: fourohdphp - normalized for specific gravity
+  action: added
+- label: ohehdphp - standardized for creatinine
+  action: added
+- label: ohehdphp - normalized for specific gravity
+  action: added
+- label: ohtboep - standardized for creatinine
+  action: added
+- label: ohtboep - normalized for specific gravity
+  action: added
+- label: ohtphp - standardized for creatinine
+  action: added
+- label: ohtphp - normalized for specific gravity
+  action: added
+- label: tcep - standardized for creatinine
+  action: added
+- label: tcep - normalized for specific gravity
+  action: added
+- label: tcpy - standardized for creatinine
+  action: added
+- label: tcpy - normalized for specific gravity
+  action: added
+- label: cdcca - standardized for creatinine
+  action: added
+- label: cdcca - normalized for specific gravity
+  action: added
+- label: cisdbca - standardized for creatinine
+  action: added
+- label: cisdbca - normalized for specific gravity
+  action: added
+- label: fpba - standardized for creatinine
+  action: added
+- label: fpba - normalized for specific gravity
+  action: added
+- label: tdcca - standardized for creatinine
+  action: added
+- label: tdcca - normalized for specific gravity
+  action: added
+- label: threepba - standardized for creatinine
+  action: added
+- label: threepba - normalized for specific gravity
+  action: added
+- label: cxmepp - standardized for creatinine
+  action: added
+- label: cxmepp - normalized for specific gravity
+  action: added
+- label: cxmeptp - standardized for creatinine
+  action: added
+- label: cxmeptp - normalized for specific gravity
+  action: added
+- label: cxmidp - standardized for creatinine
+  action: added
+- label: cxmidp - normalized for specific gravity
+  action: added
+- label: cxmmhtp - standardized for creatinine
+  action: added
+- label: cxmmhtp - normalized for specific gravity
+  action: added
+- label: cxmphp - standardized for creatinine
+  action: added
+- label: cxmphp - normalized for specific gravity
+  action: added
+- label: cxmphxp - standardized for creatinine
+  action: added
+- label: cxmphxp - normalized for specific gravity
+  action: added
+- label: mbzp - standardized for creatinine
+  action: added
+- label: mbzp - normalized for specific gravity
+  action: added
+- label: mcop - standardized for creatinine
+  action: added
+- label: mcop - normalized for specific gravity
+  action: added
+- label: meha - standardized for creatinine
+  action: added
+- label: meha - normalized for specific gravity
+  action: added
+- label: mehp - standardized for creatinine
+  action: added
+- label: mehp - normalized for specific gravity
+  action: added
+- label: mehtp - standardized for creatinine
+  action: added
+- label: mehtp - normalized for specific gravity
+  action: added
+- label: mep - standardized for creatinine
+  action: added
+- label: mep - normalized for specific gravity
+  action: added
+- label: mhnp - standardized for creatinine
+  action: added
+- label: mhnp - normalized for specific gravity
+  action: added
+- label: mibp - standardized for creatinine
+  action: added
+- label: mibp - normalized for specific gravity
+  action: added
+- label: minp - standardized for creatinine
+  action: added
+- label: minp - normalized for specific gravity
+  action: added
+- label: mnbp - standardized for creatinine
+  action: added
+- label: mnbp - normalized for specific gravity
+  action: added
+- label: ohmeha - standardized for creatinine
+  action: added
+- label: ohmeha - normalized for specific gravity
+  action: added
+- label: ohmehp - standardized for creatinine
+  action: added
+- label: ohmehp - normalized for specific gravity
+  action: added
+- label: ohmehtp - standardized for creatinine
+  action: added
+- label: ohmehtp - normalized for specific gravity
+  action: added
+- label: ohmidp - standardized for creatinine
+  action: added
+- label: ohmidp - normalized for specific gravity
+  action: added
+- label: ohmphp - standardized for creatinine
+  action: added
+- label: ohmphp - normalized for specific gravity
+  action: added
+- label: ohmprhpp - standardized for creatinine
+  action: added
+- label: ohmprhpp - normalized for specific gravity
+  action: added
+- label: onefourdehtm - standardized for creatinine
+  action: added
+- label: onefourdehtm - normalized for specific gravity
+  action: added
+- label: oxomeha - standardized for creatinine
+  action: added
+- label: oxomeha - normalized for specific gravity
+  action: added
+- label: oxomehp - standardized for creatinine
+  action: added
+- label: oxomehp - normalized for specific gravity
+  action: added
+- label: oxomehtp - standardized for creatinine
+  action: added
+- label: oxomehtp - normalized for specific gravity
+  action: added
+- label: twofourdehtm - standardized for creatinine
+  action: added
+- label: twofourdehtm - normalized for specific gravity
+  action: added
+- label: Exposure Biomarker measured
+  action: added
+- label: LOD - available
+  action: added
+- label: Provide the limit of detection (LOD) for the selected biomarker
+  action: added
+- label: Unit of measure LOD
+  action: added
+- label: Definition LOD
+  action: added
+- label: Definition LOD - Other
+  action: added
+- label: LOQ - available
+  action: added
+- label: Provide the limit of quantification (LOQ) for the selected biomarker
+  action: added
+- label: Unit of measure LOQ
+  action: added
+- label: Definition LOQ
+  action: added
+- label: Definition LOQ - Other
+  action: added
+- label: Number of samples analysed
+  action: added
+- label: Number of samples below LOD
+  action: added
+- label: Number of samples below LOQ
+  action: added
+- label: Institution name of the laboratory performing the chemical analysis
+  action: added
+- label: Country of the laboratory performing the chemical analysis
+  action: added
+- label: if applicable; name of the group within the institution/laboratory performing
+    the chemical analysis
+  action: added
+- label: Analytical method used
+  action: added
+- label: Specify "other" Analytical method
+  action: added
+- label: List successful participation in proficiency tests (PTs)
+  action: added
+- label: Specify "other" PTs
+  action: added
+- label: Sample preparation method
+  action: added
+- label: Are field blank samples run to check for contamination?
+  action: added
+- label: If field blank samples are checked, on how many samples were blanks run?
+  action: added
+- label: Are duplicate or replicate samples analyzed to ensure precision?
+  action: added
+- label: If yes, what is the number of duplicates/replicates?
+  action: added
+- label: Analytical phase QA/QC
+  action: added
+- label: Link to Data collection Instance
+  action: added
+- label: Data collection Identifier provided as URL
+  action: added
+- label: Name of the data collection
+  action: added
+- label: Short name or acronym of the data collection
+  action: added
+- label: Language used
+  action: added
+- label: Description
+  action: added
+- label: Publisher
+  action: added
+- label: Start date of the data collection
+  action: added
+- label: End date of the data collection
+  action: added
+- label: Implementation level
+  action: added
+- label: Email
+  action: added
+- label: Resource type
+  action: added
+- label: Distribution File Format
+  action: added
+- label: Conforms To
+  action: added
+- label: Data usage license
+  action: added
+- label: 'Access conditions '
+  action: added
+- label: Access procedures
+  action: added
+- label: Text for acknowledgement
+  action: added
+- label: Text for disclaimer
+  action: added
+- label: Anonymization process
+  action: added
+- label: Pseudonymization/anonymization process
+  action: added
+- label: Aggregation level of data
+  action: added
+- label: R-script or tool version number
+  action: added
+- label: Descriptive analysis
+  action: added
+- label: Stratification procedures
+  action: added
+- label: 'Data transformations or scaling applied '
+  action: added
+- label: Handling values below LOD
+  action: added
+- label: Please, provide a suitable description in case you selected 'other'
+  action: added
+- label: Handling values below LOQ
+  action: added
+- label: Please, provide a suitable description in case you selected 'other'.1
+  action: added
+- label: Handling missing values
+  action: added
+- label: Codebook Reference
+  action: added
+- label: Codebook Name
+  action: added
+- label: Codebook Version
+  action: added
+- label: Data formats available
+  action: added
+- label: File size
+  action: added
+- label: Access service
+  action: added
+- label: Access URL
+  action: added
+- label: Affiliation  (Institute)
+  action: added
+- label: Institute country
+  action: added
+- label: Type of Institution
+  action: added
+- label: Type of Institution -  Other
+  action: added
+- label: Project Identifier provided as URL
+  action: added
+- label: Name of the project (English)
+  action: added
+- label: Name of the project (Original language)
+  action: added
+- label: Short name or acronym of the project
+  action: added
+- label: Funder
+  action: added
+- label: Budget in Euro
+  action: added
+- label: Start date of the project
+  action: added
+- label: End date of the project
+  action: added
+- label: Activity status
+  action: added
+- label: Other - activity status
+  action: added
+- label: Links
+  action: added
+- label: Link to Study Metadata Instance
+  action: added
+- label: Type of sample collected
+  action: added
+- label: If you selected human biological samples, specify the matrix
+  action: added
+- label: If you selected environmental samples specify the matrix
+  action: added
+- label: Start date of sampling
+  action: added
+- label: End date of sampling
+  action: added
+- label: Number of samples
+  action: added
+- label: Planned minimal volume of sample
+  action: added
+- label: Unit of measure (of sample volume)
+  action: added
+- label: Are biobank samples collected
+  action: added
+- label: Sample collection method
+  action: added
+- label: Where does sample collection take place?
+  action: added
+- label: Other - Place of sample collection
+  action: added
+- label: Sampling container material
+  action: added
+- label: Dilution level
+  action: added
+- label: Other - dilution level
+  action: added
+- label: Blood lipids
+  action: added
+- label: Other - blood lipids
+  action: added
+- label: Quality Assurance (pre-analytical)
+  action: added
+- label: Other - Quality Assurance
+  action: added
+- label: Effect biomarkers measured
+  action: added
+- label: Link to Chemical Analysis Instance
+  action: added
+- label: ORCID
+  action: added
+- label: 'Questionnaires used '
+  action: added
+- label: Mode of questionnaire conduct
+  action: added
+- label: Who answered the questionnaire
+  action: added
+- label: Other - person who answered the questionnaire
+  action: added
+- label: Is the questionnaire available online?
+  action: added
+- label: In case you answered with yes, please provide a link to the questionnaire
+  action: added
+- label: Type of target population
+  action: added
+- label: Other - target population
+  action: added
+- label: Number of participants
+  action: added
+- label: from age
+  action: added
+- label: to age
+  action: added
+- label: Sex of participant
+  action: added
+- label: Inclusion criteria
+  action: added
+- label: Exclusion criteria
+  action: added
+- label: Lifestyle information
+  action: added
+- label: Socio-demographic information
+  action: added
+- label: Environmental factors information
+  action: added
+- label: "Sampling frame \n"
+  action: added
+- label: Other - sampling frame
+  action: added
+- label: "Recruitment method\_\n"
+  action: added
+- label: Other -  recruitment method
+  action: added
+- label: Repeated sampling
+  action: added
+- label: Repeated sampling-description
+  action: added
+- label: What type of anthropometric & health measurements are performed by fieldworkers?
+  action: added
+- label: Other- anthropometric & health measurements are performed by fieldworkers?
+  action: added
+- label: Link to Sample Metadata Instance
+  action: added
+- label: Study Identifier provided as URL
+  action: added
+- label: Study name (English)
+  action: added
+- label: Study name (Original language)
+  action: added
+- label: Short name or acronym of the study
+  action: added
+- label: Start date of the study
+  action: added
+- label: End date of the study
+  action: added
+- label: Identifier of related studies
+  action: added
+- label: 'Role of contact '
+  action: added
+- label: Monitoring reasons
+  action: added
+- label: Monitoring reasons - Other
+  action: added
+- label: Type of study
+  action: added
+- label: Countries
+  action: added
+- label: Study setting
+  action: added
+- label: Sampling method
+  action: added
+- label: Sampling method description
+  action: added
+- label: Ethical approval - obtained
+  action: added
+- label: Ethical approval - name of ethics committee
+  action: added
+- label: Ethical approval - date of approval
+  action: added
+- label: Seasonal coverage
+  action: added
+- label: Is it intended to link the collected data to other data registries?
+  action: added
+- label: In case you link to other data registries, what type of data registry?
+  action: added
+- label: Other - data registry
+  action: added
+- label: Please, provide a link to the data registry
+  action: added
+- label: Does your population sample have subgroups that need to be differentiated
+    from each other? Please indicate how many.
+  action: added
+- label: Access conditions - Other
+  action: added
+- label: Link to Study Population Metadata Instance(s)
+  action: added
