@@ -4,7 +4,6 @@ permissions:
   contents: write
 
 on:
-    pull_request:
     release:
         types: [published]
 
@@ -17,7 +16,7 @@ jobs:
             namespace: https://w3id.org/peh/terms/
             namespace_label: pehterms
             linkml_schema: https://raw.githubusercontent.com/eu-parc/parco-hbm/main/linkml/schema/peh.yaml
-            data: data/ObservablePropertyList_data.yml
+            data: data/data.yaml
         secrets:
             token: ${{ secrets.GITHUB_TOKEN }}
 
