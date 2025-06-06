@@ -1,5 +1,5 @@
 observable_properties:
-- id: Todaysdate
+- id: https://w3id.org/peh/OP-3eba1e9f1c
   unique_name: Todaysdate
   name: Todaysdate
   description: Today's date (as filled by participant on questionnaire)
@@ -20,7 +20,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: Todaysdate
-- id: N1Roleoftherespondent
+- id: https://w3id.org/peh/OP-bec0900adf
   unique_name: N1Roleoftherespondent
   name: N1Roleoftherespondent
   description: 1. Role of respondent
@@ -44,7 +44,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: N1Roleoftherespondent
-- id: N2Ageofrespondent
+- id: https://w3id.org/peh/OP-f809c68332
   unique_name: N2Ageofrespondent
   name: N2Ageofrespondent
   description: 2. Age of respondent (years)
@@ -65,7 +65,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: N2Ageofrespondent
-- id: N3familysituation
+- id: https://w3id.org/peh/OP-2b6de13692
   unique_name: N3familysituation
   name: N3familysituation
   description: 3. What is your family situation?
@@ -89,7 +89,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: N3familysituation
-- id: Work_resp
+- id: https://w3id.org/peh/OP-34f02954ce
   unique_name: Work_resp
   name: Work_resp
   description: 'Current occupation of respondent: Work'
@@ -106,7 +106,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: Work_resp
-- id: Work_part
+- id: https://w3id.org/peh/OP-109e219b8c
   unique_name: Work_part
   name: Work_part
   description: 'Current occupation of partner of respondent: Work'
@@ -123,7 +123,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: Work_part
-- id: Parentalleave_resp
+- id: https://w3id.org/peh/OP-e565f51614
   unique_name: Parentalleave_resp
   name: Parentalleave_resp
   description: 'Current occupation of respondent: Parental leave'
@@ -141,7 +141,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: Parentalleave_resp
-- id: Parentalleave_part
+- id: https://w3id.org/peh/OP-3880fd62d1
   unique_name: Parentalleave_part
   name: Parentalleave_part
   description: 'Current occupation of partner of respondent: Parental leave'
@@ -158,7 +158,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: Parentalleave_part
-- id: Student_resp
+- id: https://w3id.org/peh/OP-ca3f0d237f
   unique_name: Student_resp
   name: Student_resp
   description: 'Current occupation of respondent: Student'
@@ -175,7 +175,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: Student_resp
-- id: Student_part
+- id: https://w3id.org/peh/OP-fc362f32f4
   unique_name: Student_part
   name: Student_part
   description: 'Current occupation of partner of respondent: Student'
@@ -192,7 +192,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: Student_part
-- id: Jobseeke_respr
+- id: https://w3id.org/peh/OP-a4b564b5ef
   unique_name: Jobseeke_respr
   name: Jobseeke_respr
   description: 'Current occupation of respondent: Job-seeker'
@@ -209,7 +209,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: Jobseeke_respr
-- id: Jobseeke_part
+- id: https://w3id.org/peh/OP-0db0a323d3
   unique_name: Jobseeke_part
   name: Jobseeke_part
   description: 'Current occupation of partner of respondent: Job-seeker'
@@ -226,7 +226,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: Jobseeke_part
-- id: Sickleavefor3months_resp
+- id: https://w3id.org/peh/OP-5f12c8675e
   unique_name: Sickleavefor3months_resp
   name: Sickleavefor3months_resp
   description: 'Current occupation of respondent: Sick leave for > 3 months'
@@ -244,7 +244,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: Sickleavefor3months_resp
-- id: Sickleavefor3months_part
+- id: https://w3id.org/peh/OP-880ff239a2
   unique_name: Sickleavefor3months_part
   name: Sickleavefor3months_part
   description: 'Current occupation of partner of respondent: Sick leave for > 3 months'
@@ -262,7 +262,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: Sickleavefor3months_part
-- id: Housework_resp
+- id: https://w3id.org/peh/OP-d0727b10df
   unique_name: Housework_resp
   name: Housework_resp
   description: 'Current occupation of respondent: Housework'
@@ -279,7 +279,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: Housework_resp
-- id: Housework_part
+- id: https://w3id.org/peh/OP-b1674a8dbd
   unique_name: Housework_part
   name: Housework_part
   description: 'Current occupation of partner of respondent: Housework'
@@ -296,7 +296,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: Housework_part
-- id: Retirement_resp
+- id: https://w3id.org/peh/OP-bdfcbe03ee
   unique_name: Retirement_resp
   name: Retirement_resp
   description: 'Current occupation of respondent: Retirement'
@@ -313,7 +313,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: Retirement_resp
-- id: Retirement_part
+- id: https://w3id.org/peh/OP-40f7edc7aa
   unique_name: Retirement_part
   name: Retirement_part
   description: 'Current occupation of partner of respondent: Retirement'
@@ -330,7 +330,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: Retirement_part
-- id: Other_resp
+- id: https://w3id.org/peh/OP-c6b3583022
   unique_name: Other_resp
   name: Other_resp
   description: 'Current occupation of respondent: Other'
@@ -347,7 +347,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: Other_resp
-- id: Other_part
+- id: https://w3id.org/peh/OP-e8683485a1
   unique_name: Other_part
   name: Other_part
   description: 'Current occupation of partner of respondent: Other'
@@ -364,7 +364,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: Other_part
-- id: total_income_category
+- id: https://w3id.org/peh/OP-ff4ad0efdb
   unique_name: total_income_category
   name: total_income_category
   description: 5. Average monthly total net income (in Euros)
@@ -400,7 +400,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: total_income_category
-- id: N6Incomeina9stepladder
+- id: https://w3id.org/peh/OP-801c508581
   unique_name: N6Incomeina9stepladder
   name: N6Incomeina9stepladder
   description: 6. Income in a 9 step ladder
@@ -417,7 +417,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: N6Incomeina9stepladder
-- id: N71educationrespondent
+- id: https://w3id.org/peh/OP-4a601edaef
   unique_name: N71educationrespondent
   name: N71educationrespondent
   description: 7.1. Highest level education (respondent)
@@ -456,7 +456,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: N71educationrespondent
-- id: N72educationpartner
+- id: https://w3id.org/peh/OP-745244d6f4
   unique_name: N72educationpartner
   name: N72educationpartner
   description: 7.2. Highest level education (Partner)
@@ -495,7 +495,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: N72educationpartner
-- id: DD_asthma_allergy_family
+- id: https://w3id.org/peh/OP-58078b6bcf
   unique_name: DD_asthma_allergy_family
   name: DD_asthma_allergy_family
   description: Do you have doctor-diagnosed asthma or doctor-diagnosed allergy within
@@ -521,7 +521,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: DD_asthma_allergy_family
-- id: Asthma_resp
+- id: https://w3id.org/peh/OP-0810891b4a
   unique_name: Asthma_resp
   name: Asthma_resp
   description: Asthma Respondent
@@ -540,7 +540,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: Asthma_resp
-- id: Asthma_med_resp
+- id: https://w3id.org/peh/OP-b52ce1f765
   unique_name: Asthma_med_resp
   name: Asthma_med_resp
   description: Asthma Medication Respondent
@@ -559,7 +559,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: Asthma_med_resp
-- id: Hayfever_resp
+- id: https://w3id.org/peh/OP-926acd2af1
   unique_name: Hayfever_resp
   name: Hayfever_resp
   description: Hayfever Respondent
@@ -578,7 +578,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: Hayfever_resp
-- id: Hayfever_med_resp
+- id: https://w3id.org/peh/OP-4bd867175e
   unique_name: Hayfever_med_resp
   name: Hayfever_med_resp
   description: Hayfever Medication Respondent
@@ -597,7 +597,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: Hayfever_med_resp
-- id: Eczema_resp
+- id: https://w3id.org/peh/OP-6e075ec30c
   unique_name: Eczema_resp
   name: Eczema_resp
   description: 'Eczema Respondent '
@@ -616,7 +616,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: Eczema_resp
-- id: Eczema_med_resp
+- id: https://w3id.org/peh/OP-a0cb4f6b3b
   unique_name: Eczema_med_resp
   name: Eczema_med_resp
   description: Eczema Medication Respondent
@@ -635,7 +635,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: Eczema_med_resp
-- id: Other_disease_resp
+- id: https://w3id.org/peh/OP-ae096becdd
   unique_name: Other_disease_resp
   name: Other_disease_resp
   description: 'Other Respiratory diseases and allergies Respondent '
@@ -654,7 +654,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: Other_disease_resp
-- id: Other_med_resp
+- id: https://w3id.org/peh/OP-b1e21591cd
   unique_name: Other_med_resp
   name: Other_med_resp
   description: Other Respiratory diseases and allergies Medication Respondent
@@ -673,7 +673,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: Other_med_resp
-- id: Asthma_resp1
+- id: https://w3id.org/peh/OP-4436cb3a79
   unique_name: Asthma_resp1
   name: Asthma_resp1
   description: Asthma Partner of respondent
@@ -692,7 +692,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: Asthma_resp1
-- id: Asthma_med_resp1
+- id: https://w3id.org/peh/OP-681f0f70f8
   unique_name: Asthma_med_resp1
   name: Asthma_med_resp1
   description: Asthma Medication Partner of respondent
@@ -711,7 +711,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: Asthma_med_resp1
-- id: Hayfever_resp1
+- id: https://w3id.org/peh/OP-3741f20bd6
   unique_name: Hayfever_resp1
   name: Hayfever_resp1
   description: Hayfever Partner of respondent
@@ -730,7 +730,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: Hayfever_resp1
-- id: Hayfever_med_resp1
+- id: https://w3id.org/peh/OP-9b3aba498b
   unique_name: Hayfever_med_resp1
   name: Hayfever_med_resp1
   description: Hayfever Medication Partner of respondent
@@ -749,7 +749,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: Hayfever_med_resp1
-- id: Eczema_resp1
+- id: https://w3id.org/peh/OP-d0a4ccea6a
   unique_name: Eczema_resp1
   name: Eczema_resp1
   description: Eczema Partner of respondent
@@ -768,7 +768,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: Eczema_resp1
-- id: Eczema_med_resp1
+- id: https://w3id.org/peh/OP-1c8813d5bf
   unique_name: Eczema_med_resp1
   name: Eczema_med_resp1
   description: Eczema Medication Partner of respondent
@@ -787,7 +787,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: Eczema_med_resp1
-- id: Other_disease_resp1
+- id: https://w3id.org/peh/OP-1fd223eae1
   unique_name: Other_disease_resp1
   name: Other_disease_resp1
   description: Other Respiratory diseases and allergies Partner of respondent
@@ -806,7 +806,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: Other_disease_resp1
-- id: Other_med_resp1
+- id: https://w3id.org/peh/OP-1e7aa4dda6
   unique_name: Other_med_resp1
   name: Other_med_resp1
   description: Other Respiratory diseases and allergies Medication Partner of respondent
@@ -825,7 +825,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: Other_med_resp1
-- id: Asthma_resp11
+- id: https://w3id.org/peh/OP-848cb52ca2
   unique_name: Asthma_resp11
   name: Asthma_resp11
   description: Asthma Children of respondent
@@ -844,7 +844,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: Asthma_resp11
-- id: Asthma_med_resp11
+- id: https://w3id.org/peh/OP-32ca431682
   unique_name: Asthma_med_resp11
   name: Asthma_med_resp11
   description: Asthma Medication Children of respondent
@@ -863,7 +863,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: Asthma_med_resp11
-- id: Hayfever_resp11
+- id: https://w3id.org/peh/OP-bc07682329
   unique_name: Hayfever_resp11
   name: Hayfever_resp11
   description: Hayfever Children of respondent
@@ -882,7 +882,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: Hayfever_resp11
-- id: Hayfever_med_resp11
+- id: https://w3id.org/peh/OP-9ffc891ca9
   unique_name: Hayfever_med_resp11
   name: Hayfever_med_resp11
   description: Hayfever Medication Children of respondent
@@ -901,7 +901,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: Hayfever_med_resp11
-- id: Eczema_resp11
+- id: https://w3id.org/peh/OP-c9faf66c62
   unique_name: Eczema_resp11
   name: Eczema_resp11
   description: Eczema Children of respondent
@@ -920,7 +920,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: Eczema_resp11
-- id: Eczema_med_resp11
+- id: https://w3id.org/peh/OP-263cfdba54
   unique_name: Eczema_med_resp11
   name: Eczema_med_resp11
   description: Eczema Medication Children of respondent
@@ -939,7 +939,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: Eczema_med_resp11
-- id: Other_disease_resp11
+- id: https://w3id.org/peh/OP-4d9d44f7ba
   unique_name: Other_disease_resp11
   name: Other_disease_resp11
   description: Other Respiratory diseases and allergies Children of respondent
@@ -958,7 +958,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: Other_disease_resp11
-- id: Other_med_resp11
+- id: https://w3id.org/peh/OP-39ef42e4ed
   unique_name: Other_med_resp11
   name: Other_med_resp11
   description: Other Respiratory diseases and allergies Medication Children of respondent
@@ -977,7 +977,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: Other_med_resp11
-- id: Eyeproblem
+- id: https://w3id.org/peh/OP-1f0ba27a87
   unique_name: Eyeproblem
   name: Eyeproblem
   description: Eye problem
@@ -1006,7 +1006,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: Eyeproblem
-- id: Noseproblem
+- id: https://w3id.org/peh/OP-e4b86ada93
   unique_name: Noseproblem
   name: Noseproblem
   description: Nose problem
@@ -1035,7 +1035,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: Noseproblem
-- id: Throatproblem
+- id: https://w3id.org/peh/OP-434e1fbf3e
   unique_name: Throatproblem
   name: Throatproblem
   description: Throat problem
@@ -1064,7 +1064,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: Throatproblem
-- id: Headache
+- id: https://w3id.org/peh/OP-cb68aa8dc2
   unique_name: Headache
   name: Headache
   description: Headache
@@ -1093,7 +1093,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: Headache
-- id: Memoryproblem
+- id: https://w3id.org/peh/OP-b5c6497068
   unique_name: Memoryproblem
   name: Memoryproblem
   description: Memory problem
@@ -1122,7 +1122,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: Memoryproblem
-- id: Dizziness
+- id: https://w3id.org/peh/OP-0a5a3ec6a2
   unique_name: Dizziness
   name: Dizziness
   description: Dizziness
@@ -1151,7 +1151,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: Dizziness
-- id: Fatiguesleepiness
+- id: https://w3id.org/peh/OP-e90c5d1656
   unique_name: Fatiguesleepiness
   name: Fatiguesleepiness
   description: Fatigue, sleepiness
@@ -1180,7 +1180,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: Fatiguesleepiness
-- id: heavyhead
+- id: https://w3id.org/peh/OP-393f52a40e
   unique_name: heavyhead
   name: heavyhead
   description: Feeling of having a heavy head
@@ -1209,7 +1209,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: heavyhead
-- id: Eczema_lastmonth
+- id: https://w3id.org/peh/OP-082fe8ad28
   unique_name: Eczema_lastmonth
   name: Eczema_lastmonth
   description: Eczema or atopic dermatitis
@@ -1238,7 +1238,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: Eczema_lastmonth
-- id: Wheezing
+- id: https://w3id.org/peh/OP-97526c50ff
   unique_name: Wheezing
   name: Wheezing
   description: Wheezing or other breathing problems
@@ -1267,7 +1267,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: Wheezing
-- id: Stagnantbadair
+- id: https://w3id.org/peh/OP-89ed0f5b9a
   unique_name: Stagnantbadair
   name: Stagnantbadair
   description: Stagnant ”bad” air
@@ -1294,7 +1294,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: Stagnantbadair
-- id: Unpleasantair
+- id: https://w3id.org/peh/OP-964098dd1c
   unique_name: Unpleasantair
   name: Unpleasantair
   description: Unpleasant air
@@ -1321,7 +1321,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: Unpleasantair
-- id: Pungentodor
+- id: https://w3id.org/peh/OP-46d086438b
   unique_name: Pungentodor
   name: Pungentodor
   description: Pungent odor
@@ -1348,7 +1348,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: Pungentodor
-- id: Mouldodor
+- id: https://w3id.org/peh/OP-994b76be2d
   unique_name: Mouldodor
   name: Mouldodor
   description: Mould odor
@@ -1375,7 +1375,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: Mouldodor
-- id: Earthyodor
+- id: https://w3id.org/peh/OP-9446cebc1b
   unique_name: Earthyodor
   name: Earthyodor
   description: Earthy odor
@@ -1402,7 +1402,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: Earthyodor
-- id: Tobaccosmoke
+- id: https://w3id.org/peh/OP-a4c4394454
   unique_name: Tobaccosmoke
   name: Tobaccosmoke
   description: Tobacco smoke
@@ -1429,7 +1429,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: Tobaccosmoke
-- id: Dryair
+- id: https://w3id.org/peh/OP-2aa652622c
   unique_name: Dryair
   name: Dryair
   description: Dry air
@@ -1456,7 +1456,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: Dryair
-- id: Dampair
+- id: https://w3id.org/peh/OP-8d8127cc53
   unique_name: Dampair
   name: Dampair
   description: Damp air
@@ -1483,7 +1483,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: Dampair
-- id: Illumination_living
+- id: https://w3id.org/peh/OP-92e20f7045
   unique_name: Illumination_living
   name: Illumination_living
   description: Illumination in the living room
@@ -1502,7 +1502,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: Illumination_living
-- id: Noise
+- id: https://w3id.org/peh/OP-27be70fdbd
   unique_name: Noise
   name: Noise
   description: Noise
@@ -1520,7 +1520,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: Noise
-- id: Indoorairquality
+- id: https://w3id.org/peh/OP-bd724a6aa4
   unique_name: Indoorairquality
   name: Indoorairquality
   description: Indoor air quality
@@ -1539,7 +1539,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: Indoorairquality
-- id: Outdoorairquality
+- id: https://w3id.org/peh/OP-84ba44ee4a
   unique_name: Outdoorairquality
   name: Outdoorairquality
   description: Outdoor air quality
@@ -1558,7 +1558,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: Outdoorairquality
-- id: Thermalcomfortinspringsummer
+- id: https://w3id.org/peh/OP-0a52b0572c
   unique_name: Thermalcomfortinspringsummer
   name: Thermalcomfortinspringsummer
   description: Thermal comfort in spring/summer
@@ -1577,7 +1577,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: Thermalcomfortinspringsummer
-- id: Thermalcomfortinautumnwinter
+- id: https://w3id.org/peh/OP-0ac62e6c35
   unique_name: Thermalcomfortinautumnwinter
   name: Thermalcomfortinautumnwinter
   description: Thermal comfort in autumn/winter
@@ -1596,7 +1596,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: Thermalcomfortinautumnwinter
-- id: N5anyissue
+- id: https://w3id.org/peh/OP-f8f5e2964a
   unique_name: N5anyissue
   name: N5anyissue
   description: 5. Are there any other indoor air quality related issues you consider
@@ -1620,7 +1620,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: N5anyissue
-- id: smoking_room
+- id: https://w3id.org/peh/OP-2314b697d7
   unique_name: smoking_room
   name: smoking_room
   description: Presence in a room where smoking was taking place (by yourself or by
@@ -1646,7 +1646,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: smoking_room
-- id: smoke_room_hour
+- id: https://w3id.org/peh/OP-0cb4425044
   unique_name: smoke_room_hour
   name: smoke_room_hour
   description: If answered <Yes>, how many hours?
@@ -1664,7 +1664,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: smoke_room_hour
-- id: burning_fireplace
+- id: https://w3id.org/peh/OP-cb9c57f47d
   unique_name: burning_fireplace
   name: burning_fireplace
   description: Presence in a room with a burning fireplace, wood stove or coal stove
@@ -1690,7 +1690,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: burning_fireplace
-- id: Cigarettesmoking
+- id: https://w3id.org/peh/OP-0472dadcc4
   unique_name: Cigarettesmoking
   name: Cigarettesmoking
   description: Cigarette smoking
@@ -1715,7 +1715,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: Cigarettesmoking
-- id: Ecigarette
+- id: https://w3id.org/peh/OP-108f0068cb
   unique_name: Ecigarette
   name: Ecigarette
   description: E-cigarette smoking or vaping
@@ -1740,7 +1740,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: Ecigarette
-- id: grilled_barbeque
+- id: https://w3id.org/peh/OP-5c4d9a719f
   unique_name: grilled_barbeque
   name: grilled_barbeque
   description: Consumption of grilled food or barbeque
@@ -1765,7 +1765,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: grilled_barbeque
-- id: deepfriedfood
+- id: https://w3id.org/peh/OP-351d345061
   unique_name: deepfriedfood
   name: deepfriedfood
   description: Consumption of deep-fried food
@@ -1790,7 +1790,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: deepfriedfood
-- id: ffish_seafood
+- id: https://w3id.org/peh/OP-b999bdc5c6
   unique_name: ffish_seafood
   name: ffish_seafood
   description: Consumption of fish or seafood
@@ -1815,7 +1815,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: ffish_seafood
-- id: readymademeals
+- id: https://w3id.org/peh/OP-f15edeb4c5
   unique_name: readymademeals
   name: readymademeals
   description: Consumption of ready-made meals
@@ -1840,7 +1840,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: readymademeals
-- id: fastfood
+- id: https://w3id.org/peh/OP-66a8b1ae3c
   unique_name: fastfood
   name: fastfood
   description: Consumption of fast food
@@ -1865,7 +1865,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: fastfood
-- id: cannedfoods
+- id: https://w3id.org/peh/OP-25ec836ed7
   unique_name: cannedfoods
   name: cannedfoods
   description: Consumption of canned foods
@@ -1890,7 +1890,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: cannedfoods
-- id: motorizedvehicle
+- id: https://w3id.org/peh/OP-e6b03be6c3
   unique_name: motorizedvehicle
   name: motorizedvehicle
   description: Traveling through heavy traffic in a motorized vehicle
@@ -1915,7 +1915,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: motorizedvehicle
-- id: Cycling_walking
+- id: https://w3id.org/peh/OP-dfb56346d3
   unique_name: Cycling_walking
   name: Cycling_walking
   description: Cycling or walking along heavy traffic
@@ -1940,7 +1940,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: Cycling_walking
-- id: personalcareproducts
+- id: https://w3id.org/peh/OP-83cc71e74e
   unique_name: personalcareproducts
   name: personalcareproducts
   description: Use of personal care products
@@ -1969,7 +1969,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: personalcareproducts
-- id: personalcareproducts_Ecolabel
+- id: https://w3id.org/peh/OP-4c2c739ae5
   unique_name: personalcareproducts_Ecolabel
   name: personalcareproducts_Ecolabel
   description: Use of personal care products with national or EU Ecolabel
@@ -1998,7 +1998,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: personalcareproducts_Ecolabel
-- id: Fragrancediffusers
+- id: https://w3id.org/peh/OP-7965391aea
   unique_name: Fragrancediffusers
   name: Fragrancediffusers
   description: Fragrance diffusers
@@ -2023,7 +2023,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: Fragrancediffusers
-- id: Indoor_pesticide_insecticide
+- id: https://w3id.org/peh/OP-12cce96b1d
   unique_name: Indoor_pesticide_insecticide
   name: Indoor_pesticide_insecticide
   description: Indoor use of pesticides or insecticides
@@ -2048,7 +2048,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: Indoor_pesticide_insecticide
-- id: outdoor_pesticide_insecticide
+- id: https://w3id.org/peh/OP-b8236e866c
   unique_name: outdoor_pesticide_insecticide
   name: outdoor_pesticide_insecticide
   description: Outdoor use of pesticides/insecticides
@@ -2073,7 +2073,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: outdoor_pesticide_insecticide
-- id: Antifleaproduct
+- id: https://w3id.org/peh/OP-952cbd5eff
   unique_name: Antifleaproduct
   name: Antifleaproduct
   description: Anti-flea product for pets
@@ -2098,7 +2098,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: Antifleaproduct
-- id: Material_ceramics
+- id: https://w3id.org/peh/OP-8a9b746b7c
   unique_name: Material_ceramics
   name: Material_ceramics
   description: Material to make your own ceramics
@@ -2123,7 +2123,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: Material_ceramics
-- id: Paintgluevarnish
+- id: https://w3id.org/peh/OP-170655d00a
   unique_name: Paintgluevarnish
   name: Paintgluevarnish
   description: Paint, glue, varnish
@@ -2148,7 +2148,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: Paintgluevarnish
-- id: Cleaningproducts
+- id: https://w3id.org/peh/OP-77ca986f3f
   unique_name: Cleaningproducts
   name: Cleaningproducts
   description: Cleaning products
@@ -2173,7 +2173,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: Cleaningproducts
-- id: Cleaning_Ecolabel
+- id: https://w3id.org/peh/OP-b307fc0480
   unique_name: Cleaning_Ecolabel
   name: Cleaning_Ecolabel
   description: Cleaning products with national or EU Ecolabel
@@ -2198,7 +2198,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: Cleaning_Ecolabel
-- id: Personalhygienesprays
+- id: https://w3id.org/peh/OP-9beb8e5fa0
   unique_name: Personalhygienesprays
   name: Personalhygienesprays
   description: Personal hygiene sprays e.g. deodorant, hairspray
@@ -2223,7 +2223,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: Personalhygienesprays
-- id: N1Birthdate
+- id: https://w3id.org/peh/OP-4509ba495e
   unique_name: N1Birthdate
   name: N1Birthdate
   label: 1. Birthdate
@@ -2243,7 +2243,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: N1Birthdate
-- id: N2Birthweight
+- id: https://w3id.org/peh/OP-6ed6209fd3
   unique_name: N2Birthweight
   name: N2Birthweight
   description: 2. Birthweight (in gram)
@@ -2260,7 +2260,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: N2Birthweight
-- id: Birthweight_unknown
+- id: https://w3id.org/peh/OP-0c122438db
   unique_name: Birthweight_unknown
   name: Birthweight_unknown
   description: Birthweight - don't know/prefer not to answer
@@ -2277,7 +2277,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: Birthweight_unknown
-- id: Weight_now
+- id: https://w3id.org/peh/OP-c001498939
   unique_name: Weight_now
   name: Weight_now
   description: 3. Weight now (kg)
@@ -2294,7 +2294,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: Weight_now
-- id: Height_now
+- id: https://w3id.org/peh/OP-b87c293434
   unique_name: Height_now
   name: Height_now
   description: 4. Height now (cm)
@@ -2311,7 +2311,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: Height_now
-- id: Sex_child
+- id: https://w3id.org/peh/OP-b55e701825
   unique_name: Sex_child
   name: Sex_child
   description: 5. Sex
@@ -2337,7 +2337,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: Sex_child
-- id: school_childcare
+- id: https://w3id.org/peh/OP-3f1dc8b021
   unique_name: school_childcare
   name: school_childcare
   description: 6. Does the child go to school or attend childcare?
@@ -2354,7 +2354,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: school_childcare
-- id: Wheezing_child
+- id: https://w3id.org/peh/OP-09f7bb1798
   unique_name: Wheezing_child
   name: Wheezing_child
   description: Wheezing
@@ -2378,7 +2378,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: Wheezing_child
-- id: Allergies_child_dd
+- id: https://w3id.org/peh/OP-fad2b8911c
   unique_name: Allergies_child_dd
   name: Allergies_child_dd
   description: Allergies (diagnosed by a doctor)
@@ -2403,7 +2403,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: Allergies_child_dd
-- id: allergy_source
+- id: https://w3id.org/peh/OP-291b2fd357
   unique_name: allergy_source
   name: allergy_source
   description: If answered <Yes>, please specify the source of the allergy
@@ -2421,7 +2421,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: allergy_source
-- id: Asthma_child_dd
+- id: https://w3id.org/peh/OP-84a3d61194
   unique_name: Asthma_child_dd
   name: Asthma_child_dd
   description: Asthma (diagnosed by a doctor)
@@ -2446,7 +2446,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: Asthma_child_dd
-- id: eczema_child_dd
+- id: https://w3id.org/peh/OP-e9202d1cee
   unique_name: eczema_child_dd
   name: eczema_child_dd
   description: Eczema (diagnosed by a doctor)
@@ -2471,7 +2471,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: eczema_child_dd
-- id: Eyeproblem_child
+- id: https://w3id.org/peh/OP-70ce4406f0
   unique_name: Eyeproblem_child
   name: Eyeproblem_child
   description: Eye problem
@@ -2500,7 +2500,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: Eyeproblem_child
-- id: Noseproblem_child
+- id: https://w3id.org/peh/OP-f1a4d7c80d
   unique_name: Noseproblem_child
   name: Noseproblem_child
   description: Nose problem
@@ -2529,7 +2529,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: Noseproblem_child
-- id: Throatproblem_child
+- id: https://w3id.org/peh/OP-16f144beb4
   unique_name: Throatproblem_child
   name: Throatproblem_child
   description: Throat problem
@@ -2558,7 +2558,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: Throatproblem_child
-- id: eczema_child
+- id: https://w3id.org/peh/OP-61dc8da13c
   unique_name: eczema_child
   name: eczema_child
   description: Eczema
@@ -2587,7 +2587,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: eczema_child
-- id: wheezing_child_lm
+- id: https://w3id.org/peh/OP-7bb9af932f
   unique_name: wheezing_child_lm
   name: wheezing_child_lm
   description: Wheezing
@@ -2616,7 +2616,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: wheezing_child_lm
-- id: mouthing_behaviour
+- id: https://w3id.org/peh/OP-06417c564a
   unique_name: mouthing_behaviour
   name: mouthing_behaviour
   description: 'Mouthing behaviour: putting toys, hands or other objects in the mouth'
@@ -2645,7 +2645,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: mouthing_behaviour
-- id: smoking_room_child
+- id: https://w3id.org/peh/OP-12ce383c9c
   unique_name: smoking_room_child
   name: smoking_room_child
   description: Presence in a room where smoking was taking place (by yourself or by
@@ -2671,7 +2671,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: smoking_room_child
-- id: smoke_hrs
+- id: https://w3id.org/peh/OP-5a364621cc
   unique_name: smoke_hrs
   name: smoke_hrs
   description: If answered <Yes>, how many hours?
@@ -2690,7 +2690,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: smoke_hrs
-- id: another_place
+- id: https://w3id.org/peh/OP-079ec1bf25
   unique_name: another_place
   name: another_place
   description: Presence at another place for more than 8 hours on at least one day,
@@ -2717,7 +2717,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: another_place
-- id: specify_place
+- id: https://w3id.org/peh/OP-accc53d4c5
   unique_name: specify_place
   name: specify_place
   description: If answered <Yes>, please specify the place
@@ -2747,7 +2747,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: specify_place
-- id: other_space
+- id: https://w3id.org/peh/OP-0ee88d9439
   unique_name: other_space
   name: other_space
   description: If answered <Other>, please specify the space
@@ -2766,7 +2766,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: other_space
-- id: burning_place_child
+- id: https://w3id.org/peh/OP-f30f76742f
   unique_name: burning_place_child
   name: burning_place_child
   description: Presence in a room with a burning fireplace, wood stove or coal stove
@@ -2791,7 +2791,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: burning_place_child
-- id: grilled_food_child
+- id: https://w3id.org/peh/OP-1a15806ff5
   unique_name: grilled_food_child
   name: grilled_food_child
   description: Consumption of grilled food or barbeque
@@ -2816,7 +2816,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: grilled_food_child
-- id: deepfriedfood_child
+- id: https://w3id.org/peh/OP-e8ba6bae31
   unique_name: deepfriedfood_child
   name: deepfriedfood_child
   description: Consumption of deep-fried food
@@ -2841,7 +2841,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: deepfriedfood_child
-- id: fish_seafood_child
+- id: https://w3id.org/peh/OP-988f85ac3f
   unique_name: fish_seafood_child
   name: fish_seafood_child
   description: Consumption of fish or seafood
@@ -2866,7 +2866,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: fish_seafood_child
-- id: readymademeals_child
+- id: https://w3id.org/peh/OP-6101f6101b
   unique_name: readymademeals_child
   name: readymademeals_child
   description: Consumption of ready-made meals
@@ -2891,7 +2891,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: readymademeals_child
-- id: fastfood_child
+- id: https://w3id.org/peh/OP-77bfa00851
   unique_name: fastfood_child
   name: fastfood_child
   description: Consumption of fast food
@@ -2916,7 +2916,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: fastfood_child
-- id: cannedfoods_child
+- id: https://w3id.org/peh/OP-6ba4399926
   unique_name: cannedfoods_child
   name: cannedfoods_child
   description: Consumption of canned foods
@@ -2941,7 +2941,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: cannedfoods_child
-- id: motorizedvehicle_child
+- id: https://w3id.org/peh/OP-156cbebf4a
   unique_name: motorizedvehicle_child
   name: motorizedvehicle_child
   description: Traveling through heavy traffic in a motorized vehicle
@@ -2966,7 +2966,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: motorizedvehicle_child
-- id: Cycling_walking_child
+- id: https://w3id.org/peh/OP-6160c93953
   unique_name: Cycling_walking_child
   name: Cycling_walking_child
   description: Cycling or walking along heavy traffic
@@ -2991,7 +2991,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: Cycling_walking_child
-- id: care_products_child
+- id: https://w3id.org/peh/OP-203213ab44
   unique_name: care_products_child
   name: care_products_child
   description: Use of personal care products
@@ -3020,7 +3020,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: care_products_child
-- id: careproducts_Ecolabel_child
+- id: https://w3id.org/peh/OP-8b56b4860b
   unique_name: careproducts_Ecolabel_child
   name: careproducts_Ecolabel_child
   description: Use of personal care products with national or EU Ecolabel
@@ -3049,7 +3049,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: careproducts_Ecolabel_child
-- id: breast_feeding
+- id: https://w3id.org/peh/OP-bf2626b00c
   unique_name: breast_feeding
   name: breast_feeding
   description: 2. Was your child breastfed? (select from dropdown list)
@@ -3081,7 +3081,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: breast_feeding
-- id: electronics_child
+- id: https://w3id.org/peh/OP-30aaa0cf24
   unique_name: electronics_child
   name: electronics_child
   description: 3. How frequent in the past month did your child play with electronics?
@@ -3113,7 +3113,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: electronics_child
-- id: play_floor_child
+- id: https://w3id.org/peh/OP-4ff89113c9
   unique_name: play_floor_child
   name: play_floor_child
   description: 4. How frequent in the past month did your child play on the floor
@@ -3145,7 +3145,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: play_floor_child
-- id: judged_airquality
+- id: https://w3id.org/peh/OP-a6e02b1732
   unique_name: judged_airquality
   name: judged_airquality
   description: 1. How do you judge the indoor air quality in your dwelling during
@@ -3183,7 +3183,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: judged_airquality
-- id: concern_airquality
+- id: https://w3id.org/peh/OP-7af6a35bab
   unique_name: concern_airquality
   name: concern_airquality
   description: 2. How concerned are you about the influence of outdoor air quality
@@ -3215,7 +3215,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: concern_airquality
-- id: consciousness_ladder
+- id: https://w3id.org/peh/OP-4a2098e53e
   unique_name: consciousness_ladder
   name: consciousness_ladder
   description: 3. Imagine a ladder with 9 steps, with people on the first step who
@@ -3259,7 +3259,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: consciousness_ladder
-- id: beh_choice
+- id: https://w3id.org/peh/OP-7117c8c798
   unique_name: beh_choice
   name: beh_choice
   description: My behavioural choices have a significant impact on air quality in
@@ -3295,7 +3295,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: beh_choice
-- id: influence
+- id: https://w3id.org/peh/OP-bde09c28e4
   unique_name: influence
   name: influence
   description: In general, it is difficult for me and housemates to have an influence
@@ -3332,7 +3332,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: influence
-- id: adjusttheventilation
+- id: https://w3id.org/peh/OP-1828bc7d2a
   unique_name: adjusttheventilation
   name: adjusttheventilation
   description: It is easy for me to adjust the ventilation at home.
@@ -3367,7 +3367,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: adjusttheventilation
-- id: open_window
+- id: https://w3id.org/peh/OP-cf883a4c7e
   unique_name: open_window
   name: open_window
   description: It is easy for me to open the window at home
@@ -3402,7 +3402,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: open_window
-- id: healthiness_indoor
+- id: https://w3id.org/peh/OP-b46ae7b176
   unique_name: healthiness_indoor
   name: healthiness_indoor
   description: The healthiness of indoor climate (air quality, lights, sounds) in
@@ -3439,7 +3439,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: healthiness_indoor
-- id: healthiness_outdoor
+- id: https://w3id.org/peh/OP-c4fc0cda2f
   unique_name: healthiness_outdoor
   name: healthiness_outdoor
   description: The healthiness of outdoor climate (air quality, sounds) in the home
@@ -3476,7 +3476,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: healthiness_outdoor
-- id: necessity_improvement
+- id: https://w3id.org/peh/OP-822d03cb5d
   unique_name: necessity_improvement
   name: necessity_improvement
   description: Improving the indoor air quality is a necessary task for me
@@ -3511,7 +3511,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: necessity_improvement
-- id: enjoyable
+- id: https://w3id.org/peh/OP-d2a6de865e
   unique_name: enjoyable
   name: enjoyable
   description: I think improving my indoor air quality would be enjoyable
@@ -3546,7 +3546,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: enjoyable
-- id: expect_health_benefit
+- id: https://w3id.org/peh/OP-3894cde395
   unique_name: expect_health_benefit
   name: expect_health_benefit
   description: I expect it will be good for my health
@@ -3582,7 +3582,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: expect_health_benefit
-- id: expect_health_benefit_child
+- id: https://w3id.org/peh/OP-7de5151468
   unique_name: expect_health_benefit_child
   name: expect_health_benefit_child
   description: I expect it will be good for my child's/children's health
@@ -3619,7 +3619,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: expect_health_benefit_child
-- id: recognition_others
+- id: https://w3id.org/peh/OP-5c82616161
   unique_name: recognition_others
   name: recognition_others
   description: I want others to know I improve the indoor air quality
@@ -3656,7 +3656,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: recognition_others
-- id: required_to_do
+- id: https://w3id.org/peh/OP-18a110325b
   unique_name: required_to_do
   name: required_to_do
   description: I am required to improve the indoor air quality
@@ -3693,7 +3693,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: required_to_do
-- id: feel_pressure
+- id: https://w3id.org/peh/OP-7420e68b75
   unique_name: feel_pressure
   name: feel_pressure
   description: I feel pressured to improve the indoor air quality
@@ -3730,7 +3730,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: feel_pressure
-- id: good_look_to_others
+- id: https://w3id.org/peh/OP-7abefd83b0
   unique_name: good_look_to_others
   name: good_look_to_others
   description: It will look good to others if I improve the indoor air quality
@@ -3767,7 +3767,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: good_look_to_others
-- id: dont_want_improve
+- id: https://w3id.org/peh/OP-01e13643c1
   unique_name: dont_want_improve
   name: dont_want_improve
   description: I would not want to improve indoor air quality in my home
@@ -3804,7 +3804,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: dont_want_improve
-- id: too_much_effort
+- id: https://w3id.org/peh/OP-f03b21ec86
   unique_name: too_much_effort
   name: too_much_effort
   description: It takes too much effort to improve indoor air quality in my home
@@ -3840,7 +3840,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: too_much_effort
-- id: difficult_to_improve
+- id: https://w3id.org/peh/OP-5bb551411f
   unique_name: difficult_to_improve
   name: difficult_to_improve
   description: I find it difficult to improve indoor air quality in my home
@@ -3876,7 +3876,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: difficult_to_improve
-- id: dont_have_tools
+- id: https://w3id.org/peh/OP-e210385eab
   unique_name: dont_have_tools
   name: dont_have_tools
   description: I do not have the tools to improve indoor air quality in my home
@@ -3912,7 +3912,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: dont_have_tools
-- id: dont_know_how
+- id: https://w3id.org/peh/OP-31efbb70ba
   unique_name: dont_know_how
   name: dont_know_how
   description: I do not know how to improve indoor air quality in my home
@@ -3948,7 +3948,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: dont_know_how
-- id: temperature_reg
+- id: https://w3id.org/peh/OP-dc0580410c
   unique_name: temperature_reg
   name: temperature_reg
   description: Regulate temperature (heat / cool)
@@ -3983,7 +3983,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: temperature_reg
-- id: ventilation_reg
+- id: https://w3id.org/peh/OP-1510b6ba29
   unique_name: ventilation_reg
   name: ventilation_reg
   description: Regulate ventilation
@@ -4018,7 +4018,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: ventilation_reg
-- id: Openwindow
+- id: https://w3id.org/peh/OP-0be03f0f8a
   unique_name: Openwindow
   name: Openwindow
   description: Open window
@@ -4053,7 +4053,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: Openwindow
-- id: Useproducts_Ecolabel
+- id: https://w3id.org/peh/OP-4191332abc
   unique_name: Useproducts_Ecolabel
   name: Useproducts_Ecolabel
   description: Use products with an EU Ecolabel to clean the house
@@ -4089,7 +4089,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: Useproducts_Ecolabel
-- id: use_natural_products
+- id: https://w3id.org/peh/OP-dbc0439f66
   unique_name: use_natural_products
   name: use_natural_products
   description: Use only natural non-toxic products to clean the house
@@ -4125,7 +4125,7 @@ observable_properties:
   relevant_observation_types:
   - questionnaire
   varname: use_natural_products
-- id: agemonths
+- id: https://w3id.org/peh/OP-1a47d76a69
   unique_name: agemonths
   name: agemonths
   description: Age in months of the child (calculated based on N1Birthdate and Todaysdate)
@@ -4167,7 +4167,7 @@ observable_properties:
         unit: MO
   validation_designs:
   - conditional: IF ageyears IS >= 20 THEN agemonths IS empty
-- id: population
+- id: https://w3id.org/peh/OP-248081ecb3
   unique_name: population
   name: population
   description: Does the participant belong to the general population?
@@ -4202,7 +4202,7 @@ observable_properties:
       function_name: set_default
       function_results:
       - value_type: decimal
-- id: study_subject_id
+- id: https://w3id.org/peh/OP-642ef2178a
   unique_name: study_subject_id
   name: study_subject_id
   description: Study identifier for the study subject
@@ -4231,7 +4231,7 @@ observable_properties:
       function_results:
       - value_type: string
         unit: UNITLESS
-- id: CountryCode
+- id: https://w3id.org/peh/OP-a81d6d6007
   unique_name: CountryCode
   name: CountryCode
   description: Code for the country where the study is conducted
@@ -4259,7 +4259,7 @@ observable_properties:
       function_results:
       - value_type: string
         unit: UNITLESS
-- id: Household_ID
+- id: https://w3id.org/peh/OP-407b67e75f
   unique_name: Household_ID
   name: Household_ID
   description: Study identifier for the household
@@ -4287,7 +4287,7 @@ observable_properties:
       function_results:
       - value_type: string
         unit: UNITLESS
-- id: Adult_ID
+- id: https://w3id.org/peh/OP-1560494759
   unique_name: Adult_ID
   name: Adult_ID
   description: Study identifier for the adult in the household
@@ -4316,7 +4316,7 @@ observable_properties:
       function_results:
       - value_type: string
         unit: UNITLESS
-- id: Child_ID
+- id: https://w3id.org/peh/OP-39c5561a5a
   unique_name: Child_ID
   name: Child_ID
   description: Study identifier for the child in the household
@@ -4345,7 +4345,7 @@ observable_properties:
       function_results:
       - value_type: string
         unit: UNITLESS
-- id: density
+- id: https://w3id.org/peh/OP-4db0e711a3
   unique_name: density
   name: density
   description: Urine density of the sample
@@ -4370,7 +4370,7 @@ observable_properties:
   - sampling
   indicator: Urine_density_of_the_sample
   varname: density
-- id: crt
+- id: https://w3id.org/peh/OP-6b78b5bb06
   unique_name: crt
   name: crt
   description: Concentration of creatinine in urine of the sample
@@ -4395,7 +4395,7 @@ observable_properties:
   - sampling
   indicator: Concentration_of_creatinine_in_urine_of_the_sample
   varname: crt
-- id: osm
+- id: https://w3id.org/peh/OP-e7136abd3f
   unique_name: osm
   name: osm
   description: Osmotic concentration of urine of the sample
@@ -4420,7 +4420,7 @@ observable_properties:
   - sampling
   indicator: Osmotic_concentration_of_urine_of_the_sample
   varname: osm
-- id: sg
+- id: https://w3id.org/peh/OP-64b112449e
   unique_name: sg
   name: sg
   description: Specific gravity of urine of the sample
@@ -4444,7 +4444,7 @@ observable_properties:
   - sampling
   indicator: Specific_gravity_of_urine_of_the_sample
   varname: sg
-- id: uvolume
+- id: https://w3id.org/peh/OP-04b6488eef
   unique_name: uvolume
   name: uvolume
   description: Volume of the urine sample
@@ -4469,7 +4469,7 @@ observable_properties:
   - sampling
   indicator: Volume_of_the_urine_sample
   varname: uvolume
-- id: fourhphe
+- id: https://w3id.org/peh/OP-4c992d4bf3
   unique_name: fourhphe
   name: fourhphe
   description: mass concentration of fourhphe in urine
@@ -4489,7 +4489,7 @@ observable_properties:
   - sampling
   indicator: mass_concentration_of_fourhphe_in_urine
   varname: fourhphe
-- id: ninehfluo
+- id: https://w3id.org/peh/OP-8cf61588cc
   unique_name: ninehfluo
   name: ninehfluo
   description: mass concentration of ninehfluo in urine
@@ -4509,7 +4509,7 @@ observable_properties:
   - sampling
   indicator: mass_concentration_of_ninehfluo_in_urine
   varname: ninehfluo
-- id: ohpyr
+- id: https://w3id.org/peh/OP-b0e3e951da
   unique_name: ohpyr
   name: ohpyr
   description: mass concentration of ohpyr in urine
@@ -4529,7 +4529,7 @@ observable_properties:
   - sampling
   indicator: mass_concentration_of_ohpyr_in_urine
   varname: ohpyr
-- id: onehphe
+- id: https://w3id.org/peh/OP-fe447f319f
   unique_name: onehphe
   name: onehphe
   description: mass concentration of onehphe in urine
@@ -4549,7 +4549,7 @@ observable_properties:
   - sampling
   indicator: mass_concentration_of_onehphe_in_urine
   varname: onehphe
-- id: oneohnap
+- id: https://w3id.org/peh/OP-04c2a9c701
   unique_name: oneohnap
   name: oneohnap
   description: mass concentration of oneohnap in urine
@@ -4569,7 +4569,7 @@ observable_properties:
   - sampling
   indicator: mass_concentration_of_oneohnap_in_urine
   varname: oneohnap
-- id: threehfluo
+- id: https://w3id.org/peh/OP-3c3c20de43
   unique_name: threehfluo
   name: threehfluo
   description: mass concentration of threehfluo in urine
@@ -4589,7 +4589,7 @@ observable_properties:
   - sampling
   indicator: mass_concentration_of_threehfluo_in_urine
   varname: threehfluo
-- id: threehphe
+- id: https://w3id.org/peh/OP-9fc0081704
   unique_name: threehphe
   name: threehphe
   description: mass concentration of threehphe in urine
@@ -4609,7 +4609,7 @@ observable_properties:
   - sampling
   indicator: mass_concentration_of_threehphe_in_urine
   varname: threehphe
-- id: twohfluo
+- id: https://w3id.org/peh/OP-a10bbd835c
   unique_name: twohfluo
   name: twohfluo
   description: mass concentration of twohfluo in urine
@@ -4629,7 +4629,7 @@ observable_properties:
   - sampling
   indicator: mass_concentration_of_twohfluo_in_urine
   varname: twohfluo
-- id: twohphe
+- id: https://w3id.org/peh/OP-88743a7b1e
   unique_name: twohphe
   name: twohphe
   description: mass concentration of twohphe in urine
@@ -4649,7 +4649,7 @@ observable_properties:
   - sampling
   indicator: mass_concentration_of_twohphe_in_urine
   varname: twohphe
-- id: twoohnap
+- id: https://w3id.org/peh/OP-e029486c3b
   unique_name: twoohnap
   name: twoohnap
   description: mass concentration of twoohnap in urine
@@ -4669,7 +4669,7 @@ observable_properties:
   - sampling
   indicator: mass_concentration_of_twoohnap_in_urine
   varname: twoohnap
-- id: bpa
+- id: https://w3id.org/peh/OP-667c81faab
   unique_name: bpa
   name: bpa
   description: mass concentration of bpa in urine
@@ -4689,7 +4689,7 @@ observable_properties:
   - sampling
   indicator: mass_concentration_of_bpa_in_urine
   varname: bpa
-- id: bpaf
+- id: https://w3id.org/peh/OP-862a71ab3a
   unique_name: bpaf
   name: bpaf
   description: mass concentration of bpaf in urine
@@ -4709,7 +4709,7 @@ observable_properties:
   - sampling
   indicator: mass_concentration_of_bpaf_in_urine
   varname: bpaf
-- id: bpb
+- id: https://w3id.org/peh/OP-e98ba1fa3d
   unique_name: bpb
   name: bpb
   description: mass concentration of bpb in urine
@@ -4729,7 +4729,7 @@ observable_properties:
   - sampling
   indicator: mass_concentration_of_bpb_in_urine
   varname: bpb
-- id: bpf
+- id: https://w3id.org/peh/OP-d27991e6bc
   unique_name: bpf
   name: bpf
   description: mass concentration of bpf in urine
@@ -4749,7 +4749,7 @@ observable_properties:
   - sampling
   indicator: mass_concentration_of_bpf_in_urine
   varname: bpf
-- id: bps
+- id: https://w3id.org/peh/OP-6925eccaae
   unique_name: bps
   name: bps
   description: mass concentration of bps in urine
@@ -4769,7 +4769,7 @@ observable_properties:
   - sampling
   indicator: mass_concentration_of_bps_in_urine
   varname: bps
-- id: bpz
+- id: https://w3id.org/peh/OP-acc23e4954
   unique_name: bpz
   name: bpz
   description: mass concentration of bpz in urine
@@ -4789,7 +4789,7 @@ observable_properties:
   - sampling
   indicator: mass_concentration_of_bpz_in_urine
   varname: bpz
-- id: mcoch
+- id: https://w3id.org/peh/OP-65f923d5ef
   unique_name: mcoch
   name: mcoch
   description: mass concentration of mcoch in urine
@@ -4809,7 +4809,7 @@ observable_properties:
   - sampling
   indicator: mass_concentration_of_mcoch_in_urine
   varname: mcoch
-- id: mhnch
+- id: https://w3id.org/peh/OP-8b63f7d992
   unique_name: mhnch
   name: mhnch
   description: mass concentration of mhnch in urine
@@ -4829,7 +4829,7 @@ observable_properties:
   - sampling
   indicator: mass_concentration_of_mhnch_in_urine
   varname: mhnch
-- id: minch
+- id: https://w3id.org/peh/OP-3f418522ee
   unique_name: minch
   name: minch
   description: mass concentration of minch in urine
@@ -4849,7 +4849,7 @@ observable_properties:
   - sampling
   indicator: mass_concentration_of_minch_in_urine
   varname: minch
-- id: bboehep
+- id: https://w3id.org/peh/OP-f8d6ae7bfc
   unique_name: bboehep
   name: bboehep
   description: mass concentration of bboehep in urine
@@ -4869,7 +4869,7 @@ observable_properties:
   - sampling
   indicator: mass_concentration_of_bboehep_in_urine
   varname: bboehep
-- id: bboephr
+- id: https://w3id.org/peh/OP-6d5eecf4e9
   unique_name: bboephr
   name: bboephr
   description: mass concentration of bboephr in urine
@@ -4889,7 +4889,7 @@ observable_properties:
   - sampling
   indicator: mass_concentration_of_bboephr_in_urine
   varname: bboephr
-- id: bcepms
+- id: https://w3id.org/peh/OP-2c1e003cc2
   unique_name: bcepms
   name: bcepms
   description: mass concentration of bcepms in urine
@@ -4909,7 +4909,7 @@ observable_properties:
   - sampling
   indicator: mass_concentration_of_bcepms_in_urine
   varname: bcepms
-- id: bciphipp
+- id: https://w3id.org/peh/OP-5dde2c3a72
   unique_name: bciphipp
   name: bciphipp
   description: mass concentration of bciphipp in urine
@@ -4929,7 +4929,7 @@ observable_properties:
   - sampling
   indicator: mass_concentration_of_bciphipp_in_urine
   varname: bciphipp
-- id: bcippms
+- id: https://w3id.org/peh/OP-5760703e53
   unique_name: bcippms
   name: bcippms
   description: mass concentration of bcippms in urine
@@ -4949,7 +4949,7 @@ observable_properties:
   - sampling
   indicator: mass_concentration_of_bcippms_in_urine
   varname: bcippms
-- id: bdcippms
+- id: https://w3id.org/peh/OP-4136e2c7c7
   unique_name: bdcippms
   name: bdcippms
   description: mass concentration of bdcippms in urine
@@ -4969,7 +4969,7 @@ observable_properties:
   - sampling
   indicator: mass_concentration_of_bdcippms_in_urine
   varname: bdcippms
-- id: behp
+- id: https://w3id.org/peh/OP-5979ea5792
   unique_name: behp
   name: behp
   description: mass concentration of behp in urine
@@ -4989,7 +4989,7 @@ observable_properties:
   - sampling
   indicator: mass_concentration_of_behp_in_urine
   varname: behp
-- id: dnbphr
+- id: https://w3id.org/peh/OP-118b50703d
   unique_name: dnbphr
   name: dnbphr
   description: mass concentration of dnbphr in urine
@@ -5009,7 +5009,7 @@ observable_properties:
   - sampling
   indicator: mass_concentration_of_dnbphr_in_urine
   varname: dnbphr
-- id: dphpms
+- id: https://w3id.org/peh/OP-032736bb67
   unique_name: dphpms
   name: dphpms
   description: mass concentration of dphpms in urine
@@ -5029,7 +5029,7 @@ observable_properties:
   - sampling
   indicator: mass_concentration_of_dphpms_in_urine
   varname: dphpms
-- id: ehphp
+- id: https://w3id.org/peh/OP-0306359146
   unique_name: ehphp
   name: ehphp
   description: mass concentration of ehphp in urine
@@ -5049,7 +5049,7 @@ observable_properties:
   - sampling
   indicator: mass_concentration_of_ehphp_in_urine
   varname: ehphp
-- id: fourohdphp
+- id: https://w3id.org/peh/OP-caf1618ee1
   unique_name: fourohdphp
   name: fourohdphp
   description: mass concentration of fourohdphp in urine
@@ -5069,7 +5069,7 @@ observable_properties:
   - sampling
   indicator: mass_concentration_of_fourohdphp_in_urine
   varname: fourohdphp
-- id: ohehdphp
+- id: https://w3id.org/peh/OP-3775cf9ba8
   unique_name: ohehdphp
   name: ohehdphp
   description: mass concentration of ohehdphp in urine
@@ -5089,7 +5089,7 @@ observable_properties:
   - sampling
   indicator: mass_concentration_of_ohehdphp_in_urine
   varname: ohehdphp
-- id: ohtboep
+- id: https://w3id.org/peh/OP-b8ca6b5e86
   unique_name: ohtboep
   name: ohtboep
   description: mass concentration of ohtboep in urine
@@ -5109,7 +5109,7 @@ observable_properties:
   - sampling
   indicator: mass_concentration_of_ohtboep_in_urine
   varname: ohtboep
-- id: ohtphp
+- id: https://w3id.org/peh/OP-e155ba2b99
   unique_name: ohtphp
   name: ohtphp
   description: mass concentration of ohtphp in urine
@@ -5129,7 +5129,7 @@ observable_properties:
   - sampling
   indicator: mass_concentration_of_ohtphp_in_urine
   varname: ohtphp
-- id: tcep
+- id: https://w3id.org/peh/OP-452490fc6f
   unique_name: tcep
   name: tcep
   description: mass concentration of tcep in urine
@@ -5149,7 +5149,7 @@ observable_properties:
   - sampling
   indicator: mass_concentration_of_tcep_in_urine
   varname: tcep
-- id: tcpy
+- id: https://w3id.org/peh/OP-bb10d526f0
   unique_name: tcpy
   name: tcpy
   description: mass concentration of tcpy in urine
@@ -5169,7 +5169,7 @@ observable_properties:
   - sampling
   indicator: mass_concentration_of_tcpy_in_urine
   varname: tcpy
-- id: cdcca
+- id: https://w3id.org/peh/OP-4c845a1543
   unique_name: cdcca
   name: cdcca
   description: mass concentration of cdcca in urine
@@ -5189,7 +5189,7 @@ observable_properties:
   - sampling
   indicator: mass_concentration_of_cdcca_in_urine
   varname: cdcca
-- id: cisdbca
+- id: https://w3id.org/peh/OP-b1231c1bf4
   unique_name: cisdbca
   name: cisdbca
   description: mass concentration of cisdbca in urine
@@ -5209,7 +5209,7 @@ observable_properties:
   - sampling
   indicator: mass_concentration_of_cisdbca_in_urine
   varname: cisdbca
-- id: fpba
+- id: https://w3id.org/peh/OP-146eff5347
   unique_name: fpba
   name: fpba
   description: mass concentration of fpba in urine
@@ -5229,7 +5229,7 @@ observable_properties:
   - sampling
   indicator: mass_concentration_of_fpba_in_urine
   varname: fpba
-- id: tdcca
+- id: https://w3id.org/peh/OP-a50927acc9
   unique_name: tdcca
   name: tdcca
   description: mass concentration of tdcca in urine
@@ -5249,7 +5249,7 @@ observable_properties:
   - sampling
   indicator: mass_concentration_of_tdcca_in_urine
   varname: tdcca
-- id: threepba
+- id: https://w3id.org/peh/OP-def44de62b
   unique_name: threepba
   name: threepba
   description: mass concentration of threepba in urine
@@ -5269,7 +5269,7 @@ observable_properties:
   - sampling
   indicator: mass_concentration_of_threepba_in_urine
   varname: threepba
-- id: cxmepp
+- id: https://w3id.org/peh/OP-0f2aa2f89d
   unique_name: cxmepp
   name: cxmepp
   description: mass concentration of cxmepp in urine
@@ -5289,7 +5289,7 @@ observable_properties:
   - sampling
   indicator: mass_concentration_of_cxmepp_in_urine
   varname: cxmepp
-- id: cxmeptp
+- id: https://w3id.org/peh/OP-51fbac8e89
   unique_name: cxmeptp
   name: cxmeptp
   description: mass concentration of cxmeptp in urine
@@ -5309,7 +5309,7 @@ observable_properties:
   - sampling
   indicator: mass_concentration_of_cxmeptp_in_urine
   varname: cxmeptp
-- id: cxmidp
+- id: https://w3id.org/peh/OP-e0f97cef3e
   unique_name: cxmidp
   name: cxmidp
   description: mass concentration of cxmidp in urine
@@ -5329,7 +5329,7 @@ observable_properties:
   - sampling
   indicator: mass_concentration_of_cxmidp_in_urine
   varname: cxmidp
-- id: cxmmhtp
+- id: https://w3id.org/peh/OP-0ab2d600c3
   unique_name: cxmmhtp
   name: cxmmhtp
   description: mass concentration of cxmmhtp in urine
@@ -5349,7 +5349,7 @@ observable_properties:
   - sampling
   indicator: mass_concentration_of_cxmmhtp_in_urine
   varname: cxmmhtp
-- id: cxmphp
+- id: https://w3id.org/peh/OP-3acb7aecee
   unique_name: cxmphp
   name: cxmphp
   description: mass concentration of cxmphp in urine
@@ -5369,7 +5369,7 @@ observable_properties:
   - sampling
   indicator: mass_concentration_of_cxmphp_in_urine
   varname: cxmphp
-- id: cxmphxp
+- id: https://w3id.org/peh/OP-17ca9e7227
   unique_name: cxmphxp
   name: cxmphxp
   description: mass concentration of cxmphxp in urine
@@ -5389,7 +5389,7 @@ observable_properties:
   - sampling
   indicator: mass_concentration_of_cxmphxp_in_urine
   varname: cxmphxp
-- id: mbzp
+- id: https://w3id.org/peh/OP-4418e42db8
   unique_name: mbzp
   name: mbzp
   description: mass concentration of mbzp in urine
@@ -5409,7 +5409,7 @@ observable_properties:
   - sampling
   indicator: mass_concentration_of_mbzp_in_urine
   varname: mbzp
-- id: mcop
+- id: https://w3id.org/peh/OP-cc41fd6e7e
   unique_name: mcop
   name: mcop
   description: mass concentration of mcop in urine
@@ -5429,7 +5429,7 @@ observable_properties:
   - sampling
   indicator: mass_concentration_of_mcop_in_urine
   varname: mcop
-- id: meha
+- id: https://w3id.org/peh/OP-4f641adae0
   unique_name: meha
   name: meha
   description: mass concentration of meha in urine
@@ -5449,7 +5449,7 @@ observable_properties:
   - sampling
   indicator: mass_concentration_of_meha_in_urine
   varname: meha
-- id: mehp
+- id: https://w3id.org/peh/OP-72660f06d0
   unique_name: mehp
   name: mehp
   description: mass concentration of mehp in urine
@@ -5469,7 +5469,7 @@ observable_properties:
   - sampling
   indicator: mass_concentration_of_mehp_in_urine
   varname: mehp
-- id: mehtp
+- id: https://w3id.org/peh/OP-7bc2863e5a
   unique_name: mehtp
   name: mehtp
   description: mass concentration of mehtp in urine
@@ -5489,7 +5489,7 @@ observable_properties:
   - sampling
   indicator: mass_concentration_of_mehtp_in_urine
   varname: mehtp
-- id: mep
+- id: https://w3id.org/peh/OP-235c577f97
   unique_name: mep
   name: mep
   description: mass concentration of mep in urine
@@ -5509,7 +5509,7 @@ observable_properties:
   - sampling
   indicator: mass_concentration_of_mep_in_urine
   varname: mep
-- id: mhnp
+- id: https://w3id.org/peh/OP-ad8c9eeee9
   unique_name: mhnp
   name: mhnp
   description: mass concentration of mhnp in urine
@@ -5529,7 +5529,7 @@ observable_properties:
   - sampling
   indicator: mass_concentration_of_mhnp_in_urine
   varname: mhnp
-- id: mibp
+- id: https://w3id.org/peh/OP-e90a65a30c
   unique_name: mibp
   name: mibp
   description: mass concentration of mibp in urine
@@ -5549,7 +5549,7 @@ observable_properties:
   - sampling
   indicator: mass_concentration_of_mibp_in_urine
   varname: mibp
-- id: minp
+- id: https://w3id.org/peh/OP-f1701ba447
   unique_name: minp
   name: minp
   description: mass concentration of minp in urine
@@ -5569,7 +5569,7 @@ observable_properties:
   - sampling
   indicator: mass_concentration_of_minp_in_urine
   varname: minp
-- id: mnbp
+- id: https://w3id.org/peh/OP-3697742ca5
   unique_name: mnbp
   name: mnbp
   description: mass concentration of mnbp in urine
@@ -5589,7 +5589,7 @@ observable_properties:
   - sampling
   indicator: mass_concentration_of_mnbp_in_urine
   varname: mnbp
-- id: ohmeha
+- id: https://w3id.org/peh/OP-71b0303b06
   unique_name: ohmeha
   name: ohmeha
   description: mass concentration of ohmeha in urine
@@ -5609,7 +5609,7 @@ observable_properties:
   - sampling
   indicator: mass_concentration_of_ohmeha_in_urine
   varname: ohmeha
-- id: ohmehp
+- id: https://w3id.org/peh/OP-f25af6c93b
   unique_name: ohmehp
   name: ohmehp
   description: mass concentration of ohmehp in urine
@@ -5629,7 +5629,7 @@ observable_properties:
   - sampling
   indicator: mass_concentration_of_ohmehp_in_urine
   varname: ohmehp
-- id: ohmehtp
+- id: https://w3id.org/peh/OP-af0e3fffd9
   unique_name: ohmehtp
   name: ohmehtp
   description: mass concentration of ohmehtp in urine
@@ -5649,7 +5649,7 @@ observable_properties:
   - sampling
   indicator: mass_concentration_of_ohmehtp_in_urine
   varname: ohmehtp
-- id: ohmidp
+- id: https://w3id.org/peh/OP-b340331b28
   unique_name: ohmidp
   name: ohmidp
   description: mass concentration of ohmidp in urine
@@ -5669,7 +5669,7 @@ observable_properties:
   - sampling
   indicator: mass_concentration_of_ohmidp_in_urine
   varname: ohmidp
-- id: ohmphp
+- id: https://w3id.org/peh/OP-b1818da8a8
   unique_name: ohmphp
   name: ohmphp
   description: mass concentration of ohmphp in urine
@@ -5689,7 +5689,7 @@ observable_properties:
   - sampling
   indicator: mass_concentration_of_ohmphp_in_urine
   varname: ohmphp
-- id: ohmprhpp
+- id: https://w3id.org/peh/OP-357fdd85f1
   unique_name: ohmprhpp
   name: ohmprhpp
   description: mass concentration of ohmprhpp in urine
@@ -5709,7 +5709,7 @@ observable_properties:
   - sampling
   indicator: mass_concentration_of_ohmprhpp_in_urine
   varname: ohmprhpp
-- id: onefourdehtm
+- id: https://w3id.org/peh/OP-b81b5d2511
   unique_name: onefourdehtm
   name: onefourdehtm
   description: mass concentration of onefourdehtm in urine
@@ -5729,7 +5729,7 @@ observable_properties:
   - sampling
   indicator: mass_concentration_of_onefourdehtm_in_urine
   varname: onefourdehtm
-- id: oxomeha
+- id: https://w3id.org/peh/OP-7f5edc01f2
   unique_name: oxomeha
   name: oxomeha
   description: mass concentration of oxomeha in urine
@@ -5749,7 +5749,7 @@ observable_properties:
   - sampling
   indicator: mass_concentration_of_oxomeha_in_urine
   varname: oxomeha
-- id: oxomehp
+- id: https://w3id.org/peh/OP-b127832a50
   unique_name: oxomehp
   name: oxomehp
   description: mass concentration of oxomehp in urine
@@ -5769,7 +5769,7 @@ observable_properties:
   - sampling
   indicator: mass_concentration_of_oxomehp_in_urine
   varname: oxomehp
-- id: oxomehtp
+- id: https://w3id.org/peh/OP-1f2de3d8c8
   unique_name: oxomehtp
   name: oxomehtp
   description: mass concentration of oxomehtp in urine
@@ -5789,7 +5789,7 @@ observable_properties:
   - sampling
   indicator: mass_concentration_of_oxomehtp_in_urine
   varname: oxomehtp
-- id: twofourdehtm
+- id: https://w3id.org/peh/OP-a12d2405ca
   unique_name: twofourdehtm
   name: twofourdehtm
   description: mass concentration of twofourdehtm in urine
@@ -5809,7 +5809,7 @@ observable_properties:
   - sampling
   indicator: mass_concentration_of_twofourdehtm_in_urine
   varname: twofourdehtm
-- id: fourhphe_meb_crt
+- id: https://w3id.org/peh/OP-a80474600b
   unique_name: fourhphe - standardized for creatinine
   name: fourhphe - standardized for creatinine
   label: fourhphe - standardized for creatinine
@@ -5846,7 +5846,7 @@ observable_properties:
       function_results:
       - value_type: decimal
         unit: MicroGM-PER-GM
-- id: fourhphe_meb_sg
+- id: https://w3id.org/peh/OP-eb79f27aaf
   unique_name: fourhphe - normalized for specific gravity
   name: fourhphe - normalized for specific gravity
   label: fourhphe - normalized for specific gravity
@@ -5882,7 +5882,7 @@ observable_properties:
       function_results:
       - value_type: decimal
         unit: MicroGM-PER-GM
-- id: ninehfluo_meb_crt
+- id: https://w3id.org/peh/OP-cbb63f804c
   unique_name: ninehfluo - standardized for creatinine
   name: ninehfluo - standardized for creatinine
   label: ninehfluo - standardized for creatinine
@@ -5919,7 +5919,7 @@ observable_properties:
       function_results:
       - value_type: decimal
         unit: MicroGM-PER-GM
-- id: ninehfluo_meb_sg
+- id: https://w3id.org/peh/OP-ecf01ba04c
   unique_name: ninehfluo - normalized for specific gravity
   name: ninehfluo - normalized for specific gravity
   label: ninehfluo - normalized for specific gravity
@@ -5955,7 +5955,7 @@ observable_properties:
       function_results:
       - value_type: decimal
         unit: MicroGM-PER-GM
-- id: ohpyr_meb_crt
+- id: https://w3id.org/peh/OP-ab4cbc2344
   unique_name: ohpyr - standardized for creatinine
   name: ohpyr - standardized for creatinine
   label: ohpyr - standardized for creatinine
@@ -5992,7 +5992,7 @@ observable_properties:
       function_results:
       - value_type: decimal
         unit: MicroGM-PER-GM
-- id: ohpyr_meb_sg
+- id: https://w3id.org/peh/OP-96c017cd8c
   unique_name: ohpyr - normalized for specific gravity
   name: ohpyr - normalized for specific gravity
   label: ohpyr - normalized for specific gravity
@@ -6028,7 +6028,7 @@ observable_properties:
       function_results:
       - value_type: decimal
         unit: MicroGM-PER-GM
-- id: onehphe_meb_crt
+- id: https://w3id.org/peh/OP-fb39fc81c5
   unique_name: onehphe - standardized for creatinine
   name: onehphe - standardized for creatinine
   label: onehphe - standardized for creatinine
@@ -6065,7 +6065,7 @@ observable_properties:
       function_results:
       - value_type: decimal
         unit: MicroGM-PER-GM
-- id: onehphe_meb_sg
+- id: https://w3id.org/peh/OP-de7a567877
   unique_name: onehphe - normalized for specific gravity
   name: onehphe - normalized for specific gravity
   label: onehphe - normalized for specific gravity
@@ -6101,7 +6101,7 @@ observable_properties:
       function_results:
       - value_type: decimal
         unit: MicroGM-PER-GM
-- id: oneohnap_meb_crt
+- id: https://w3id.org/peh/OP-4a70c6fd2c
   unique_name: oneohnap - standardized for creatinine
   name: oneohnap - standardized for creatinine
   label: oneohnap - standardized for creatinine
@@ -6138,7 +6138,7 @@ observable_properties:
       function_results:
       - value_type: decimal
         unit: MicroGM-PER-GM
-- id: oneohnap_meb_sg
+- id: https://w3id.org/peh/OP-31fb135bed
   unique_name: oneohnap - normalized for specific gravity
   name: oneohnap - normalized for specific gravity
   label: oneohnap - normalized for specific gravity
@@ -6174,7 +6174,7 @@ observable_properties:
       function_results:
       - value_type: decimal
         unit: MicroGM-PER-GM
-- id: threehfluo_meb_crt
+- id: https://w3id.org/peh/OP-49e9e83e2a
   unique_name: threehfluo - standardized for creatinine
   name: threehfluo - standardized for creatinine
   label: threehfluo - standardized for creatinine
@@ -6211,7 +6211,7 @@ observable_properties:
       function_results:
       - value_type: decimal
         unit: MicroGM-PER-GM
-- id: threehfluo_meb_sg
+- id: https://w3id.org/peh/OP-d7a938951c
   unique_name: threehfluo - normalized for specific gravity
   name: threehfluo - normalized for specific gravity
   label: threehfluo - normalized for specific gravity
@@ -6247,7 +6247,7 @@ observable_properties:
       function_results:
       - value_type: decimal
         unit: MicroGM-PER-GM
-- id: threehphe_meb_crt
+- id: https://w3id.org/peh/OP-e3a3f0090b
   unique_name: threehphe - standardized for creatinine
   name: threehphe - standardized for creatinine
   label: threehphe - standardized for creatinine
@@ -6284,7 +6284,7 @@ observable_properties:
       function_results:
       - value_type: decimal
         unit: MicroGM-PER-GM
-- id: threehphe_meb_sg
+- id: https://w3id.org/peh/OP-5ea5f36c52
   unique_name: threehphe - normalized for specific gravity
   name: threehphe - normalized for specific gravity
   label: threehphe - normalized for specific gravity
@@ -6320,7 +6320,7 @@ observable_properties:
       function_results:
       - value_type: decimal
         unit: MicroGM-PER-GM
-- id: twohfluo_meb_crt
+- id: https://w3id.org/peh/OP-a412e88efe
   unique_name: twohfluo - standardized for creatinine
   name: twohfluo - standardized for creatinine
   label: twohfluo - standardized for creatinine
@@ -6357,7 +6357,7 @@ observable_properties:
       function_results:
       - value_type: decimal
         unit: MicroGM-PER-GM
-- id: twohfluo_meb_sg
+- id: https://w3id.org/peh/OP-f0df3d71e8
   unique_name: twohfluo - normalized for specific gravity
   name: twohfluo - normalized for specific gravity
   label: twohfluo - normalized for specific gravity
@@ -6393,7 +6393,7 @@ observable_properties:
       function_results:
       - value_type: decimal
         unit: MicroGM-PER-GM
-- id: twohphe_meb_crt
+- id: https://w3id.org/peh/OP-ba876b9e04
   unique_name: twohphe - standardized for creatinine
   name: twohphe - standardized for creatinine
   label: twohphe - standardized for creatinine
@@ -6430,7 +6430,7 @@ observable_properties:
       function_results:
       - value_type: decimal
         unit: MicroGM-PER-GM
-- id: twohphe_meb_sg
+- id: https://w3id.org/peh/OP-87db29faaa
   unique_name: twohphe - normalized for specific gravity
   name: twohphe - normalized for specific gravity
   label: twohphe - normalized for specific gravity
@@ -6466,7 +6466,7 @@ observable_properties:
       function_results:
       - value_type: decimal
         unit: MicroGM-PER-GM
-- id: twoohnap_meb_crt
+- id: https://w3id.org/peh/OP-212b1885cc
   unique_name: twoohnap - standardized for creatinine
   name: twoohnap - standardized for creatinine
   label: twoohnap - standardized for creatinine
@@ -6503,7 +6503,7 @@ observable_properties:
       function_results:
       - value_type: decimal
         unit: MicroGM-PER-GM
-- id: twoohnap_meb_sg
+- id: https://w3id.org/peh/OP-d8ed5b4f2b
   unique_name: twoohnap - normalized for specific gravity
   name: twoohnap - normalized for specific gravity
   label: twoohnap - normalized for specific gravity
@@ -6539,7 +6539,7 @@ observable_properties:
       function_results:
       - value_type: decimal
         unit: MicroGM-PER-GM
-- id: bpa_meb_crt
+- id: https://w3id.org/peh/OP-5276eb2f4e
   unique_name: bpa - standardized for creatinine
   name: bpa - standardized for creatinine
   label: bpa - standardized for creatinine
@@ -6576,7 +6576,7 @@ observable_properties:
       function_results:
       - value_type: decimal
         unit: MicroGM-PER-GM
-- id: bpa_meb_sg
+- id: https://w3id.org/peh/OP-92004a1155
   unique_name: bpa - normalized for specific gravity
   name: bpa - normalized for specific gravity
   label: bpa - normalized for specific gravity
@@ -6612,7 +6612,7 @@ observable_properties:
       function_results:
       - value_type: decimal
         unit: MicroGM-PER-GM
-- id: bpaf_meb_crt
+- id: https://w3id.org/peh/OP-5f7b3e5a8b
   unique_name: bpaf - standardized for creatinine
   name: bpaf - standardized for creatinine
   label: bpaf - standardized for creatinine
@@ -6649,7 +6649,7 @@ observable_properties:
       function_results:
       - value_type: decimal
         unit: MicroGM-PER-GM
-- id: bpaf_meb_sg
+- id: https://w3id.org/peh/OP-6c9b1f4ae5
   unique_name: bpaf - normalized for specific gravity
   name: bpaf - normalized for specific gravity
   label: bpaf - normalized for specific gravity
@@ -6685,7 +6685,7 @@ observable_properties:
       function_results:
       - value_type: decimal
         unit: MicroGM-PER-GM
-- id: bpb_meb_crt
+- id: https://w3id.org/peh/OP-4c02dc8681
   unique_name: bpb - standardized for creatinine
   name: bpb - standardized for creatinine
   label: bpb - standardized for creatinine
@@ -6722,7 +6722,7 @@ observable_properties:
       function_results:
       - value_type: decimal
         unit: MicroGM-PER-GM
-- id: bpb_meb_sg
+- id: https://w3id.org/peh/OP-b8d001f24f
   unique_name: bpb - normalized for specific gravity
   name: bpb - normalized for specific gravity
   label: bpb - normalized for specific gravity
@@ -6758,7 +6758,7 @@ observable_properties:
       function_results:
       - value_type: decimal
         unit: MicroGM-PER-GM
-- id: bpf_meb_crt
+- id: https://w3id.org/peh/OP-94ea4fffaa
   unique_name: bpf - standardized for creatinine
   name: bpf - standardized for creatinine
   label: bpf - standardized for creatinine
@@ -6795,7 +6795,7 @@ observable_properties:
       function_results:
       - value_type: decimal
         unit: MicroGM-PER-GM
-- id: bpf_meb_sg
+- id: https://w3id.org/peh/OP-9e815112c4
   unique_name: bpf - normalized for specific gravity
   name: bpf - normalized for specific gravity
   label: bpf - normalized for specific gravity
@@ -6831,7 +6831,7 @@ observable_properties:
       function_results:
       - value_type: decimal
         unit: MicroGM-PER-GM
-- id: bps_meb_crt
+- id: https://w3id.org/peh/OP-ccb76d3932
   unique_name: bps - standardized for creatinine
   name: bps - standardized for creatinine
   label: bps - standardized for creatinine
@@ -6868,7 +6868,7 @@ observable_properties:
       function_results:
       - value_type: decimal
         unit: MicroGM-PER-GM
-- id: bps_meb_sg
+- id: https://w3id.org/peh/OP-6916ae4c6c
   unique_name: bps - normalized for specific gravity
   name: bps - normalized for specific gravity
   label: bps - normalized for specific gravity
@@ -6904,7 +6904,7 @@ observable_properties:
       function_results:
       - value_type: decimal
         unit: MicroGM-PER-GM
-- id: bpz_meb_crt
+- id: https://w3id.org/peh/OP-9af0e58198
   unique_name: bpz - standardized for creatinine
   name: bpz - standardized for creatinine
   label: bpz - standardized for creatinine
@@ -6941,7 +6941,7 @@ observable_properties:
       function_results:
       - value_type: decimal
         unit: MicroGM-PER-GM
-- id: bpz_meb_sg
+- id: https://w3id.org/peh/OP-0e9a8f3fd0
   unique_name: bpz - normalized for specific gravity
   name: bpz - normalized for specific gravity
   label: bpz - normalized for specific gravity
@@ -6977,7 +6977,7 @@ observable_properties:
       function_results:
       - value_type: decimal
         unit: MicroGM-PER-GM
-- id: mcoch_meb_crt
+- id: https://w3id.org/peh/OP-d1fef6bc6c
   unique_name: mcoch - standardized for creatinine
   name: mcoch - standardized for creatinine
   label: mcoch - standardized for creatinine
@@ -7014,7 +7014,7 @@ observable_properties:
       function_results:
       - value_type: decimal
         unit: MicroGM-PER-GM
-- id: mcoch_meb_sg
+- id: https://w3id.org/peh/OP-88e38278e7
   unique_name: mcoch - normalized for specific gravity
   name: mcoch - normalized for specific gravity
   label: mcoch - normalized for specific gravity
@@ -7050,7 +7050,7 @@ observable_properties:
       function_results:
       - value_type: decimal
         unit: MicroGM-PER-GM
-- id: mhnch_meb_crt
+- id: https://w3id.org/peh/OP-bffd5e3b14
   unique_name: mhnch - standardized for creatinine
   name: mhnch - standardized for creatinine
   label: mhnch - standardized for creatinine
@@ -7087,7 +7087,7 @@ observable_properties:
       function_results:
       - value_type: decimal
         unit: MicroGM-PER-GM
-- id: mhnch_meb_sg
+- id: https://w3id.org/peh/OP-692eb4245c
   unique_name: mhnch - normalized for specific gravity
   name: mhnch - normalized for specific gravity
   label: mhnch - normalized for specific gravity
@@ -7123,7 +7123,7 @@ observable_properties:
       function_results:
       - value_type: decimal
         unit: MicroGM-PER-GM
-- id: minch_meb_crt
+- id: https://w3id.org/peh/OP-6263064f78
   unique_name: minch - standardized for creatinine
   name: minch - standardized for creatinine
   label: minch - standardized for creatinine
@@ -7160,7 +7160,7 @@ observable_properties:
       function_results:
       - value_type: decimal
         unit: MicroGM-PER-GM
-- id: minch_meb_sg
+- id: https://w3id.org/peh/OP-b5c9d5dd52
   unique_name: minch - normalized for specific gravity
   name: minch - normalized for specific gravity
   label: minch - normalized for specific gravity
@@ -7196,7 +7196,7 @@ observable_properties:
       function_results:
       - value_type: decimal
         unit: MicroGM-PER-GM
-- id: bboehep_meb_crt
+- id: https://w3id.org/peh/OP-62c516d884
   unique_name: bboehep - standardized for creatinine
   name: bboehep - standardized for creatinine
   label: bboehep - standardized for creatinine
@@ -7233,7 +7233,7 @@ observable_properties:
       function_results:
       - value_type: decimal
         unit: MicroGM-PER-GM
-- id: bboehep_meb_sg
+- id: https://w3id.org/peh/OP-d5b47a11fb
   unique_name: bboehep - normalized for specific gravity
   name: bboehep - normalized for specific gravity
   label: bboehep - normalized for specific gravity
@@ -7269,7 +7269,7 @@ observable_properties:
       function_results:
       - value_type: decimal
         unit: MicroGM-PER-GM
-- id: bboephr_meb_crt
+- id: https://w3id.org/peh/OP-64c5acddd2
   unique_name: bboephr - standardized for creatinine
   name: bboephr - standardized for creatinine
   label: bboephr - standardized for creatinine
@@ -7306,7 +7306,7 @@ observable_properties:
       function_results:
       - value_type: decimal
         unit: MicroGM-PER-GM
-- id: bboephr_meb_sg
+- id: https://w3id.org/peh/OP-084a583c40
   unique_name: bboephr - normalized for specific gravity
   name: bboephr - normalized for specific gravity
   label: bboephr - normalized for specific gravity
@@ -7342,7 +7342,7 @@ observable_properties:
       function_results:
       - value_type: decimal
         unit: MicroGM-PER-GM
-- id: bcepms_meb_crt
+- id: https://w3id.org/peh/OP-c4b5e991c7
   unique_name: bcepms - standardized for creatinine
   name: bcepms - standardized for creatinine
   label: bcepms - standardized for creatinine
@@ -7379,7 +7379,7 @@ observable_properties:
       function_results:
       - value_type: decimal
         unit: MicroGM-PER-GM
-- id: bcepms_meb_sg
+- id: https://w3id.org/peh/OP-dec2e032f4
   unique_name: bcepms - normalized for specific gravity
   name: bcepms - normalized for specific gravity
   label: bcepms - normalized for specific gravity
@@ -7415,7 +7415,7 @@ observable_properties:
       function_results:
       - value_type: decimal
         unit: MicroGM-PER-GM
-- id: bciphipp_meb_crt
+- id: https://w3id.org/peh/OP-d46fabc681
   unique_name: bciphipp - standardized for creatinine
   name: bciphipp - standardized for creatinine
   label: bciphipp - standardized for creatinine
@@ -7452,7 +7452,7 @@ observable_properties:
       function_results:
       - value_type: decimal
         unit: MicroGM-PER-GM
-- id: bciphipp_meb_sg
+- id: https://w3id.org/peh/OP-ef5e35d93e
   unique_name: bciphipp - normalized for specific gravity
   name: bciphipp - normalized for specific gravity
   label: bciphipp - normalized for specific gravity
@@ -7488,7 +7488,7 @@ observable_properties:
       function_results:
       - value_type: decimal
         unit: MicroGM-PER-GM
-- id: bcippms_meb_crt
+- id: https://w3id.org/peh/OP-e8e8a55c3a
   unique_name: bcippms - standardized for creatinine
   name: bcippms - standardized for creatinine
   label: bcippms - standardized for creatinine
@@ -7525,7 +7525,7 @@ observable_properties:
       function_results:
       - value_type: decimal
         unit: MicroGM-PER-GM
-- id: bcippms_meb_sg
+- id: https://w3id.org/peh/OP-fc470edee2
   unique_name: bcippms - normalized for specific gravity
   name: bcippms - normalized for specific gravity
   label: bcippms - normalized for specific gravity
@@ -7561,7 +7561,7 @@ observable_properties:
       function_results:
       - value_type: decimal
         unit: MicroGM-PER-GM
-- id: bdcippms_meb_crt
+- id: https://w3id.org/peh/OP-d442f64ed5
   unique_name: bdcippms - standardized for creatinine
   name: bdcippms - standardized for creatinine
   label: bdcippms - standardized for creatinine
@@ -7598,7 +7598,7 @@ observable_properties:
       function_results:
       - value_type: decimal
         unit: MicroGM-PER-GM
-- id: bdcippms_meb_sg
+- id: https://w3id.org/peh/OP-2f8bf82f92
   unique_name: bdcippms - normalized for specific gravity
   name: bdcippms - normalized for specific gravity
   label: bdcippms - normalized for specific gravity
@@ -7634,7 +7634,7 @@ observable_properties:
       function_results:
       - value_type: decimal
         unit: MicroGM-PER-GM
-- id: behp_meb_crt
+- id: https://w3id.org/peh/OP-ee2995d3cb
   unique_name: behp - standardized for creatinine
   name: behp - standardized for creatinine
   label: behp - standardized for creatinine
@@ -7671,7 +7671,7 @@ observable_properties:
       function_results:
       - value_type: decimal
         unit: MicroGM-PER-GM
-- id: behp_meb_sg
+- id: https://w3id.org/peh/OP-c6a3e5760b
   unique_name: behp - normalized for specific gravity
   name: behp - normalized for specific gravity
   label: behp - normalized for specific gravity
@@ -7707,7 +7707,7 @@ observable_properties:
       function_results:
       - value_type: decimal
         unit: MicroGM-PER-GM
-- id: dnbphr_meb_crt
+- id: https://w3id.org/peh/OP-59587907e7
   unique_name: dnbphr - standardized for creatinine
   name: dnbphr - standardized for creatinine
   label: dnbphr - standardized for creatinine
@@ -7744,7 +7744,7 @@ observable_properties:
       function_results:
       - value_type: decimal
         unit: MicroGM-PER-GM
-- id: dnbphr_meb_sg
+- id: https://w3id.org/peh/OP-2446997dce
   unique_name: dnbphr - normalized for specific gravity
   name: dnbphr - normalized for specific gravity
   label: dnbphr - normalized for specific gravity
@@ -7780,7 +7780,7 @@ observable_properties:
       function_results:
       - value_type: decimal
         unit: MicroGM-PER-GM
-- id: dphpms_meb_crt
+- id: https://w3id.org/peh/OP-ba97d37a78
   unique_name: dphpms - standardized for creatinine
   name: dphpms - standardized for creatinine
   label: dphpms - standardized for creatinine
@@ -7817,7 +7817,7 @@ observable_properties:
       function_results:
       - value_type: decimal
         unit: MicroGM-PER-GM
-- id: dphpms_meb_sg
+- id: https://w3id.org/peh/OP-ed7d61dd17
   unique_name: dphpms - normalized for specific gravity
   name: dphpms - normalized for specific gravity
   label: dphpms - normalized for specific gravity
@@ -7853,7 +7853,7 @@ observable_properties:
       function_results:
       - value_type: decimal
         unit: MicroGM-PER-GM
-- id: ehphp_meb_crt
+- id: https://w3id.org/peh/OP-d6ed34313c
   unique_name: ehphp - standardized for creatinine
   name: ehphp - standardized for creatinine
   label: ehphp - standardized for creatinine
@@ -7890,7 +7890,7 @@ observable_properties:
       function_results:
       - value_type: decimal
         unit: MicroGM-PER-GM
-- id: ehphp_meb_sg
+- id: https://w3id.org/peh/OP-ced5eaa182
   unique_name: ehphp - normalized for specific gravity
   name: ehphp - normalized for specific gravity
   label: ehphp - normalized for specific gravity
@@ -7926,7 +7926,7 @@ observable_properties:
       function_results:
       - value_type: decimal
         unit: MicroGM-PER-GM
-- id: fourohdphp_meb_crt
+- id: https://w3id.org/peh/OP-f8d330e464
   unique_name: fourohdphp - standardized for creatinine
   name: fourohdphp - standardized for creatinine
   label: fourohdphp - standardized for creatinine
@@ -7963,7 +7963,7 @@ observable_properties:
       function_results:
       - value_type: decimal
         unit: MicroGM-PER-GM
-- id: fourohdphp_meb_sg
+- id: https://w3id.org/peh/OP-524cd0e563
   unique_name: fourohdphp - normalized for specific gravity
   name: fourohdphp - normalized for specific gravity
   label: fourohdphp - normalized for specific gravity
@@ -7999,7 +7999,7 @@ observable_properties:
       function_results:
       - value_type: decimal
         unit: MicroGM-PER-GM
-- id: ohehdphp_meb_crt
+- id: https://w3id.org/peh/OP-f4fe8d195a
   unique_name: ohehdphp - standardized for creatinine
   name: ohehdphp - standardized for creatinine
   label: ohehdphp - standardized for creatinine
@@ -8036,7 +8036,7 @@ observable_properties:
       function_results:
       - value_type: decimal
         unit: MicroGM-PER-GM
-- id: ohehdphp_meb_sg
+- id: https://w3id.org/peh/OP-33b56e9a62
   unique_name: ohehdphp - normalized for specific gravity
   name: ohehdphp - normalized for specific gravity
   label: ohehdphp - normalized for specific gravity
@@ -8072,7 +8072,7 @@ observable_properties:
       function_results:
       - value_type: decimal
         unit: MicroGM-PER-GM
-- id: ohtboep_meb_crt
+- id: https://w3id.org/peh/OP-ffda3bf977
   unique_name: ohtboep - standardized for creatinine
   name: ohtboep - standardized for creatinine
   label: ohtboep - standardized for creatinine
@@ -8109,7 +8109,7 @@ observable_properties:
       function_results:
       - value_type: decimal
         unit: MicroGM-PER-GM
-- id: ohtboep_meb_sg
+- id: https://w3id.org/peh/OP-700cf954f1
   unique_name: ohtboep - normalized for specific gravity
   name: ohtboep - normalized for specific gravity
   label: ohtboep - normalized for specific gravity
@@ -8145,7 +8145,7 @@ observable_properties:
       function_results:
       - value_type: decimal
         unit: MicroGM-PER-GM
-- id: ohtphp_meb_crt
+- id: https://w3id.org/peh/OP-1fb84ac5ca
   unique_name: ohtphp - standardized for creatinine
   name: ohtphp - standardized for creatinine
   label: ohtphp - standardized for creatinine
@@ -8182,7 +8182,7 @@ observable_properties:
       function_results:
       - value_type: decimal
         unit: MicroGM-PER-GM
-- id: ohtphp_meb_sg
+- id: https://w3id.org/peh/OP-30a91a3f6f
   unique_name: ohtphp - normalized for specific gravity
   name: ohtphp - normalized for specific gravity
   label: ohtphp - normalized for specific gravity
@@ -8218,7 +8218,7 @@ observable_properties:
       function_results:
       - value_type: decimal
         unit: MicroGM-PER-GM
-- id: tcep_meb_crt
+- id: https://w3id.org/peh/OP-8476e5a845
   unique_name: tcep - standardized for creatinine
   name: tcep - standardized for creatinine
   label: tcep - standardized for creatinine
@@ -8255,7 +8255,7 @@ observable_properties:
       function_results:
       - value_type: decimal
         unit: MicroGM-PER-GM
-- id: tcep_meb_sg
+- id: https://w3id.org/peh/OP-9474420445
   unique_name: tcep - normalized for specific gravity
   name: tcep - normalized for specific gravity
   label: tcep - normalized for specific gravity
@@ -8291,7 +8291,7 @@ observable_properties:
       function_results:
       - value_type: decimal
         unit: MicroGM-PER-GM
-- id: tcpy_meb_crt
+- id: https://w3id.org/peh/OP-ae2f0e602e
   unique_name: tcpy - standardized for creatinine
   name: tcpy - standardized for creatinine
   label: tcpy - standardized for creatinine
@@ -8328,7 +8328,7 @@ observable_properties:
       function_results:
       - value_type: decimal
         unit: MicroGM-PER-GM
-- id: tcpy_meb_sg
+- id: https://w3id.org/peh/OP-4f14904ec7
   unique_name: tcpy - normalized for specific gravity
   name: tcpy - normalized for specific gravity
   label: tcpy - normalized for specific gravity
@@ -8364,7 +8364,7 @@ observable_properties:
       function_results:
       - value_type: decimal
         unit: MicroGM-PER-GM
-- id: cdcca_meb_crt
+- id: https://w3id.org/peh/OP-dd676802a6
   unique_name: cdcca - standardized for creatinine
   name: cdcca - standardized for creatinine
   label: cdcca - standardized for creatinine
@@ -8401,7 +8401,7 @@ observable_properties:
       function_results:
       - value_type: decimal
         unit: MicroGM-PER-GM
-- id: cdcca_meb_sg
+- id: https://w3id.org/peh/OP-7df8fe24b2
   unique_name: cdcca - normalized for specific gravity
   name: cdcca - normalized for specific gravity
   label: cdcca - normalized for specific gravity
@@ -8437,7 +8437,7 @@ observable_properties:
       function_results:
       - value_type: decimal
         unit: MicroGM-PER-GM
-- id: cisdbca_meb_crt
+- id: https://w3id.org/peh/OP-45788238bb
   unique_name: cisdbca - standardized for creatinine
   name: cisdbca - standardized for creatinine
   label: cisdbca - standardized for creatinine
@@ -8474,7 +8474,7 @@ observable_properties:
       function_results:
       - value_type: decimal
         unit: MicroGM-PER-GM
-- id: cisdbca_meb_sg
+- id: https://w3id.org/peh/OP-46f1a0902e
   unique_name: cisdbca - normalized for specific gravity
   name: cisdbca - normalized for specific gravity
   label: cisdbca - normalized for specific gravity
@@ -8510,7 +8510,7 @@ observable_properties:
       function_results:
       - value_type: decimal
         unit: MicroGM-PER-GM
-- id: fpba_meb_crt
+- id: https://w3id.org/peh/OP-0a04f892c1
   unique_name: fpba - standardized for creatinine
   name: fpba - standardized for creatinine
   label: fpba - standardized for creatinine
@@ -8547,7 +8547,7 @@ observable_properties:
       function_results:
       - value_type: decimal
         unit: MicroGM-PER-GM
-- id: fpba_meb_sg
+- id: https://w3id.org/peh/OP-c3dadb43ca
   unique_name: fpba - normalized for specific gravity
   name: fpba - normalized for specific gravity
   label: fpba - normalized for specific gravity
@@ -8583,7 +8583,7 @@ observable_properties:
       function_results:
       - value_type: decimal
         unit: MicroGM-PER-GM
-- id: tdcca_meb_crt
+- id: https://w3id.org/peh/OP-f7b8ee4885
   unique_name: tdcca - standardized for creatinine
   name: tdcca - standardized for creatinine
   label: tdcca - standardized for creatinine
@@ -8620,7 +8620,7 @@ observable_properties:
       function_results:
       - value_type: decimal
         unit: MicroGM-PER-GM
-- id: tdcca_meb_sg
+- id: https://w3id.org/peh/OP-a540839762
   unique_name: tdcca - normalized for specific gravity
   name: tdcca - normalized for specific gravity
   label: tdcca - normalized for specific gravity
@@ -8656,7 +8656,7 @@ observable_properties:
       function_results:
       - value_type: decimal
         unit: MicroGM-PER-GM
-- id: threepba_meb_crt
+- id: https://w3id.org/peh/OP-dda51907eb
   unique_name: threepba - standardized for creatinine
   name: threepba - standardized for creatinine
   label: threepba - standardized for creatinine
@@ -8693,7 +8693,7 @@ observable_properties:
       function_results:
       - value_type: decimal
         unit: MicroGM-PER-GM
-- id: threepba_meb_sg
+- id: https://w3id.org/peh/OP-fd8ea75428
   unique_name: threepba - normalized for specific gravity
   name: threepba - normalized for specific gravity
   label: threepba - normalized for specific gravity
@@ -8729,7 +8729,7 @@ observable_properties:
       function_results:
       - value_type: decimal
         unit: MicroGM-PER-GM
-- id: cxmepp_meb_crt
+- id: https://w3id.org/peh/OP-dabb92f74a
   unique_name: cxmepp - standardized for creatinine
   name: cxmepp - standardized for creatinine
   label: cxmepp - standardized for creatinine
@@ -8766,7 +8766,7 @@ observable_properties:
       function_results:
       - value_type: decimal
         unit: MicroGM-PER-GM
-- id: cxmepp_meb_sg
+- id: https://w3id.org/peh/OP-fb14f3dab7
   unique_name: cxmepp - normalized for specific gravity
   name: cxmepp - normalized for specific gravity
   label: cxmepp - normalized for specific gravity
@@ -8802,7 +8802,7 @@ observable_properties:
       function_results:
       - value_type: decimal
         unit: MicroGM-PER-GM
-- id: cxmeptp_meb_crt
+- id: https://w3id.org/peh/OP-65c2c615c8
   unique_name: cxmeptp - standardized for creatinine
   name: cxmeptp - standardized for creatinine
   label: cxmeptp - standardized for creatinine
@@ -8839,7 +8839,7 @@ observable_properties:
       function_results:
       - value_type: decimal
         unit: MicroGM-PER-GM
-- id: cxmeptp_meb_sg
+- id: https://w3id.org/peh/OP-39f642dc92
   unique_name: cxmeptp - normalized for specific gravity
   name: cxmeptp - normalized for specific gravity
   label: cxmeptp - normalized for specific gravity
@@ -8875,7 +8875,7 @@ observable_properties:
       function_results:
       - value_type: decimal
         unit: MicroGM-PER-GM
-- id: cxmidp_meb_crt
+- id: https://w3id.org/peh/OP-6d6f21c669
   unique_name: cxmidp - standardized for creatinine
   name: cxmidp - standardized for creatinine
   label: cxmidp - standardized for creatinine
@@ -8912,7 +8912,7 @@ observable_properties:
       function_results:
       - value_type: decimal
         unit: MicroGM-PER-GM
-- id: cxmidp_meb_sg
+- id: https://w3id.org/peh/OP-c7632c8158
   unique_name: cxmidp - normalized for specific gravity
   name: cxmidp - normalized for specific gravity
   label: cxmidp - normalized for specific gravity
@@ -8948,7 +8948,7 @@ observable_properties:
       function_results:
       - value_type: decimal
         unit: MicroGM-PER-GM
-- id: cxmmhtp_meb_crt
+- id: https://w3id.org/peh/OP-ebd82ec185
   unique_name: cxmmhtp - standardized for creatinine
   name: cxmmhtp - standardized for creatinine
   label: cxmmhtp - standardized for creatinine
@@ -8985,7 +8985,7 @@ observable_properties:
       function_results:
       - value_type: decimal
         unit: MicroGM-PER-GM
-- id: cxmmhtp_meb_sg
+- id: https://w3id.org/peh/OP-c00ee00b8f
   unique_name: cxmmhtp - normalized for specific gravity
   name: cxmmhtp - normalized for specific gravity
   label: cxmmhtp - normalized for specific gravity
@@ -9021,7 +9021,7 @@ observable_properties:
       function_results:
       - value_type: decimal
         unit: MicroGM-PER-GM
-- id: cxmphp_meb_crt
+- id: https://w3id.org/peh/OP-7231c4b2a5
   unique_name: cxmphp - standardized for creatinine
   name: cxmphp - standardized for creatinine
   label: cxmphp - standardized for creatinine
@@ -9058,7 +9058,7 @@ observable_properties:
       function_results:
       - value_type: decimal
         unit: MicroGM-PER-GM
-- id: cxmphp_meb_sg
+- id: https://w3id.org/peh/OP-26c6d21ebe
   unique_name: cxmphp - normalized for specific gravity
   name: cxmphp - normalized for specific gravity
   label: cxmphp - normalized for specific gravity
@@ -9094,7 +9094,7 @@ observable_properties:
       function_results:
       - value_type: decimal
         unit: MicroGM-PER-GM
-- id: cxmphxp_meb_crt
+- id: https://w3id.org/peh/OP-bd15c47180
   unique_name: cxmphxp - standardized for creatinine
   name: cxmphxp - standardized for creatinine
   label: cxmphxp - standardized for creatinine
@@ -9131,7 +9131,7 @@ observable_properties:
       function_results:
       - value_type: decimal
         unit: MicroGM-PER-GM
-- id: cxmphxp_meb_sg
+- id: https://w3id.org/peh/OP-f4a679c908
   unique_name: cxmphxp - normalized for specific gravity
   name: cxmphxp - normalized for specific gravity
   label: cxmphxp - normalized for specific gravity
@@ -9167,7 +9167,7 @@ observable_properties:
       function_results:
       - value_type: decimal
         unit: MicroGM-PER-GM
-- id: mbzp_meb_crt
+- id: https://w3id.org/peh/OP-de13bcc5ee
   unique_name: mbzp - standardized for creatinine
   name: mbzp - standardized for creatinine
   label: mbzp - standardized for creatinine
@@ -9204,7 +9204,7 @@ observable_properties:
       function_results:
       - value_type: decimal
         unit: MicroGM-PER-GM
-- id: mbzp_meb_sg
+- id: https://w3id.org/peh/OP-7e804ec5aa
   unique_name: mbzp - normalized for specific gravity
   name: mbzp - normalized for specific gravity
   label: mbzp - normalized for specific gravity
@@ -9240,7 +9240,7 @@ observable_properties:
       function_results:
       - value_type: decimal
         unit: MicroGM-PER-GM
-- id: mcop_meb_crt
+- id: https://w3id.org/peh/OP-266ff61e40
   unique_name: mcop - standardized for creatinine
   name: mcop - standardized for creatinine
   label: mcop - standardized for creatinine
@@ -9277,7 +9277,7 @@ observable_properties:
       function_results:
       - value_type: decimal
         unit: MicroGM-PER-GM
-- id: mcop_meb_sg
+- id: https://w3id.org/peh/OP-12b7483e6a
   unique_name: mcop - normalized for specific gravity
   name: mcop - normalized for specific gravity
   label: mcop - normalized for specific gravity
@@ -9313,7 +9313,7 @@ observable_properties:
       function_results:
       - value_type: decimal
         unit: MicroGM-PER-GM
-- id: meha_meb_crt
+- id: https://w3id.org/peh/OP-652a5c5dd1
   unique_name: meha - standardized for creatinine
   name: meha - standardized for creatinine
   label: meha - standardized for creatinine
@@ -9350,7 +9350,7 @@ observable_properties:
       function_results:
       - value_type: decimal
         unit: MicroGM-PER-GM
-- id: meha_meb_sg
+- id: https://w3id.org/peh/OP-53b297413e
   unique_name: meha - normalized for specific gravity
   name: meha - normalized for specific gravity
   label: meha - normalized for specific gravity
@@ -9386,7 +9386,7 @@ observable_properties:
       function_results:
       - value_type: decimal
         unit: MicroGM-PER-GM
-- id: mehp_meb_crt
+- id: https://w3id.org/peh/OP-23b0cbee63
   unique_name: mehp - standardized for creatinine
   name: mehp - standardized for creatinine
   label: mehp - standardized for creatinine
@@ -9423,7 +9423,7 @@ observable_properties:
       function_results:
       - value_type: decimal
         unit: MicroGM-PER-GM
-- id: mehp_meb_sg
+- id: https://w3id.org/peh/OP-a539f212dc
   unique_name: mehp - normalized for specific gravity
   name: mehp - normalized for specific gravity
   label: mehp - normalized for specific gravity
@@ -9459,7 +9459,7 @@ observable_properties:
       function_results:
       - value_type: decimal
         unit: MicroGM-PER-GM
-- id: mehtp_meb_crt
+- id: https://w3id.org/peh/OP-c4b81ce3a1
   unique_name: mehtp - standardized for creatinine
   name: mehtp - standardized for creatinine
   label: mehtp - standardized for creatinine
@@ -9496,7 +9496,7 @@ observable_properties:
       function_results:
       - value_type: decimal
         unit: MicroGM-PER-GM
-- id: mehtp_meb_sg
+- id: https://w3id.org/peh/OP-60fda30861
   unique_name: mehtp - normalized for specific gravity
   name: mehtp - normalized for specific gravity
   label: mehtp - normalized for specific gravity
@@ -9532,7 +9532,7 @@ observable_properties:
       function_results:
       - value_type: decimal
         unit: MicroGM-PER-GM
-- id: mep_meb_crt
+- id: https://w3id.org/peh/OP-11c3029087
   unique_name: mep - standardized for creatinine
   name: mep - standardized for creatinine
   label: mep - standardized for creatinine
@@ -9569,7 +9569,7 @@ observable_properties:
       function_results:
       - value_type: decimal
         unit: MicroGM-PER-GM
-- id: mep_meb_sg
+- id: https://w3id.org/peh/OP-7bc51b66d1
   unique_name: mep - normalized for specific gravity
   name: mep - normalized for specific gravity
   label: mep - normalized for specific gravity
@@ -9605,7 +9605,7 @@ observable_properties:
       function_results:
       - value_type: decimal
         unit: MicroGM-PER-GM
-- id: mhnp_meb_crt
+- id: https://w3id.org/peh/OP-2c52f4c720
   unique_name: mhnp - standardized for creatinine
   name: mhnp - standardized for creatinine
   label: mhnp - standardized for creatinine
@@ -9642,7 +9642,7 @@ observable_properties:
       function_results:
       - value_type: decimal
         unit: MicroGM-PER-GM
-- id: mhnp_meb_sg
+- id: https://w3id.org/peh/OP-f15d988ab0
   unique_name: mhnp - normalized for specific gravity
   name: mhnp - normalized for specific gravity
   label: mhnp - normalized for specific gravity
@@ -9678,7 +9678,7 @@ observable_properties:
       function_results:
       - value_type: decimal
         unit: MicroGM-PER-GM
-- id: mibp_meb_crt
+- id: https://w3id.org/peh/OP-ff6d3a3223
   unique_name: mibp - standardized for creatinine
   name: mibp - standardized for creatinine
   label: mibp - standardized for creatinine
@@ -9715,7 +9715,7 @@ observable_properties:
       function_results:
       - value_type: decimal
         unit: MicroGM-PER-GM
-- id: mibp_meb_sg
+- id: https://w3id.org/peh/OP-f44fddd876
   unique_name: mibp - normalized for specific gravity
   name: mibp - normalized for specific gravity
   label: mibp - normalized for specific gravity
@@ -9751,7 +9751,7 @@ observable_properties:
       function_results:
       - value_type: decimal
         unit: MicroGM-PER-GM
-- id: minp_meb_crt
+- id: https://w3id.org/peh/OP-27017fdf18
   unique_name: minp - standardized for creatinine
   name: minp - standardized for creatinine
   label: minp - standardized for creatinine
@@ -9788,7 +9788,7 @@ observable_properties:
       function_results:
       - value_type: decimal
         unit: MicroGM-PER-GM
-- id: minp_meb_sg
+- id: https://w3id.org/peh/OP-d7471d2c1f
   unique_name: minp - normalized for specific gravity
   name: minp - normalized for specific gravity
   label: minp - normalized for specific gravity
@@ -9824,7 +9824,7 @@ observable_properties:
       function_results:
       - value_type: decimal
         unit: MicroGM-PER-GM
-- id: mnbp_meb_crt
+- id: https://w3id.org/peh/OP-508c0d63b6
   unique_name: mnbp - standardized for creatinine
   name: mnbp - standardized for creatinine
   label: mnbp - standardized for creatinine
@@ -9861,7 +9861,7 @@ observable_properties:
       function_results:
       - value_type: decimal
         unit: MicroGM-PER-GM
-- id: mnbp_meb_sg
+- id: https://w3id.org/peh/OP-55c2fb21e3
   unique_name: mnbp - normalized for specific gravity
   name: mnbp - normalized for specific gravity
   label: mnbp - normalized for specific gravity
@@ -9897,7 +9897,7 @@ observable_properties:
       function_results:
       - value_type: decimal
         unit: MicroGM-PER-GM
-- id: ohmeha_meb_crt
+- id: https://w3id.org/peh/OP-95030ab2a2
   unique_name: ohmeha - standardized for creatinine
   name: ohmeha - standardized for creatinine
   label: ohmeha - standardized for creatinine
@@ -9934,7 +9934,7 @@ observable_properties:
       function_results:
       - value_type: decimal
         unit: MicroGM-PER-GM
-- id: ohmeha_meb_sg
+- id: https://w3id.org/peh/OP-07682ad166
   unique_name: ohmeha - normalized for specific gravity
   name: ohmeha - normalized for specific gravity
   label: ohmeha - normalized for specific gravity
@@ -9970,7 +9970,7 @@ observable_properties:
       function_results:
       - value_type: decimal
         unit: MicroGM-PER-GM
-- id: ohmehp_meb_crt
+- id: https://w3id.org/peh/OP-564d16b18f
   unique_name: ohmehp - standardized for creatinine
   name: ohmehp - standardized for creatinine
   label: ohmehp - standardized for creatinine
@@ -10007,7 +10007,7 @@ observable_properties:
       function_results:
       - value_type: decimal
         unit: MicroGM-PER-GM
-- id: ohmehp_meb_sg
+- id: https://w3id.org/peh/OP-a45bfd8553
   unique_name: ohmehp - normalized for specific gravity
   name: ohmehp - normalized for specific gravity
   label: ohmehp - normalized for specific gravity
@@ -10043,7 +10043,7 @@ observable_properties:
       function_results:
       - value_type: decimal
         unit: MicroGM-PER-GM
-- id: ohmehtp_meb_crt
+- id: https://w3id.org/peh/OP-9fcd9c49a2
   unique_name: ohmehtp - standardized for creatinine
   name: ohmehtp - standardized for creatinine
   label: ohmehtp - standardized for creatinine
@@ -10080,7 +10080,7 @@ observable_properties:
       function_results:
       - value_type: decimal
         unit: MicroGM-PER-GM
-- id: ohmehtp_meb_sg
+- id: https://w3id.org/peh/OP-1f56fba9e9
   unique_name: ohmehtp - normalized for specific gravity
   name: ohmehtp - normalized for specific gravity
   label: ohmehtp - normalized for specific gravity
@@ -10116,7 +10116,7 @@ observable_properties:
       function_results:
       - value_type: decimal
         unit: MicroGM-PER-GM
-- id: ohmidp_meb_crt
+- id: https://w3id.org/peh/OP-aee46be1c6
   unique_name: ohmidp - standardized for creatinine
   name: ohmidp - standardized for creatinine
   label: ohmidp - standardized for creatinine
@@ -10153,7 +10153,7 @@ observable_properties:
       function_results:
       - value_type: decimal
         unit: MicroGM-PER-GM
-- id: ohmidp_meb_sg
+- id: https://w3id.org/peh/OP-37fcd2830c
   unique_name: ohmidp - normalized for specific gravity
   name: ohmidp - normalized for specific gravity
   label: ohmidp - normalized for specific gravity
@@ -10189,7 +10189,7 @@ observable_properties:
       function_results:
       - value_type: decimal
         unit: MicroGM-PER-GM
-- id: ohmphp_meb_crt
+- id: https://w3id.org/peh/OP-9496aa3a6a
   unique_name: ohmphp - standardized for creatinine
   name: ohmphp - standardized for creatinine
   label: ohmphp - standardized for creatinine
@@ -10226,7 +10226,7 @@ observable_properties:
       function_results:
       - value_type: decimal
         unit: MicroGM-PER-GM
-- id: ohmphp_meb_sg
+- id: https://w3id.org/peh/OP-763e47d654
   unique_name: ohmphp - normalized for specific gravity
   name: ohmphp - normalized for specific gravity
   label: ohmphp - normalized for specific gravity
@@ -10262,7 +10262,7 @@ observable_properties:
       function_results:
       - value_type: decimal
         unit: MicroGM-PER-GM
-- id: ohmprhpp_meb_crt
+- id: https://w3id.org/peh/OP-944422ec10
   unique_name: ohmprhpp - standardized for creatinine
   name: ohmprhpp - standardized for creatinine
   label: ohmprhpp - standardized for creatinine
@@ -10299,7 +10299,7 @@ observable_properties:
       function_results:
       - value_type: decimal
         unit: MicroGM-PER-GM
-- id: ohmprhpp_meb_sg
+- id: https://w3id.org/peh/OP-40a7c71a35
   unique_name: ohmprhpp - normalized for specific gravity
   name: ohmprhpp - normalized for specific gravity
   label: ohmprhpp - normalized for specific gravity
@@ -10335,7 +10335,7 @@ observable_properties:
       function_results:
       - value_type: decimal
         unit: MicroGM-PER-GM
-- id: onefourdehtm_meb_crt
+- id: https://w3id.org/peh/OP-15f585f774
   unique_name: onefourdehtm - standardized for creatinine
   name: onefourdehtm - standardized for creatinine
   label: onefourdehtm - standardized for creatinine
@@ -10372,7 +10372,7 @@ observable_properties:
       function_results:
       - value_type: decimal
         unit: MicroGM-PER-GM
-- id: onefourdehtm_meb_sg
+- id: https://w3id.org/peh/OP-5090eafad4
   unique_name: onefourdehtm - normalized for specific gravity
   name: onefourdehtm - normalized for specific gravity
   label: onefourdehtm - normalized for specific gravity
@@ -10408,7 +10408,7 @@ observable_properties:
       function_results:
       - value_type: decimal
         unit: MicroGM-PER-GM
-- id: oxomeha_meb_crt
+- id: https://w3id.org/peh/OP-144f5335d6
   unique_name: oxomeha - standardized for creatinine
   name: oxomeha - standardized for creatinine
   label: oxomeha - standardized for creatinine
@@ -10445,7 +10445,7 @@ observable_properties:
       function_results:
       - value_type: decimal
         unit: MicroGM-PER-GM
-- id: oxomeha_meb_sg
+- id: https://w3id.org/peh/OP-5fa4d728df
   unique_name: oxomeha - normalized for specific gravity
   name: oxomeha - normalized for specific gravity
   label: oxomeha - normalized for specific gravity
@@ -10481,7 +10481,7 @@ observable_properties:
       function_results:
       - value_type: decimal
         unit: MicroGM-PER-GM
-- id: oxomehp_meb_crt
+- id: https://w3id.org/peh/OP-032759ef28
   unique_name: oxomehp - standardized for creatinine
   name: oxomehp - standardized for creatinine
   label: oxomehp - standardized for creatinine
@@ -10518,7 +10518,7 @@ observable_properties:
       function_results:
       - value_type: decimal
         unit: MicroGM-PER-GM
-- id: oxomehp_meb_sg
+- id: https://w3id.org/peh/OP-9548ffd8e8
   unique_name: oxomehp - normalized for specific gravity
   name: oxomehp - normalized for specific gravity
   label: oxomehp - normalized for specific gravity
@@ -10554,7 +10554,7 @@ observable_properties:
       function_results:
       - value_type: decimal
         unit: MicroGM-PER-GM
-- id: oxomehtp_meb_crt
+- id: https://w3id.org/peh/OP-9724bb569e
   unique_name: oxomehtp - standardized for creatinine
   name: oxomehtp - standardized for creatinine
   label: oxomehtp - standardized for creatinine
@@ -10591,7 +10591,7 @@ observable_properties:
       function_results:
       - value_type: decimal
         unit: MicroGM-PER-GM
-- id: oxomehtp_meb_sg
+- id: https://w3id.org/peh/OP-02a6e294fc
   unique_name: oxomehtp - normalized for specific gravity
   name: oxomehtp - normalized for specific gravity
   label: oxomehtp - normalized for specific gravity
@@ -10627,7 +10627,7 @@ observable_properties:
       function_results:
       - value_type: decimal
         unit: MicroGM-PER-GM
-- id: twofourdehtm_meb_crt
+- id: https://w3id.org/peh/OP-90a70d1708
   unique_name: twofourdehtm - standardized for creatinine
   name: twofourdehtm - standardized for creatinine
   label: twofourdehtm - standardized for creatinine
@@ -10664,7 +10664,7 @@ observable_properties:
       function_results:
       - value_type: decimal
         unit: MicroGM-PER-GM
-- id: twofourdehtm_meb_sg
+- id: https://w3id.org/peh/OP-9169520cbb
   unique_name: twofourdehtm - normalized for specific gravity
   name: twofourdehtm - normalized for specific gravity
   label: twofourdehtm - normalized for specific gravity
@@ -10700,7 +10700,7 @@ observable_properties:
       function_results:
       - value_type: decimal
         unit: MicroGM-PER-GM
-- id: Exposure_Biomarker_measured
+- id: https://w3id.org/peh/OP-cdea92501d
   unique_name: Exposure Biomarker measured
   name: Exposure Biomarker measured
   label: Exposure Biomarker measured
@@ -10716,7 +10716,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: LOD_-_available
+- id: https://w3id.org/peh/OP-e891b62617
   unique_name: LOD - available
   name: LOD - available
   label: LOD - available
@@ -10729,7 +10729,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Provide_the_limit_of_detection_(LOD)_for_the_selected_biomarker
+- id: https://w3id.org/peh/OP-0db8390d99
   unique_name: Provide the limit of detection (LOD) for the selected biomarker
   name: Provide the limit of detection (LOD) for the selected biomarker
   description: Provide value
@@ -10743,7 +10743,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Unit_of_measure_LOD
+- id: https://w3id.org/peh/OP-427f681666
   unique_name: Unit of measure LOD
   name: Unit of measure LOD
   description: Unit of measure LOD
@@ -10760,7 +10760,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Definition_LOD
+- id: https://w3id.org/peh/OP-667b52e347
   unique_name: Definition LOD
   name: Definition LOD
   description: Specifiy the definition used to define the LOD
@@ -10785,7 +10785,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Definition_LOD_-_Other
+- id: https://w3id.org/peh/OP-b53bec9ba5
   unique_name: Definition LOD - Other
   name: Definition LOD - Other
   description: In case of "other Definition LOD" please specify
@@ -10799,7 +10799,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: LOQ_-_available
+- id: https://w3id.org/peh/OP-193203a143
   unique_name: LOQ - available
   name: LOQ - available
   label: LOQ - available
@@ -10812,7 +10812,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Provide_the_limit_of_quantification_(LOQ)_for_the_selected_biomarker
+- id: https://w3id.org/peh/OP-617645875f
   unique_name: Provide the limit of quantification (LOQ) for the selected biomarker
   name: Provide the limit of quantification (LOQ) for the selected biomarker
   description: Provide value
@@ -10826,7 +10826,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Unit_of_measure_LOQ
+- id: https://w3id.org/peh/OP-f22ba1e2da
   unique_name: Unit of measure LOQ
   name: Unit of measure LOQ
   description: Unit of measure LOD
@@ -10843,7 +10843,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Definition_LOQ
+- id: https://w3id.org/peh/OP-d4d5a82353
   unique_name: Definition LOQ
   name: Definition LOQ
   description: Specifiy the definition used to define the LOQ
@@ -10878,7 +10878,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Definition_LOQ_-_Other
+- id: https://w3id.org/peh/OP-94db34f12e
   unique_name: Definition LOQ - Other
   name: Definition LOQ - Other
   label: Definition LOQ - Other
@@ -10891,7 +10891,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Number_of_samples_analysed
+- id: https://w3id.org/peh/OP-1620cb8265
   unique_name: Number of samples analysed
   name: Number of samples analysed
   label: Number of samples analysed
@@ -10904,7 +10904,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Number_of_samples_below_LOD
+- id: https://w3id.org/peh/OP-431cce3315
   unique_name: Number of samples below LOD
   name: Number of samples below LOD
   label: Number of samples below LOD
@@ -10917,7 +10917,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Number_of_samples_below_LOQ
+- id: https://w3id.org/peh/OP-889c9fd2dd
   unique_name: Number of samples below LOQ
   name: Number of samples below LOQ
   label: Number of samples below LOQ
@@ -10930,7 +10930,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Institution_name_of_the_laboratory_performing_the_chemical_analysis
+- id: https://w3id.org/peh/OP-4b119638dd
   unique_name: Institution name of the laboratory performing the chemical analysis
   name: Institution name of the laboratory performing the chemical analysis
   label: Institution name of the laboratory performing the chemical analysis
@@ -10943,7 +10943,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Country_of_the_laboratory_performing_the_chemical_analysis
+- id: https://w3id.org/peh/OP-341e04d575
   unique_name: Country of the laboratory performing the chemical analysis
   name: Country of the laboratory performing the chemical analysis
   label: Country of the laboratory performing the chemical analysis
@@ -10959,7 +10959,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: if_applicable;_name_of_the_group_within_the_institution/laboratory_performing_the_chemical_analysis
+- id: https://w3id.org/peh/OP-9bf1f154e5
   unique_name: if applicable; name of the group within the institution/laboratory
     performing the chemical analysis
   name: if applicable; name of the group within the institution/laboratory performing
@@ -10975,7 +10975,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Analytical_method_used
+- id: https://w3id.org/peh/OP-865d9fc7a7
   unique_name: Analytical method used
   name: Analytical method used
   label: Analytical method used
@@ -11043,7 +11043,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Specify_other_Analytical_method
+- id: https://w3id.org/peh/OP-859f52622a
   unique_name: Specify "other" Analytical method
   name: Specify "other" Analytical method
   description: If none of the analytical methods provided are relevant for your analysis,
@@ -11059,7 +11059,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: List_successful_participation_in_proficiency_tests_(PTs)
+- id: https://w3id.org/peh/OP-e60bf8cbc9
   unique_name: List successful participation in proficiency tests (PTs)
   name: List successful participation in proficiency tests (PTs)
   description: indicate participation in PT scheme, not longer ago than 2 years before
@@ -11098,7 +11098,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Specify_other_PTs
+- id: https://w3id.org/peh/OP-c287f2b66a
   unique_name: Specify "other" PTs
   name: Specify "other" PTs
   description: If none of the aformentioned proficiency tests are relevant for your
@@ -11114,7 +11114,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Sample_preparation_method
+- id: https://w3id.org/peh/OP-7833d8d3ce
   unique_name: Sample preparation method
   name: Sample preparation method
   label: Sample preparation method
@@ -11148,7 +11148,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Are_field_blank_samples_run_to_check_for_contamination?
+- id: https://w3id.org/peh/OP-bd48fa122d
   unique_name: Are field blank samples run to check for contamination?
   name: Are field blank samples run to check for contamination?
   label: Are field blank samples run to check for contamination?
@@ -11161,7 +11161,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: If_field_blank_samples_are_checked,_on_how_many_samples_were_blanks_run?
+- id: https://w3id.org/peh/OP-700e3eeb1f
   unique_name: If field blank samples are checked, on how many samples were blanks
     run?
   name: If field blank samples are checked, on how many samples were blanks run?
@@ -11175,7 +11175,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Are_duplicate_or_replicate_samples_analyzed_to_ensure_precision?
+- id: https://w3id.org/peh/OP-f3fe5acd5f
   unique_name: Are duplicate or replicate samples analyzed to ensure precision?
   name: Are duplicate or replicate samples analyzed to ensure precision?
   label: Are duplicate or replicate samples analyzed to ensure precision?
@@ -11188,7 +11188,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: If_yes,_what_is_the_number_of_duplicates/replicates?
+- id: https://w3id.org/peh/OP-0cc3f9ec01
   unique_name: If yes, what is the number of duplicates/replicates?
   name: If yes, what is the number of duplicates/replicates?
   label: If yes, what is the number of duplicates/replicates?
@@ -11201,7 +11201,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Analytical_phase_QA/QC
+- id: https://w3id.org/peh/OP-95c5428d24
   unique_name: Analytical phase QA/QC
   name: Analytical phase QA/QC
   description: Indicate which analytical QA/QC measures are adopted in the study
@@ -11228,7 +11228,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Link_to_Data_collection_Instance
+- id: https://w3id.org/peh/OP-14f8b2fc26
   unique_name: Link to Data collection Instance
   name: Link to Data collection Instance
   label: Link to Data collection Instance
@@ -11241,7 +11241,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Data_collection_Identifier_provided_as_URL
+- id: https://w3id.org/peh/OP-4898f80018
   unique_name: Data collection Identifier provided as URL
   name: Data collection Identifier provided as URL
   label: Data collection Identifier provided as URL
@@ -11254,7 +11254,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Name_of_the_data_collection
+- id: https://w3id.org/peh/OP-c38db7f60b
   unique_name: Name of the data collection
   name: Name of the data collection
   description: Please indicate the name of the collection. If the name is not defined
@@ -11269,7 +11269,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Short_name_or_acronym_of_the_data_collection
+- id: https://w3id.org/peh/OP-fbbfdd38a0
   unique_name: Short name or acronym of the data collection
   name: Short name or acronym of the data collection
   label: Short name or acronym of the data collection
@@ -11282,7 +11282,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Language_used
+- id: https://w3id.org/peh/OP-381eb57cb1
   unique_name: Language used
   name: Language used
   description: Specify the language used in interviews, surveys, or any direct interactions
@@ -11300,7 +11300,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Description
+- id: https://w3id.org/peh/OP-b5a7adde1a
   unique_name: Description
   name: Description
   description: 'Please provide a brief summary with the most important details summarising
@@ -11315,7 +11315,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Publisher
+- id: https://w3id.org/peh/OP-32c73be0cb
   unique_name: Publisher
   name: Publisher
   description: Please provide the ROR identifier or website URL of the entity responsable
@@ -11330,7 +11330,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Start_date_of_the_data_collection
+- id: https://w3id.org/peh/OP-6c1609863d
   unique_name: Start date of the data collection
   name: Start date of the data collection
   description: 'Please provide the beginning (or previewed starting) date of the data
@@ -11345,7 +11345,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: End_date_of_the_data_collection
+- id: https://w3id.org/peh/OP-7750f77146
   unique_name: End date of the data collection
   name: End date of the data collection
   description: Please provide the previewed ending date of the data collection.
@@ -11359,7 +11359,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Implementation_level
+- id: https://w3id.org/peh/OP-7bc0e147b8
   unique_name: Implementation level
   name: Implementation level
   description: Please indicate the implementation level (of coverage).
@@ -11382,7 +11382,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Email
+- id: https://w3id.org/peh/OP-ce8ae9da5b
   unique_name: Email
   name: Email
   description: Provide contact information about Principal investigator
@@ -11396,7 +11396,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Resource_type
+- id: https://w3id.org/peh/OP-53a002434d
   unique_name: Resource type
   name: Resource type
   description: Please provide a type of the resource being described. "Dataset" is
@@ -11420,7 +11420,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Distribution_File_Format
+- id: https://w3id.org/peh/OP-72212515fe
   unique_name: Distribution File Format
   name: Distribution File Format
   label: Distribution File Format
@@ -11436,7 +11436,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Conforms_To
+- id: https://w3id.org/peh/OP-c8c30f9a8a
   unique_name: Conforms To
   name: Conforms To
   description: Please provide an established standard to which the dataset distribution
@@ -11451,7 +11451,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Data_usage_license
+- id: https://w3id.org/peh/OP-90db9eea24
   unique_name: Data usage license
   name: Data usage license
   description: Conditions (limitations) on the reuse, as stated by the Intellectual
@@ -11482,7 +11482,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Access_conditions_
+- id: https://w3id.org/peh/OP-c81bd2e492
   unique_name: 'Access conditions '
   name: 'Access conditions '
   description: Access conditions may include restrictions beyond license (local laws
@@ -11508,7 +11508,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Access_procedures
+- id: https://w3id.org/peh/OP-f3a93ca2b4
   unique_name: Access procedures
   name: Access procedures
   description: 'Please add information on procedure to obtain access to the dataset. '
@@ -11522,7 +11522,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Text_for_acknowledgement
+- id: https://w3id.org/peh/OP-6b6baf3808
   unique_name: Text for acknowledgement
   name: Text for acknowledgement
   description: The data owner/provider can specify a text for acknowledgement which
@@ -11537,7 +11537,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Text_for_disclaimer
+- id: https://w3id.org/peh/OP-7d475bcece
   unique_name: Text for disclaimer
   name: Text for disclaimer
   description: The data owner/provider can specify a text for disclaimer which should
@@ -11552,7 +11552,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Anonymization_process
+- id: https://w3id.org/peh/OP-5d0ca4d4a2
   unique_name: Anonymization process
   name: Anonymization process
   label: Anonymization process
@@ -11568,7 +11568,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Pseudonymization/anonymization_process
+- id: https://w3id.org/peh/OP-b87d924b36
   unique_name: Pseudonymization/anonymization process
   name: Pseudonymization/anonymization process
   description: Please state the anonymization process.
@@ -11587,7 +11587,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Aggregation_level_of_data
+- id: https://w3id.org/peh/OP-80bef8aa5d
   unique_name: Aggregation level of data
   name: Aggregation level of data
   label: Aggregation level of data
@@ -11603,7 +11603,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: R-script_or_tool_version_number
+- id: https://w3id.org/peh/OP-019c816158
   unique_name: R-script or tool version number
   name: R-script or tool version number
   description: Only for aggregated and published dataset
@@ -11617,7 +11617,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Descriptive_analysis
+- id: https://w3id.org/peh/OP-ce7ecdf2c4
   unique_name: Descriptive analysis
   name: Descriptive analysis
   description: Only for aggregated and published dataset
@@ -11631,7 +11631,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Stratification_procedures
+- id: https://w3id.org/peh/OP-db49b06447
   unique_name: Stratification procedures
   name: Stratification procedures
   description: Only for aggregated and published dataset
@@ -11645,7 +11645,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Data_transformations_or_scaling_applied_
+- id: https://w3id.org/peh/OP-76f0d4d1f5
   unique_name: 'Data transformations or scaling applied '
   name: 'Data transformations or scaling applied '
   description: For example Log transformation, crt adjustment, lipid adjustment etc...
@@ -11666,7 +11666,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Handling_values_below_LOD
+- id: https://w3id.org/peh/OP-7e5d597eb0
   unique_name: Handling values below LOD
   name: Handling values below LOD
   label: Handling values below LOD
@@ -11692,7 +11692,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Please,_provide_a_suitable_description_in_case_you_selected_'other'
+- id: https://w3id.org/peh/OP-7dad7e19b3
   unique_name: Please, provide a suitable description in case you selected 'other'
   name: Please, provide a suitable description in case you selected 'other'
   label: Please, provide a suitable description in case you selected 'other'
@@ -11705,7 +11705,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Handling_values_below_LOQ
+- id: https://w3id.org/peh/OP-970fc5af09
   unique_name: Handling values below LOQ
   name: Handling values below LOQ
   label: Handling values below LOQ
@@ -11731,7 +11731,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Please,_provide_a_suitable_description_in_case_you_selected_'other'.1
+- id: https://w3id.org/peh/OP-230ac89edc
   unique_name: Please, provide a suitable description in case you selected 'other'.1
   name: Please, provide a suitable description in case you selected 'other'.1
   label: Please, provide a suitable description in case you selected 'other'.1
@@ -11744,7 +11744,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Handling_missing_values
+- id: https://w3id.org/peh/OP-6321a609c7
   unique_name: Handling missing values
   name: Handling missing values
   label: Handling missing values
@@ -11757,7 +11757,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Codebook_Reference
+- id: https://w3id.org/peh/OP-f9a2b5bf81
   unique_name: Codebook Reference
   name: Codebook Reference
   label: Codebook Reference
@@ -11770,7 +11770,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Codebook_Name
+- id: https://w3id.org/peh/OP-2dff8be51e
   unique_name: Codebook Name
   name: Codebook Name
   label: Codebook Name
@@ -11783,7 +11783,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Codebook_Version
+- id: https://w3id.org/peh/OP-0307fcbc0d
   unique_name: Codebook Version
   name: Codebook Version
   label: Codebook Version
@@ -11796,7 +11796,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Data_formats_available
+- id: https://w3id.org/peh/OP-dcde638e82
   unique_name: Data formats available
   name: Data formats available
   label: Data formats available
@@ -11812,7 +11812,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: File_size
+- id: https://w3id.org/peh/OP-1908624a0b
   unique_name: File size
   name: File size
   description: Please proved an estimation of the byte size of the dataset distribution.
@@ -11826,7 +11826,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Access_service
+- id: https://w3id.org/peh/OP-ffba76ccea
   unique_name: Access service
   name: Access service
   description: 'Please provide in free-text format the name of the data service that
@@ -11841,7 +11841,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Access_URL
+- id: https://w3id.org/peh/OP-a63c4434a8
   unique_name: Access URL
   name: Access URL
   label: Access URL
@@ -11854,7 +11854,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Affiliation__(Institute)
+- id: https://w3id.org/peh/OP-f3c30a8bda
   unique_name: Affiliation  (Institute)
   name: Affiliation  (Institute)
   description: Affiliation to the institution coordinating the study.
@@ -11868,7 +11868,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Institute_country
+- id: https://w3id.org/peh/OP-c177b994f1
   unique_name: Institute country
   name: Institute country
   description: Country where the institution coordinating the study is located
@@ -11882,7 +11882,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Type_of_Institution
+- id: https://w3id.org/peh/OP-4b5174f07c
   unique_name: Type of Institution
   name: Type of Institution
   label: Type of Institution
@@ -11904,7 +11904,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Type_of_Institution_-__Other
+- id: https://w3id.org/peh/OP-5586a1a94b
   unique_name: Type of Institution -  Other
   name: Type of Institution -  Other
   description: In case of "other" type of institution specify
@@ -11918,7 +11918,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Project_Identifier_provided_as_URL
+- id: https://w3id.org/peh/OP-8949933852
   unique_name: Project Identifier provided as URL
   name: Project Identifier provided as URL
   description: If possible, provide a GUPRI (Globally Unique, Persistent and Resolvable
@@ -11933,7 +11933,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Name_of_the_project_(English)
+- id: https://w3id.org/peh/OP-cf6542b677
   unique_name: Name of the project (English)
   name: Name of the project (English)
   description: Please indicate the name of the project. If the name is not defined
@@ -11948,7 +11948,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Name_of_the_project_(Original_language)
+- id: https://w3id.org/peh/OP-387e873024
   unique_name: Name of the project (Original language)
   name: Name of the project (Original language)
   label: Name of the project (Original language)
@@ -11961,7 +11961,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Short_name_or_acronym_of_the_project
+- id: https://w3id.org/peh/OP-32edd56bbd
   unique_name: Short name or acronym of the project
   name: Short name or acronym of the project
   label: Short name or acronym of the project
@@ -11974,7 +11974,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Funder
+- id: https://w3id.org/peh/OP-2b71b8f273
   unique_name: Funder
   name: Funder
   description: Please provide the ROR identifier or website URL of the entity that
@@ -11989,7 +11989,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Budget_in_Euro
+- id: https://w3id.org/peh/OP-9d38e8a504
   unique_name: Budget in Euro
   name: Budget in Euro
   description: Please indicate the total budget, to the nearest thousand Euros.
@@ -12003,7 +12003,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Start_date_of_the_project
+- id: https://w3id.org/peh/OP-c11c0d962a
   unique_name: Start date of the project
   name: Start date of the project
   description: Please provide the beginning (or previewed starting) date of the project.
@@ -12019,7 +12019,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: End_date_of_the_project
+- id: https://w3id.org/peh/OP-797d980485
   unique_name: End date of the project
   name: End date of the project
   description: Please provide the (previewed) ending date of the project. Project
@@ -12035,7 +12035,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Activity_status
+- id: https://w3id.org/peh/OP-f94416899d
   unique_name: Activity status
   name: Activity status
   description: Is the study in planning stage, ongoing, or concluded
@@ -12058,7 +12058,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Other_-_activity_status
+- id: https://w3id.org/peh/OP-18f4a421c7
   unique_name: Other - activity status
   name: Other - activity status
   description: In case of "other" activity status specify
@@ -12072,7 +12072,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Links
+- id: https://w3id.org/peh/OP-bd908db5cc
   unique_name: Links
   name: Links
   description: Please insert an internet link or links with information about study.
@@ -12086,7 +12086,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Link_to_Study_Metadata_Instance
+- id: https://w3id.org/peh/OP-c3a224c1e4
   unique_name: Link to Study Metadata Instance
   name: Link to Study Metadata Instance
   label: Link to Study Metadata Instance
@@ -12099,7 +12099,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Type_of_sample_collected
+- id: https://w3id.org/peh/OP-acd613e290
   unique_name: Type of sample collected
   name: Type of sample collected
   description: Please fill out this template for each sample type separately.
@@ -12118,7 +12118,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: If_you_selected_human_biological_samples,_specify_the_matrix
+- id: https://w3id.org/peh/OP-80ee2d27dc
   unique_name: If you selected human biological samples, specify the matrix
   name: If you selected human biological samples, specify the matrix
   label: If you selected human biological samples, specify the matrix
@@ -12188,7 +12188,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: If_you_selected_environmental_samples_specify_the_matrix
+- id: https://w3id.org/peh/OP-269fa632ff
   unique_name: If you selected environmental samples specify the matrix
   name: If you selected environmental samples specify the matrix
   label: If you selected environmental samples specify the matrix
@@ -12218,7 +12218,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Start_date_of_sampling
+- id: https://w3id.org/peh/OP-c7e8dad7ac
   unique_name: Start date of sampling
   name: Start date of sampling
   label: Start date of sampling
@@ -12231,7 +12231,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: End_date_of_sampling
+- id: https://w3id.org/peh/OP-ef05092f79
   unique_name: End date of sampling
   name: End date of sampling
   label: End date of sampling
@@ -12244,7 +12244,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Number_of_samples
+- id: https://w3id.org/peh/OP-73c8d24239
   unique_name: Number of samples
   name: Number of samples
   label: Number of samples
@@ -12257,7 +12257,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Planned_minimal_volume_of_sample
+- id: https://w3id.org/peh/OP-9e69aee171
   unique_name: Planned minimal volume of sample
   name: Planned minimal volume of sample
   description: Indicate the samples "minimum amount" that is planned to be collected
@@ -12271,7 +12271,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Unit_of_measure_(of_sample_volume)
+- id: https://w3id.org/peh/OP-6754a85baf
   unique_name: Unit of measure (of sample volume)
   name: Unit of measure (of sample volume)
   description: Please specify the Unit of Measurement (UoM)
@@ -12300,7 +12300,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Are_biobank_samples_collected
+- id: https://w3id.org/peh/OP-51791eba85
   unique_name: Are biobank samples collected
   name: Are biobank samples collected
   label: Are biobank samples collected
@@ -12313,7 +12313,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Sample_collection_method
+- id: https://w3id.org/peh/OP-98687ae0b0
   unique_name: Sample collection method
   name: Sample collection method
   description: Important sampling parameters (e.g., if you had blood sample, if this
@@ -12328,7 +12328,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Where_does_sample_collection_take_place?
+- id: https://w3id.org/peh/OP-e9404c8977
   unique_name: Where does sample collection take place?
   name: Where does sample collection take place?
   label: Where does sample collection take place?
@@ -12354,7 +12354,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Other_-_Place_of_sample_collection
+- id: https://w3id.org/peh/OP-ed5392ec03
   unique_name: Other - Place of sample collection
   name: Other - Place of sample collection
   description: In case of "other" place of sample collection specify
@@ -12368,7 +12368,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Sampling_container_material
+- id: https://w3id.org/peh/OP-a8caba96f0
   unique_name: Sampling container material
   name: Sampling container material
   description: Primary sampling container
@@ -12473,7 +12473,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Dilution_level
+- id: https://w3id.org/peh/OP-21af3c2fb2
   unique_name: Dilution level
   name: Dilution level
   description: 'For urinary samples: availability of information on the dilution level'
@@ -12498,7 +12498,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Other_-_dilution_level
+- id: https://w3id.org/peh/OP-76299b9c86
   unique_name: Other - dilution level
   name: Other - dilution level
   description: In case of "other" information on urinary dilution level please specify
@@ -12512,7 +12512,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Blood_lipids
+- id: https://w3id.org/peh/OP-2823d40481
   unique_name: Blood lipids
   name: Blood lipids
   description: 'For blood samples: availability of information on blood lipids.'
@@ -12535,7 +12535,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Other_-_blood_lipids
+- id: https://w3id.org/peh/OP-1aa210a181
   unique_name: Other - blood lipids
   name: Other - blood lipids
   description: In case of "other" information available on blood lipids please specify
@@ -12549,7 +12549,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Quality_Assurance_(pre-analytical)
+- id: https://w3id.org/peh/OP-d656652e71
   unique_name: Quality Assurance (pre-analytical)
   name: Quality Assurance (pre-analytical)
   description: Pre-analytical Quality Assurance/Quality Control (QA/QC) measures implemented
@@ -12587,7 +12587,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Other_-_Quality_Assurance
+- id: https://w3id.org/peh/OP-d344dff4c7
   unique_name: Other - Quality Assurance
   name: Other - Quality Assurance
   description: In case of "other" pre-analytical quality assurance or Quality control
@@ -12602,7 +12602,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Effect_biomarkers_measured
+- id: https://w3id.org/peh/OP-cfa8fb0b85
   unique_name: Effect biomarkers measured
   name: Effect biomarkers measured
   description: 'Does the study include analysis of effect biomarkers in human samples
@@ -12617,7 +12617,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Link_to_Chemical_Analysis_Instance
+- id: https://w3id.org/peh/OP-e89e276273
   unique_name: Link to Chemical Analysis Instance
   name: Link to Chemical Analysis Instance
   label: Link to Chemical Analysis Instance
@@ -12630,7 +12630,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: ORCID
+- id: https://w3id.org/peh/OP-86f07f7f5e
   unique_name: ORCID
   name: ORCID
   description: 'If you don''t have an ORCID please consider creating one at: https://orcid.org/'
@@ -12644,7 +12644,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Questionnaires_used_
+- id: https://w3id.org/peh/OP-47d29efc19
   unique_name: 'Questionnaires used '
   name: 'Questionnaires used '
   label: 'Questionnaires used '
@@ -12682,7 +12682,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Mode_of_questionnaire_conduct
+- id: https://w3id.org/peh/OP-966c5838f9
   unique_name: Mode of questionnaire conduct
   name: Mode of questionnaire conduct
   label: Mode of questionnaire conduct
@@ -12712,7 +12712,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Who_answered_the_questionnaire
+- id: https://w3id.org/peh/OP-6acfe18fea
   unique_name: Who answered the questionnaire
   name: Who answered the questionnaire
   label: Who answered the questionnaire
@@ -12738,7 +12738,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Other_-_person_who_answered_the_questionnaire
+- id: https://w3id.org/peh/OP-fead2f4038
   unique_name: Other - person who answered the questionnaire
   name: Other - person who answered the questionnaire
   description: In case of "other" person responding to the questionnaire specify
@@ -12752,7 +12752,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Is_the_questionnaire_available_online?
+- id: https://w3id.org/peh/OP-544399e8f7
   unique_name: Is the questionnaire available online?
   name: Is the questionnaire available online?
   description: Is the questionnaire template publicly available for consultation by
@@ -12767,7 +12767,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: In_case_you_answered_with_yes,_please_provide_a_link_to_the_questionnaire
+- id: https://w3id.org/peh/OP-eb4abc6955
   unique_name: In case you answered with yes, please provide a link to the questionnaire
   name: In case you answered with yes, please provide a link to the questionnaire
   description: 'e.g. if published in zenodo or on the study website. '
@@ -12781,7 +12781,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Type_of_target_population
+- id: https://w3id.org/peh/OP-031470ff39
   unique_name: Type of target population
   name: Type of target population
   label: Type of target population
@@ -12809,7 +12809,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Other_-_target_population
+- id: https://w3id.org/peh/OP-a33866e658
   unique_name: Other - target population
   name: Other - target population
   description: In case of "other" type of target population specify
@@ -12823,7 +12823,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Number_of_participants
+- id: https://w3id.org/peh/OP-5f393c2f86
   unique_name: Number of participants
   name: Number of participants
   label: Number of participants
@@ -12836,7 +12836,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: from_age
+- id: https://w3id.org/peh/OP-e14b20d912
   unique_name: from age
   name: from age
   label: from age
@@ -12849,7 +12849,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: to_age
+- id: https://w3id.org/peh/OP-157aee53a1
   unique_name: to age
   name: to age
   label: to age
@@ -12862,7 +12862,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Sex_of_participant
+- id: https://w3id.org/peh/OP-f742a323e8
   unique_name: Sex of participant
   name: Sex of participant
   description: Biological sex of participant at birth
@@ -12881,7 +12881,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Inclusion_criteria
+- id: https://w3id.org/peh/OP-02de3e882e
   unique_name: Inclusion criteria
   name: Inclusion criteria
   description: 'List the inclusion criteria applied '
@@ -12895,7 +12895,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Exclusion_criteria
+- id: https://w3id.org/peh/OP-dcb117cd30
   unique_name: Exclusion criteria
   name: Exclusion criteria
   description: List the exclusion criteria applied
@@ -12909,7 +12909,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Lifestyle_information
+- id: https://w3id.org/peh/OP-f88b6dc299
   unique_name: Lifestyle information
   name: Lifestyle information
   description: Availability of Lifestyle information from participants
@@ -12940,7 +12940,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Socio-demographic_information
+- id: https://w3id.org/peh/OP-ec0d454f89
   unique_name: Socio-demographic information
   name: Socio-demographic information
   description: Availability of socio-demographic information from participants
@@ -12963,7 +12963,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Environmental_factors_information
+- id: https://w3id.org/peh/OP-fa35cc498f
   unique_name: Environmental factors information
   name: Environmental factors information
   description: Availability of environmental factors information from participants
@@ -12994,9 +12994,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: 'Sampling_frame_
-
-    '
+- id: https://w3id.org/peh/OP-1b62e7339d
   unique_name: "Sampling frame \n"
   name: "Sampling frame \n"
   description: Origin of participant selection
@@ -13031,7 +13029,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Other_-_sampling_frame
+- id: https://w3id.org/peh/OP-256c51c06d
   unique_name: Other - sampling frame
   name: Other - sampling frame
   description: In case of "other" sampling frame specify
@@ -13045,9 +13043,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: 'Recruitment_method 
-
-    '
+- id: https://w3id.org/peh/OP-f78161fc07
   unique_name: 'Recruitment method 
 
     '
@@ -13080,7 +13076,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Other_-__recruitment_method
+- id: https://w3id.org/peh/OP-ed053a3f39
   unique_name: Other -  recruitment method
   name: Other -  recruitment method
   description: In case of "other" recruitment method specify
@@ -13094,7 +13090,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Repeated_sampling
+- id: https://w3id.org/peh/OP-4acd92c948
   unique_name: Repeated sampling
   name: Repeated sampling
   description: 'Does the study design include repeated sampling of the participants? '
@@ -13108,7 +13104,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Repeated_sampling-description
+- id: https://w3id.org/peh/OP-d1eaf3ae3b
   unique_name: Repeated sampling-description
   name: Repeated sampling-description
   description: In case of repeated sampling please describe. e.g. pre- post- work
@@ -13123,7 +13119,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: What_type_of_anthropometric_&_health_measurements_are_performed_by_fieldworkers?
+- id: https://w3id.org/peh/OP-bad00d369b
   unique_name: What type of anthropometric & health measurements are performed by
     fieldworkers?
   name: What type of anthropometric & health measurements are performed by fieldworkers?
@@ -13168,7 +13164,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Other-_anthropometric_&_health_measurements_are_performed_by_fieldworkers?
+- id: https://w3id.org/peh/OP-60cbe9d99b
   unique_name: Other- anthropometric & health measurements are performed by fieldworkers?
   name: Other- anthropometric & health measurements are performed by fieldworkers?
   description: In case of "other" anthropometric & health measurements performed by
@@ -13183,7 +13179,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Link_to_Sample_Metadata_Instance
+- id: https://w3id.org/peh/OP-5c434e1a0f
   unique_name: Link to Sample Metadata Instance
   name: Link to Sample Metadata Instance
   label: Link to Sample Metadata Instance
@@ -13196,7 +13192,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Study_Identifier_provided_as_URL
+- id: https://w3id.org/peh/OP-e75ab14e30
   unique_name: Study Identifier provided as URL
   name: Study Identifier provided as URL
   description: Please indicate the identifier of the HBM activity. If possible, provide
@@ -13211,7 +13207,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Study_name_(English)
+- id: https://w3id.org/peh/OP-b27db45f9c
   unique_name: Study name (English)
   name: Study name (English)
   description: Please indicate the name or title of the study. If the name or title
@@ -13227,7 +13223,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Study_name_(Original_language)
+- id: https://w3id.org/peh/OP-62c2a3323f
   unique_name: Study name (Original language)
   name: Study name (Original language)
   label: Study name (Original language)
@@ -13240,7 +13236,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Short_name_or_acronym_of_the_study
+- id: https://w3id.org/peh/OP-bbf17c03cf
   unique_name: Short name or acronym of the study
   name: Short name or acronym of the study
   label: Short name or acronym of the study
@@ -13253,7 +13249,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Start_date_of_the_study
+- id: https://w3id.org/peh/OP-5f8d5615ce
   unique_name: Start date of the study
   name: Start date of the study
   description: Please provide the beginning (or previewed starting) date of the study.
@@ -13269,7 +13265,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: End_date_of_the_study
+- id: https://w3id.org/peh/OP-0f36adf1cc
   unique_name: End date of the study
   name: End date of the study
   description: Please provide the (previewed) ending date of the study. Study ending
@@ -13284,7 +13280,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Identifier_of_related_studies
+- id: https://w3id.org/peh/OP-2b0b243683
   unique_name: Identifier of related studies
   name: Identifier of related studies
   label: Identifier of related studies
@@ -13297,7 +13293,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Role_of_contact_
+- id: https://w3id.org/peh/OP-c74cf7150c
   unique_name: 'Role of contact '
   name: 'Role of contact '
   label: 'Role of contact '
@@ -13343,7 +13339,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Monitoring_reasons
+- id: https://w3id.org/peh/OP-91675aa2bf
   unique_name: Monitoring reasons
   name: Monitoring reasons
   description: What are the primary reasons for performing human biomonitoring in
@@ -13358,7 +13354,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Monitoring_reasons_-_Other
+- id: https://w3id.org/peh/OP-5ec0a44885
   unique_name: Monitoring reasons - Other
   name: Monitoring reasons - Other
   description: In case of "other" Monitoring reason specify
@@ -13372,7 +13368,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Type_of_study
+- id: https://w3id.org/peh/OP-bd81cef575
   unique_name: Type of study
   name: Type of study
   label: Type of study
@@ -13392,7 +13388,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Countries
+- id: https://w3id.org/peh/OP-790d59ef17
   unique_name: Countries
   name: Countries
   description: Please indicate the countries where data is collected.
@@ -13409,7 +13405,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Study_setting
+- id: https://w3id.org/peh/OP-8a1d204358
   unique_name: Study setting
   name: Study setting
   label: Study setting
@@ -13431,7 +13427,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Sampling_method
+- id: https://w3id.org/peh/OP-09f0f691bb
   unique_name: Sampling method
   name: Sampling method
   label: Sampling method
@@ -13463,7 +13459,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Sampling_method_description
+- id: https://w3id.org/peh/OP-cc0b08d1e3
   unique_name: Sampling method description
   name: Sampling method description
   description: 'Please add an open description of your sampling method, for example
@@ -13479,7 +13475,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Ethical_approval_-_obtained
+- id: https://w3id.org/peh/OP-2df8678520
   unique_name: Ethical approval - obtained
   name: Ethical approval - obtained
   label: Ethical approval - obtained
@@ -13492,7 +13488,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Ethical_approval_-_name_of_ethics_committee
+- id: https://w3id.org/peh/OP-62dd3dac47
   unique_name: Ethical approval - name of ethics committee
   name: Ethical approval - name of ethics committee
   description: Provide the name of the ethical committee(s) issuing the approval
@@ -13506,7 +13502,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Ethical_approval_-_date_of_approval
+- id: https://w3id.org/peh/OP-24e083af81
   unique_name: Ethical approval - date of approval
   name: Ethical approval - date of approval
   description: Provide the issue date of the approval
@@ -13520,7 +13516,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Seasonal_coverage
+- id: https://w3id.org/peh/OP-7addec0d1b
   unique_name: Seasonal coverage
   name: Seasonal coverage
   description: 'Spring: From March 21st to June 20th
@@ -13549,7 +13545,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Is_it_intended_to_link_the_collected_data_to_other_data_registries?
+- id: https://w3id.org/peh/OP-d4f84a68bb
   unique_name: Is it intended to link the collected data to other data registries?
   name: Is it intended to link the collected data to other data registries?
   description: 'For example birth registries, cancer incidence, GIS, etc. '
@@ -13563,7 +13559,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: In_case_you_link_to_other_data_registries,_what_type_of_data_registry?
+- id: https://w3id.org/peh/OP-46a776092e
   unique_name: In case you link to other data registries, what type of data registry?
   name: In case you link to other data registries, what type of data registry?
   label: In case you link to other data registries, what type of data registry?
@@ -13607,7 +13603,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Other_-_data_registry
+- id: https://w3id.org/peh/OP-f2ee9697cb
   unique_name: Other - data registry
   name: Other - data registry
   description: In case of "other" data registry specify
@@ -13621,7 +13617,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Please,_provide_a_link_to_the_data_registry
+- id: https://w3id.org/peh/OP-b785ada9bf
   unique_name: Please, provide a link to the data registry
   name: Please, provide a link to the data registry
   label: Please, provide a link to the data registry
@@ -13634,7 +13630,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Does_your_population_sample_have_subgroups_that_need_to_be_differentiated_from_each_other?_Please_indicate_how_many.
+- id: https://w3id.org/peh/OP-b17e7fee08
   unique_name: Does your population sample have subgroups that need to be differentiated
     from each other? Please indicate how many.
   name: Does your population sample have subgroups that need to be differentiated
@@ -13653,7 +13649,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Access_conditions_-_Other
+- id: https://w3id.org/peh/OP-91b237bf9e
   unique_name: Access conditions - Other
   name: Access conditions - Other
   description: If other access conditions apply please specify
@@ -13667,7 +13663,7 @@ observable_properties:
   default_observation_result_type: measurement
   relevant_observation_types:
   - metadata
-- id: Link_to_Study_Population_Metadata_Instance(s)
+- id: https://w3id.org/peh/OP-622c19b130
   unique_name: Link to Study Population Metadata Instance(s)
   name: Link to Study Population Metadata Instance(s)
   label: Link to Study Population Metadata Instance(s)
