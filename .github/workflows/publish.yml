@@ -12,13 +12,14 @@ jobs:
   publish-vocabulary:
         uses: eu-parc/voc2skosmos-workflow/.github/workflows/yml2skos.yml@main
         with:
-            ref: ${{ github.ref }}
-            namespace: https://w3id.org/peh/terms/
-            namespace_label: pehterms
-            linkml_schema: https://raw.githubusercontent.com/eu-parc/parco-hbm/main/linkml/schema/peh.yaml
-            data: data/data.yaml
+          ref: ${{ github.ref }}
+          namespace: https://w3id.org/peh/terms/
+          linkml_schema: https://raw.githubusercontent.com/eu-parc/parco-hbm/main/linkml/schema/peh.yaml
+          data: data/data.yaml
+          voc_uri: https://w3id.org/peh/observable-properties
+          entity_name: ObservableProperty
         secrets:
-            token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
 
   #publish-vocabulary:
   #  uses: eu-parc/voc2nanopub/.github/workflows/yml2nanopub.yml@main
