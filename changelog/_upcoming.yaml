@@ -3,1254 +3,1067 @@ release_date: "XXXX-XX-XX"
 maintainer: "gertjan.bisschop@vito.be"
 
 changes:
-- label: Today's date (as filled by participant on questionnaire)
+- unique_name: Todaysdate
   action: added
-- label: 1. Role of respondent
+- unique_name: N1Roleoftherespondent
   action: added
-- label: 2. Age of respondent (years)
+- unique_name: N2Ageofrespondent
   action: added
-- label: 3. What is your family situation?
+- unique_name: N3familysituation
   action: added
-- label: 4. Current occupation (Check all that apply) ||| Respondent ||| Work
+- unique_name: Work_resp
   action: added
-- label: 4. Current occupation (Check all that apply) ||| Partner ||| Work
+- unique_name: Work_part
   action: added
-- label: 4. Current occupation (Check all that apply) ||| Respondent ||| Parental
-    leave
+- unique_name: Parentalleave_resp
   action: added
-- label: 4. Current occupation (Check all that apply) ||| Partner ||| Parental leave
+- unique_name: Parentalleave_part
   action: added
-- label: 4. Current occupation (Check all that apply) ||| Respondent ||| Student
+- unique_name: Student_resp
   action: added
-- label: 4. Current occupation (Check all that apply) ||| Partner ||| Student
+- unique_name: Student_part
   action: added
-- label: 4. Current occupation (Check all that apply) ||| Respondent ||| Job-seeker
+- unique_name: Jobseeke_respr
   action: added
-- label: 4. Current occupation (Check all that apply) ||| Partner ||| Job-seeker
+- unique_name: Jobseeke_part
   action: added
-- label: 4. Current occupation (Check all that apply) ||| Respondent ||| Sick leave
-    for > 3 months
+- unique_name: Sickleavefor3months_resp
   action: added
-- label: 4. Current occupation (Check all that apply) ||| Partner ||| Sick leave for
-    > 3 months
+- unique_name: Sickleavefor3months_part
   action: added
-- label: 4. Current occupation (Check all that apply) ||| Respondent ||| Housework
+- unique_name: Housework_resp
   action: added
-- label: 4. Current occupation (Check all that apply) ||| Partner ||| Housework
+- unique_name: Housework_part
   action: added
-- label: 4. Current occupation (Check all that apply) ||| Respondent ||| Retirement
+- unique_name: Retirement_resp
   action: added
-- label: 4. Current occupation (Check all that apply) ||| Partner ||| Retirement
+- unique_name: Retirement_part
   action: added
-- label: 4. Current occupation (Check all that apply) ||| Respondent ||| Other
+- unique_name: Other_resp
   action: added
-- label: 4. Current occupation (Check all that apply) ||| Partner ||| Other
+- unique_name: Other_part
   action: added
-- label: 5. Average monthly total net income (in Euros)
+- unique_name: total_income_category
   action: added
-- label: 6. Income in a 9 step ladder
+- unique_name: N6Incomeina9stepladder
   action: added
-- label: 7.1. Highest level education (respondent)
+- unique_name: N71educationrespondent
   action: added
-- label: 7.2. Highest level education (Partner)
+- unique_name: N72educationpartner
   action: added
-- label: 1. Questions on familial respiratory diseases and allergies ||| Do you have
-    doctor-diagnosed asthma or doctor-diagnosed allergy within the family?
+- unique_name: DD_asthma_allergy_family
   action: added
-- label: 1. Questions on familial respiratory diseases and allergies ||| Do you have
-    doctor-diagnosed asthma or doctor-diagnosed allergy within the family? ||| Respondent
-    ||| Asthma
+- unique_name: Asthma_resp
   action: added
-- label: 1. Questions on familial respiratory diseases and allergies ||| Do you have
-    doctor-diagnosed asthma or doctor-diagnosed allergy within the family? ||| Respondent
-    ||| Asthma ||| Medication
+- unique_name: Asthma_med_resp
   action: added
-- label: 1. Questions on familial respiratory diseases and allergies ||| Do you have
-    doctor-diagnosed asthma or doctor-diagnosed allergy within the family? ||| Respondent
-    ||| Hayfever
+- unique_name: Hayfever_resp
   action: added
-- label: 1. Questions on familial respiratory diseases and allergies ||| Do you have
-    doctor-diagnosed asthma or doctor-diagnosed allergy within the family? ||| Respondent
-    ||| Hayfever ||| Medication
+- unique_name: Hayfever_med_resp
   action: added
-- label: 1. Questions on familial respiratory diseases and allergies ||| Do you have
-    doctor-diagnosed asthma or doctor-diagnosed allergy within the family? ||| Respondent
-    ||| Eczema
+- unique_name: Eczema_resp
   action: added
-- label: 1. Questions on familial respiratory diseases and allergies ||| Do you have
-    doctor-diagnosed asthma or doctor-diagnosed allergy within the family? ||| Respondent
-    ||| Eczema ||| Medication
+- unique_name: Eczema_med_resp
   action: added
-- label: 1. Questions on familial respiratory diseases and allergies ||| Do you have
-    doctor-diagnosed asthma or doctor-diagnosed allergy within the family? ||| Respondent
-    ||| Other
+- unique_name: Other_disease_resp
   action: added
-- label: 1. Questions on familial respiratory diseases and allergies ||| Do you have
-    doctor-diagnosed asthma or doctor-diagnosed allergy within the family? ||| Respondent
-    ||| Other ||| Medication
+- unique_name: Other_med_resp
   action: added
-- label: 1. Questions on familial respiratory diseases and allergies ||| Do you have
-    doctor-diagnosed asthma or doctor-diagnosed allergy within the family? ||| Partner
-    ||| Asthma
+- unique_name: Asthma_resp1
   action: added
-- label: 1. Questions on familial respiratory diseases and allergies ||| Do you have
-    doctor-diagnosed asthma or doctor-diagnosed allergy within the family? ||| Partner
-    ||| Asthma ||| Medication
+- unique_name: Asthma_med_resp1
   action: added
-- label: 1. Questions on familial respiratory diseases and allergies ||| Do you have
-    doctor-diagnosed asthma or doctor-diagnosed allergy within the family? ||| Partner
-    ||| Hayfever
+- unique_name: Hayfever_resp1
   action: added
-- label: 1. Questions on familial respiratory diseases and allergies ||| Do you have
-    doctor-diagnosed asthma or doctor-diagnosed allergy within the family? ||| Partner
-    ||| Hayfever ||| Medication
+- unique_name: Hayfever_med_resp1
   action: added
-- label: 1. Questions on familial respiratory diseases and allergies ||| Do you have
-    doctor-diagnosed asthma or doctor-diagnosed allergy within the family? ||| Partner
-    ||| Eczema
+- unique_name: Eczema_resp1
   action: added
-- label: 1. Questions on familial respiratory diseases and allergies ||| Do you have
-    doctor-diagnosed asthma or doctor-diagnosed allergy within the family? ||| Partner
-    ||| Eczema ||| Medication
+- unique_name: Eczema_med_resp1
   action: added
-- label: 1. Questions on familial respiratory diseases and allergies ||| Do you have
-    doctor-diagnosed asthma or doctor-diagnosed allergy within the family? ||| Partner
-    ||| Other
+- unique_name: Other_disease_resp1
   action: added
-- label: 1. Questions on familial respiratory diseases and allergies ||| Do you have
-    doctor-diagnosed asthma or doctor-diagnosed allergy within the family? ||| Partner
-    ||| Other ||| Medication
+- unique_name: Other_med_resp1
   action: added
-- label: 1. Questions on familial respiratory diseases and allergies ||| Do you have
-    doctor-diagnosed asthma or doctor-diagnosed allergy within the family? ||| Children
-    ||| Asthma
+- unique_name: Asthma_resp11
   action: added
-- label: 1. Questions on familial respiratory diseases and allergies ||| Do you have
-    doctor-diagnosed asthma or doctor-diagnosed allergy within the family? ||| Children
-    ||| Asthma ||| Medication
+- unique_name: Asthma_med_resp11
   action: added
-- label: 1. Questions on familial respiratory diseases and allergies ||| Do you have
-    doctor-diagnosed asthma or doctor-diagnosed allergy within the family? ||| Children
-    ||| Hayfever
+- unique_name: Hayfever_resp11
   action: added
-- label: 1. Questions on familial respiratory diseases and allergies ||| Do you have
-    doctor-diagnosed asthma or doctor-diagnosed allergy within the family? ||| Children
-    ||| Hayfever ||| Medication
+- unique_name: Hayfever_med_resp11
   action: added
-- label: 1. Questions on familial respiratory diseases and allergies ||| Do you have
-    doctor-diagnosed asthma or doctor-diagnosed allergy within the family? ||| Children
-    ||| Eczema
+- unique_name: Eczema_resp11
   action: added
-- label: 1. Questions on familial respiratory diseases and allergies ||| Do you have
-    doctor-diagnosed asthma or doctor-diagnosed allergy within the family? ||| Children
-    ||| Eczema ||| Medication
+- unique_name: Eczema_med_resp11
   action: added
-- label: 1. Questions on familial respiratory diseases and allergies ||| Do you have
-    doctor-diagnosed asthma or doctor-diagnosed allergy within the family? ||| Children
-    ||| Other
+- unique_name: Other_disease_resp11
   action: added
-- label: 1. Questions on familial respiratory diseases and allergies ||| Do you have
-    doctor-diagnosed asthma or doctor-diagnosed allergy within the family? ||| Children
-    ||| Other ||| Medication
+- unique_name: Other_med_resp11
   action: added
-- label: 2. Over the last month, how often did you experience below symptoms? |||
-    Eye problem
+- unique_name: Eyeproblem
   action: added
-- label: 2. Over the last month, how often did you experience below symptoms? |||
-    Nose problem
+- unique_name: Noseproblem
   action: added
-- label: 2. Over the last month, how often did you experience below symptoms? |||
-    Throat problem
+- unique_name: Throatproblem
   action: added
-- label: 2. Over the last month, how often did you experience below symptoms? |||
-    Headache
+- unique_name: Headache
   action: added
-- label: 2. Over the last month, how often did you experience below symptoms? |||
-    Memory problem
+- unique_name: Memoryproblem
   action: added
-- label: 2. Over the last month, how often did you experience below symptoms? |||
-    Dizziness
+- unique_name: Dizziness
   action: added
-- label: 2. Over the last month, how often did you experience below symptoms? |||
-    Fatigue, sleepiness
+- unique_name: Fatiguesleepiness
   action: added
-- label: 2. Over the last month, how often did you experience below symptoms? |||
-    Feeling of having a heavy head
+- unique_name: heavyhead
   action: added
-- label: 2. Over the last month, how often did you experience below symptoms? |||
-    Eczema or atopic dermatitis
+- unique_name: Eczema_lastmonth
   action: added
-- label: 2. Over the last month, how often did you experience below symptoms? |||
-    Wheezing or other breathing problems
+- unique_name: Wheezing
   action: added
-- label: "3. Have you over the last month, felt yourself bothered by any of the following\
-    \ odors at home? (not in a basement) ||| Stagnant \u201Dbad\u201D air"
+- unique_name: Stagnantbadair
   action: added
-- label: 3. Have you over the last month, felt yourself bothered by any of the following
-    odors at home? (not in a basement) ||| Unpleasant air
+- unique_name: Unpleasantair
   action: added
-- label: 3. Have you over the last month, felt yourself bothered by any of the following
-    odors at home? (not in a basement) ||| Pungent odor
+- unique_name: Pungentodor
   action: added
-- label: 3. Have you over the last month, felt yourself bothered by any of the following
-    odors at home? (not in a basement) ||| Mould odor
+- unique_name: Mouldodor
   action: added
-- label: 3. Have you over the last month, felt yourself bothered by any of the following
-    odors at home? (not in a basement) ||| Earthy odor
+- unique_name: Earthyodor
   action: added
-- label: 3. Have you over the last month, felt yourself bothered by any of the following
-    odors at home? (not in a basement) ||| Tobacco smoke
+- unique_name: Tobaccosmoke
   action: added
-- label: 3. Have you over the last month, felt yourself bothered by any of the following
-    odors at home? (not in a basement) ||| Dry air
+- unique_name: Dryair
   action: added
-- label: 3. Have you over the last month, felt yourself bothered by any of the following
-    odors at home? (not in a basement) ||| Damp air
+- unique_name: Dampair
   action: added
-- label: 4. On a scale from 0 (extreme poor) to 6 (extreme good), how do you perceive
-    the following characteristics of your home? (fill in numbers only) ||| Illumination
-    in the living room
+- unique_name: Illumination_living
   action: added
-- label: 4. On a scale from 0 (extreme poor) to 6 (extreme good), how do you perceive
-    the following characteristics of your home? (fill in numbers only) ||| Noise
+- unique_name: Noise
   action: added
-- label: 4. On a scale from 0 (extreme poor) to 6 (extreme good), how do you perceive
-    the following characteristics of your home? (fill in numbers only) ||| Indoor
-    air quality
+- unique_name: Indoorairquality
   action: added
-- label: 4. On a scale from 0 (extreme poor) to 6 (extreme good), how do you perceive
-    the following characteristics of your home? (fill in numbers only) ||| Outdoor
-    air quality
+- unique_name: Outdoorairquality
   action: added
-- label: 4. On a scale from 0 (extreme poor) to 6 (extreme good), how do you perceive
-    the following characteristics of your home? (fill in numbers only) ||| Thermal
-    comfort in spring/summer
+- unique_name: Thermalcomfortinspringsummer
   action: added
-- label: 4. On a scale from 0 (extreme poor) to 6 (extreme good), how do you perceive
-    the following characteristics of your home? (fill in numbers only) ||| Thermal
-    comfort in autumn/winter
+- unique_name: Thermalcomfortinautumnwinter
   action: added
-- label: 5. Are there any other indoor air quality related issues you consider relevant
-    to report?
+- unique_name: N5anyissue
   action: added
-- label: 1. Questions on personal behavior of yourself in the past 3 days ||| Presence
-    in a room where smoking was taking place (by yourself or by others)
+- unique_name: smoking_room
   action: added
-- label: 1. Questions on personal behavior of yourself in the past 3 days ||| If answered
-    <Yes>, how many hours?
+- unique_name: smoke_room_hour
   action: added
-- label: 1. Questions on personal behavior of yourself in the past 3 days ||| Presence
-    in a room with a burning fireplace, wood stove or coal stove (not a pellet stove)
+- unique_name: burning_fireplace
   action: added
-- label: 1. Questions on personal behavior of yourself in the past 3 days ||| Cigarette
-    smoking
+- unique_name: Cigarettesmoking
   action: added
-- label: 1. Questions on personal behavior of yourself in the past 3 days ||| E-cigarette
-    smoking or vaping
+- unique_name: Ecigarette
   action: added
-- label: 1. Questions on personal behavior of yourself in the past 3 days ||| Consumption
-    of grilled food or barbeque
+- unique_name: grilled_barbeque
   action: added
-- label: 1. Questions on personal behavior of yourself in the past 3 days ||| Consumption
-    of deep-fried food
+- unique_name: deepfriedfood
   action: added
-- label: 1. Questions on personal behavior of yourself in the past 3 days ||| Consumption
-    of fish or seafood
+- unique_name: ffish_seafood
   action: added
-- label: 1. Questions on personal behavior of yourself in the past 3 days ||| Consumption
-    of ready-made meals
+- unique_name: readymademeals
   action: added
-- label: 1. Questions on personal behavior of yourself in the past 3 days ||| Consumption
-    of fast food
+- unique_name: fastfood
   action: added
-- label: 1. Questions on personal behavior of yourself in the past 3 days ||| Consumption
-    of canned foods
+- unique_name: cannedfoods
   action: added
-- label: 1. Questions on personal behavior of yourself in the past 3 days ||| Traveling
-    through heavy traffic in a motorized vehicle
+- unique_name: motorizedvehicle
   action: added
-- label: 1. Questions on personal behavior of yourself in the past 3 days ||| Cycling
-    or walking along heavy traffic
+- unique_name: Cycling_walking
   action: added
-- label: 1. Questions on personal behavior of yourself in the past 3 days ||| Use
-    of personal care products
+- unique_name: personalcareproducts
   action: added
-- label: 1. Questions on personal behavior of yourself in the past 3 days ||| Use
-    of personal care products with national or EU Ecolabel
+- unique_name: personalcareproducts_Ecolabel
   action: added
-- label: 2. In the past 3 days, did you or someone in the family use the following
-    products in your home ||| Fragrance diffusers
+- unique_name: Fragrancediffusers
   action: added
-- label: 2. In the past 3 days, did you or someone in the family use the following
-    products in your home ||| Indoor use of pesticides or insecticides
+- unique_name: Indoor_pesticide_insecticide
   action: added
-- label: 2. In the past 3 days, did you or someone in the family use the following
-    products in your home ||| Outdoor use of pesticides/insecticides
+- unique_name: outdoor_pesticide_insecticide
   action: added
-- label: 2. In the past 3 days, did you or someone in the family use the following
-    products in your home ||| Anti-flea product for pets
+- unique_name: Antifleaproduct
   action: added
-- label: 2. In the past 3 days, did you or someone in the family use the following
-    products in your home ||| Material to make your own ceramics
+- unique_name: Material_ceramics
   action: added
-- label: 2. In the past 3 days, did you or someone in the family use the following
-    products in your home ||| Paint, glue, varnish
+- unique_name: Paintgluevarnish
   action: added
-- label: 2. In the past 3 days, did you or someone in the family use the following
-    products in your home ||| Cleaning products
+- unique_name: Cleaningproducts
   action: added
-- label: 2. In the past 3 days, did you or someone in the family use the following
-    products in your home ||| Cleaning products with national or EU Ecolabel
+- unique_name: Cleaning_Ecolabel
   action: added
-- label: 2. In the past 3 days, did you or someone in the family use the following
-    products in your home ||| Personal hygiene sprays e.g. deodorant, hairspray
+- unique_name: Personalhygienesprays
   action: added
-- label: 1. Birthdate
+- unique_name: N1Birthdate
   action: added
-- label: 2. Birthweight (in gram)
+- unique_name: N2Birthweight
   action: added
-- label: Birthweight - don't know/prefer not to answer
+- unique_name: Birthweight_unknown
   action: added
-- label: 3. Weight now (kg)
+- unique_name: Weight_now
   action: added
-- label: 4. Height now (cm)
+- unique_name: Height_now
   action: added
-- label: 5. Sex
+- unique_name: Sex_child
   action: added
-- label: 6. Does the child go to school or attend childcare?
+- unique_name: school_childcare
   action: added
-- label: 1. Has your child ever had one of the following diseases? ||| Wheezing
+- unique_name: Wheezing_child
   action: added
-- label: 1. Has your child ever had one of the following diseases? ||| Allergies (diagnosed
-    by a doctor)
+- unique_name: Allergies_child_dd
   action: added
-- label: 1. Has your child ever had one of the following diseases? ||| If answered
-    <Yes>, please specify the source of the allergy
+- unique_name: allergy_source
   action: added
-- label: 1. Has your child ever had one of the following diseases? ||| Asthma (diagnosed
-    by a doctor)
+- unique_name: Asthma_child_dd
   action: added
-- label: 1. Has your child ever had one of the following diseases? ||| Eczema (diagnosed
-    by a doctor)
+- unique_name: eczema_child_dd
   action: added
-- label: 2. Over the last month, how often did you notice your child experience below
-    symptoms? ||| Eye problem
+- unique_name: Eyeproblem_child
   action: added
-- label: 2. Over the last month, how often did you notice your child experience below
-    symptoms? ||| Nose problem
+- unique_name: Noseproblem_child
   action: added
-- label: 2. Over the last month, how often did you notice your child experience below
-    symptoms? ||| Throat problem
+- unique_name: Throatproblem_child
   action: added
-- label: 2. Over the last month, how often did you notice your child experience below
-    symptoms? ||| Eczema
+- unique_name: eczema_child
   action: added
-- label: 2. Over the last month, how often did you notice your child experience below
-    symptoms? ||| Wheezing
+- unique_name: wheezing_child_lm
   action: added
-- label: '1. Questions on personal behavior of your child in the past 3 days ||| Mouthing
-    behaviour: putting toys, hands or other objects in the mouth'
+- unique_name: mouthing_behaviour
   action: added
-- label: 1. Questions on personal behavior of your child in the past 3 days ||| Presence
-    in a room where smoking was taking place (by yourself or by others)
+- unique_name: smoking_room_child
   action: added
-- label: 1. Questions on personal behavior of your child in the past 3 days ||| Presence
-    in a room where smoking was taking place (by yourself or by others) ||| If answered
-    <Yes>, how many hours?
+- unique_name: smoke_hrs
   action: added
-- label: 1. Questions on personal behavior of your child in the past 3 days ||| Presence
-    at another place for more than 8 hours on at least one day, or for more than 12
-    hours cumulatively over 3 days
+- unique_name: another_place
   action: added
-- label: 1. Questions on personal behavior of your child in the past 3 days ||| Presence
-    at another place for more than 8 hours on at least one day, or for more than 12
-    hours cumulatively over 3 days ||| If answered <Yes>, please specify the place
+- unique_name: specify_place
   action: added
-- label: 1. Questions on personal behavior of your child in the past 3 days ||| Presence
-    at another place for more than 8 hours on at least one day, or for more than 12
-    hours cumulatively over 3 days ||| If answered <Other>, please specify the space
+- unique_name: other_space
   action: added
-- label: 1. Questions on personal behavior of your child in the past 3 days ||| Presence
-    in a room with a burning fireplace, wood stove or coal stove
+- unique_name: burning_place_child
   action: added
-- label: 1. Questions on personal behavior of your child in the past 3 days ||| Consumption
-    of grilled food or barbeque
+- unique_name: grilled_food_child
   action: added
-- label: 1. Questions on personal behavior of your child in the past 3 days ||| Consumption
-    of deep-fried food
+- unique_name: deepfriedfood_child
   action: added
-- label: 1. Questions on personal behavior of your child in the past 3 days ||| Consumption
-    of fish or seafood
+- unique_name: fish_seafood_child
   action: added
-- label: 1. Questions on personal behavior of your child in the past 3 days ||| Consumption
-    of ready-made meals
+- unique_name: readymademeals_child
   action: added
-- label: 1. Questions on personal behavior of your child in the past 3 days ||| Consumption
-    of fast food
+- unique_name: fastfood_child
   action: added
-- label: 1. Questions on personal behavior of your child in the past 3 days ||| Consumption
-    of canned foods
+- unique_name: cannedfoods_child
   action: added
-- label: 1. Questions on personal behavior of your child in the past 3 days ||| Traveling
-    through heavy traffic in a motorized vehicle
+- unique_name: motorizedvehicle_child
   action: added
-- label: 1. Questions on personal behavior of your child in the past 3 days ||| Cycling
-    or walking along heavy traffic
+- unique_name: Cycling_walking_child
   action: added
-- label: 1. Questions on personal behavior of your child in the past 3 days ||| Use
-    of personal care products
+- unique_name: care_products_child
   action: added
-- label: 1. Questions on personal behavior of your child in the past 3 days ||| Use
-    of personal care products with national or EU Ecolabel
+- unique_name: careproducts_Ecolabel_child
   action: added
-- label: 2. Was your child breastfed? (select from dropdown list)
+- unique_name: breast_feeding
   action: added
-- label: 3. How frequent in the past month did your child play with electronics? (Select
-    from dropdown list))
+- unique_name: electronics_child
   action: added
-- label: 4. How frequent in the past month did your child play on the floor in the
-    room? (Select from dropdown list)
+- unique_name: play_floor_child
   action: added
-- label: 1. How do you judge the indoor air quality in your dwelling during the last
-    two months? (Select from dropdown list)
+- unique_name: judged_airquality
   action: added
-- label: 2. How concerned are you about the influence of outdoor air quality on your
-    personal health?
+- unique_name: concern_airquality
   action: added
-- label: 3. Imagine a ladder with 9 steps, with people on the first step who are not
-    at all conscious of the importance of air quality for health and well-being and
-    on the highest step, the ninth, people who are very conscious of the importance
-    of indoor air quality. Where are you at the moment?
+- unique_name: consciousness_ladder
   action: added
-- label: 4. To what extent do you agree with the following statements ||| My behavioural
-    choices have a significant impact on air quality in my home
+- unique_name: beh_choice
   action: added
-- label: 4. To what extent do you agree with the following statements ||| In general,
-    it is difficult for me and housemates to have an influence on exposure to the
-    risks from the indoor environment at home.
+- unique_name: influence
   action: added
-- label: 4. To what extent do you agree with the following statements ||| It is easy
-    for me to adjust the ventilation at home.
+- unique_name: adjusttheventilation
   action: added
-- label: 4. To what extent do you agree with the following statements ||| It is easy
-    for me to open the window at home
+- unique_name: open_window
   action: added
-- label: 4. To what extent do you agree with the following statements ||| The healthiness
-    of indoor climate (air quality, lights, sounds) in the home environment is important
-    to me
+- unique_name: healthiness_indoor
   action: added
-- label: 4. To what extent do you agree with the following statements ||| The healthiness
-    of outdoor climate (air quality, sounds) in the home environment is important
-    to me
+- unique_name: healthiness_outdoor
   action: added
-- label: 4. To what extent do you agree with the following statements ||| Improving
-    the indoor air quality is a necessary task for me
+- unique_name: necessity_improvement
   action: added
-- label: 4. To what extent do you agree with the following statements ||| I think
-    improving my indoor air quality would be enjoyable
+- unique_name: enjoyable
   action: added
-- label: 5. There are a variety of reasons why perople choose to improve the indoor
-    air quality. Please consider the following and indicate what would be reasons
-    for you to improve indoor air quality ||| I expect it will be good for my health
+- unique_name: expect_health_benefit
   action: added
-- label: 5. There are a variety of reasons why perople choose to improve the indoor
-    air quality. Please consider the following and indicate what would be reasons
-    for you to improve indoor air quality ||| I expect it will be good for my child's/children's
-    health
+- unique_name: expect_health_benefit_child
   action: added
-- label: 5. There are a variety of reasons why perople choose to improve the indoor
-    air quality. Please consider the following and indicate what would be reasons
-    for you to improve indoor air quality ||| I want others to know I improve the
-    indoor air quality
+- unique_name: recognition_others
   action: added
-- label: 5. There are a variety of reasons why perople choose to improve the indoor
-    air quality. Please consider the following and indicate what would be reasons
-    for you to improve indoor air quality ||| I am required to improve the indoor
-    air quality
+- unique_name: required_to_do
   action: added
-- label: 5. There are a variety of reasons why perople choose to improve the indoor
-    air quality. Please consider the following and indicate what would be reasons
-    for you to improve indoor air quality ||| I feel pressured to improve the indoor
-    air quality
+- unique_name: feel_pressure
   action: added
-- label: 5. There are a variety of reasons why perople choose to improve the indoor
-    air quality. Please consider the following and indicate what would be reasons
-    for you to improve indoor air quality ||| It will look good to others if I improve
-    the indoor air quality
+- unique_name: good_look_to_others
   action: added
-- label: 5. There are a variety of reasons why perople choose to improve the indoor
-    air quality. Please consider the following and indicate what would be reasons
-    for you to improve indoor air quality ||| I would not want to improve indoor air
-    quality in my home
+- unique_name: dont_want_improve
   action: added
-- label: 6. Improving indoor air quality may not be easy for everyone. Please consider
-    the following and indicate how true each of these reasons is for you ||| It takes
-    too much effort to improve indoor air quality in my home
+- unique_name: too_much_effort
   action: added
-- label: 6. Improving indoor air quality may not be easy for everyone. Please consider
-    the following and indicate how true each of these reasons is for you ||| I find
-    it difficult to improve indoor air quality in my home
+- unique_name: difficult_to_improve
   action: added
-- label: 6. Improving indoor air quality may not be easy for everyone. Please consider
-    the following and indicate how true each of these reasons is for you ||| I do
-    not have the tools to improve indoor air quality in my home
+- unique_name: dont_have_tools
   action: added
-- label: 6. Improving indoor air quality may not be easy for everyone. Please consider
-    the following and indicate how true each of these reasons is for you ||| I do
-    not know how to improve indoor air quality in my home
+- unique_name: dont_know_how
   action: added
-- label: 7. In the last month, how often have you done the following activities for
-    your health / wellbeing in your home? ||| Regulate temperature (heat / cool)
+- unique_name: temperature_reg
   action: added
-- label: 7. In the last month, how often have you done the following activities for
-    your health / wellbeing in your home? ||| Regulate ventilation
+- unique_name: ventilation_reg
   action: added
-- label: 7. In the last month, how often have you done the following activities for
-    your health / wellbeing in your home? ||| Open window
+- unique_name: Openwindow
   action: added
-- label: 7. In the last month, how often have you done the following activities for
-    your health / wellbeing in your home? ||| Use products with an EU Ecolabel to
-    clean the house
+- unique_name: Useproducts_Ecolabel
   action: added
-- label: 7. In the last month, how often have you done the following activities for
-    your health / wellbeing in your home? ||| Use only natural non-toxic products
-    to clean the house
+- unique_name: use_natural_products
   action: added
-- label: agemonths
+- unique_name: agemonths
   action: added
-- label: population
+- unique_name: population
   action: added
-- label: Study Subject ID
+- unique_name: study_subject_id
   action: added
-- label: Country Code
+- unique_name: CountryCode
   action: added
-- label: Household ID
+- unique_name: Household_ID
   action: added
-- label: Adult ID
+- unique_name: Adult_ID
   action: added
-- label: Child ID
+- unique_name: Child_ID
   action: added
-- label: Urine density of the sample
+- unique_name: density
   action: added
-- label: Concentration of creatinine in urine of the sample
+- unique_name: crt
   action: added
-- label: Osmotic concentration of urine of the sample
+- unique_name: osm
   action: added
-- label: Specific gravity of urine of the sample
+- unique_name: sg
   action: added
-- label: Volume of the urine sample
+- unique_name: uvolume
   action: added
-- label: mass concentration of fourhphe in urine
+- unique_name: fourhphe
   action: added
-- label: mass concentration of ninehfluo in urine
+- unique_name: ninehfluo
   action: added
-- label: mass concentration of ohpyr in urine
+- unique_name: ohpyr
   action: added
-- label: mass concentration of onehphe in urine
+- unique_name: onehphe
   action: added
-- label: mass concentration of oneohnap in urine
+- unique_name: oneohnap
   action: added
-- label: mass concentration of threehfluo in urine
+- unique_name: threehfluo
   action: added
-- label: mass concentration of threehphe in urine
+- unique_name: threehphe
   action: added
-- label: mass concentration of twohfluo in urine
+- unique_name: twohfluo
   action: added
-- label: mass concentration of twohphe in urine
+- unique_name: twohphe
   action: added
-- label: mass concentration of twoohnap in urine
+- unique_name: twoohnap
   action: added
-- label: mass concentration of bpa in urine
+- unique_name: bpa
   action: added
-- label: mass concentration of bpaf in urine
+- unique_name: bpaf
   action: added
-- label: mass concentration of bpb in urine
+- unique_name: bpb
   action: added
-- label: mass concentration of bpf in urine
+- unique_name: bpf
   action: added
-- label: mass concentration of bps in urine
+- unique_name: bps
   action: added
-- label: mass concentration of bpz in urine
+- unique_name: bpz
   action: added
-- label: mass concentration of mcoch in urine
+- unique_name: mcoch
   action: added
-- label: mass concentration of mhnch in urine
+- unique_name: mhnch
   action: added
-- label: mass concentration of minch in urine
+- unique_name: minch
   action: added
-- label: mass concentration of bboehep in urine
+- unique_name: bboehep
   action: added
-- label: mass concentration of bboephr in urine
+- unique_name: bboephr
   action: added
-- label: mass concentration of bcepms in urine
+- unique_name: bcepms
   action: added
-- label: mass concentration of bciphipp in urine
+- unique_name: bciphipp
   action: added
-- label: mass concentration of bcippms in urine
+- unique_name: bcippms
   action: added
-- label: mass concentration of bdcippms in urine
+- unique_name: bdcippms
   action: added
-- label: mass concentration of behp in urine
+- unique_name: behp
   action: added
-- label: mass concentration of dnbphr in urine
+- unique_name: dnbphr
   action: added
-- label: mass concentration of dphpms in urine
+- unique_name: dphpms
   action: added
-- label: mass concentration of ehphp in urine
+- unique_name: ehphp
   action: added
-- label: mass concentration of fourohdphp in urine
+- unique_name: fourohdphp
   action: added
-- label: mass concentration of ohehdphp in urine
+- unique_name: ohehdphp
   action: added
-- label: mass concentration of ohtboep in urine
+- unique_name: ohtboep
   action: added
-- label: mass concentration of ohtphp in urine
+- unique_name: ohtphp
   action: added
-- label: mass concentration of tcep in urine
+- unique_name: tcep
   action: added
-- label: mass concentration of tcpy in urine
+- unique_name: tcpy
   action: added
-- label: mass concentration of cdcca in urine
+- unique_name: cdcca
   action: added
-- label: mass concentration of cisdbca in urine
+- unique_name: cisdbca
   action: added
-- label: mass concentration of fpba in urine
+- unique_name: fpba
   action: added
-- label: mass concentration of tdcca in urine
+- unique_name: tdcca
   action: added
-- label: mass concentration of threepba in urine
+- unique_name: threepba
   action: added
-- label: mass concentration of cxmepp in urine
+- unique_name: cxmepp
   action: added
-- label: mass concentration of cxmeptp in urine
+- unique_name: cxmeptp
   action: added
-- label: mass concentration of cxmidp in urine
+- unique_name: cxmidp
   action: added
-- label: mass concentration of cxmmhtp in urine
+- unique_name: cxmmhtp
   action: added
-- label: mass concentration of cxmphp in urine
+- unique_name: cxmphp
   action: added
-- label: mass concentration of cxmphxp in urine
+- unique_name: cxmphxp
   action: added
-- label: mass concentration of mbzp in urine
+- unique_name: mbzp
   action: added
-- label: mass concentration of mcop in urine
+- unique_name: mcop
   action: added
-- label: mass concentration of meha in urine
+- unique_name: meha
   action: added
-- label: mass concentration of mehp in urine
+- unique_name: mehp
   action: added
-- label: mass concentration of mehtp in urine
+- unique_name: mehtp
   action: added
-- label: mass concentration of mep in urine
+- unique_name: mep
   action: added
-- label: mass concentration of mhnp in urine
+- unique_name: mhnp
   action: added
-- label: mass concentration of mibp in urine
+- unique_name: mibp
   action: added
-- label: mass concentration of minp in urine
+- unique_name: minp
   action: added
-- label: mass concentration of mnbp in urine
+- unique_name: mnbp
   action: added
-- label: mass concentration of ohmeha in urine
+- unique_name: ohmeha
   action: added
-- label: mass concentration of ohmehp in urine
+- unique_name: ohmehp
   action: added
-- label: mass concentration of ohmehtp in urine
+- unique_name: ohmehtp
   action: added
-- label: mass concentration of ohmidp in urine
+- unique_name: ohmidp
   action: added
-- label: mass concentration of ohmphp in urine
+- unique_name: ohmphp
   action: added
-- label: mass concentration of ohmprhpp in urine
+- unique_name: ohmprhpp
   action: added
-- label: mass concentration of onefourdehtm in urine
+- unique_name: onefourdehtm
   action: added
-- label: mass concentration of oxomeha in urine
+- unique_name: oxomeha
   action: added
-- label: mass concentration of oxomehp in urine
+- unique_name: oxomehp
   action: added
-- label: mass concentration of oxomehtp in urine
+- unique_name: oxomehtp
   action: added
-- label: mass concentration of twofourdehtm in urine
+- unique_name: twofourdehtm
   action: added
-- label: fourhphe - standardized for creatinine
+- unique_name: fourhphe - standardized for creatinine
   action: added
-- label: fourhphe - normalized for specific gravity
+- unique_name: fourhphe - normalized for specific gravity
   action: added
-- label: ninehfluo - standardized for creatinine
+- unique_name: ninehfluo - standardized for creatinine
   action: added
-- label: ninehfluo - normalized for specific gravity
+- unique_name: ninehfluo - normalized for specific gravity
   action: added
-- label: ohpyr - standardized for creatinine
+- unique_name: ohpyr - standardized for creatinine
   action: added
-- label: ohpyr - normalized for specific gravity
+- unique_name: ohpyr - normalized for specific gravity
   action: added
-- label: onehphe - standardized for creatinine
+- unique_name: onehphe - standardized for creatinine
   action: added
-- label: onehphe - normalized for specific gravity
+- unique_name: onehphe - normalized for specific gravity
   action: added
-- label: oneohnap - standardized for creatinine
+- unique_name: oneohnap - standardized for creatinine
   action: added
-- label: oneohnap - normalized for specific gravity
+- unique_name: oneohnap - normalized for specific gravity
   action: added
-- label: threehfluo - standardized for creatinine
+- unique_name: threehfluo - standardized for creatinine
   action: added
-- label: threehfluo - normalized for specific gravity
+- unique_name: threehfluo - normalized for specific gravity
   action: added
-- label: threehphe - standardized for creatinine
+- unique_name: threehphe - standardized for creatinine
   action: added
-- label: threehphe - normalized for specific gravity
+- unique_name: threehphe - normalized for specific gravity
   action: added
-- label: twohfluo - standardized for creatinine
+- unique_name: twohfluo - standardized for creatinine
   action: added
-- label: twohfluo - normalized for specific gravity
+- unique_name: twohfluo - normalized for specific gravity
   action: added
-- label: twohphe - standardized for creatinine
+- unique_name: twohphe - standardized for creatinine
   action: added
-- label: twohphe - normalized for specific gravity
+- unique_name: twohphe - normalized for specific gravity
   action: added
-- label: twoohnap - standardized for creatinine
+- unique_name: twoohnap - standardized for creatinine
   action: added
-- label: twoohnap - normalized for specific gravity
+- unique_name: twoohnap - normalized for specific gravity
   action: added
-- label: bpa - standardized for creatinine
+- unique_name: bpa - standardized for creatinine
   action: added
-- label: bpa - normalized for specific gravity
+- unique_name: bpa - normalized for specific gravity
   action: added
-- label: bpaf - standardized for creatinine
+- unique_name: bpaf - standardized for creatinine
   action: added
-- label: bpaf - normalized for specific gravity
+- unique_name: bpaf - normalized for specific gravity
   action: added
-- label: bpb - standardized for creatinine
+- unique_name: bpb - standardized for creatinine
   action: added
-- label: bpb - normalized for specific gravity
+- unique_name: bpb - normalized for specific gravity
   action: added
-- label: bpf - standardized for creatinine
+- unique_name: bpf - standardized for creatinine
   action: added
-- label: bpf - normalized for specific gravity
+- unique_name: bpf - normalized for specific gravity
   action: added
-- label: bps - standardized for creatinine
+- unique_name: bps - standardized for creatinine
   action: added
-- label: bps - normalized for specific gravity
+- unique_name: bps - normalized for specific gravity
   action: added
-- label: bpz - standardized for creatinine
+- unique_name: bpz - standardized for creatinine
   action: added
-- label: bpz - normalized for specific gravity
+- unique_name: bpz - normalized for specific gravity
   action: added
-- label: mcoch - standardized for creatinine
+- unique_name: mcoch - standardized for creatinine
   action: added
-- label: mcoch - normalized for specific gravity
+- unique_name: mcoch - normalized for specific gravity
   action: added
-- label: mhnch - standardized for creatinine
+- unique_name: mhnch - standardized for creatinine
   action: added
-- label: mhnch - normalized for specific gravity
+- unique_name: mhnch - normalized for specific gravity
   action: added
-- label: minch - standardized for creatinine
+- unique_name: minch - standardized for creatinine
   action: added
-- label: minch - normalized for specific gravity
+- unique_name: minch - normalized for specific gravity
   action: added
-- label: bboehep - standardized for creatinine
+- unique_name: bboehep - standardized for creatinine
   action: added
-- label: bboehep - normalized for specific gravity
+- unique_name: bboehep - normalized for specific gravity
   action: added
-- label: bboephr - standardized for creatinine
+- unique_name: bboephr - standardized for creatinine
   action: added
-- label: bboephr - normalized for specific gravity
+- unique_name: bboephr - normalized for specific gravity
   action: added
-- label: bcepms - standardized for creatinine
+- unique_name: bcepms - standardized for creatinine
   action: added
-- label: bcepms - normalized for specific gravity
+- unique_name: bcepms - normalized for specific gravity
   action: added
-- label: bciphipp - standardized for creatinine
+- unique_name: bciphipp - standardized for creatinine
   action: added
-- label: bciphipp - normalized for specific gravity
+- unique_name: bciphipp - normalized for specific gravity
   action: added
-- label: bcippms - standardized for creatinine
+- unique_name: bcippms - standardized for creatinine
   action: added
-- label: bcippms - normalized for specific gravity
+- unique_name: bcippms - normalized for specific gravity
   action: added
-- label: bdcippms - standardized for creatinine
+- unique_name: bdcippms - standardized for creatinine
   action: added
-- label: bdcippms - normalized for specific gravity
+- unique_name: bdcippms - normalized for specific gravity
   action: added
-- label: behp - standardized for creatinine
+- unique_name: behp - standardized for creatinine
   action: added
-- label: behp - normalized for specific gravity
+- unique_name: behp - normalized for specific gravity
   action: added
-- label: dnbphr - standardized for creatinine
+- unique_name: dnbphr - standardized for creatinine
   action: added
-- label: dnbphr - normalized for specific gravity
+- unique_name: dnbphr - normalized for specific gravity
   action: added
-- label: dphpms - standardized for creatinine
+- unique_name: dphpms - standardized for creatinine
   action: added
-- label: dphpms - normalized for specific gravity
+- unique_name: dphpms - normalized for specific gravity
   action: added
-- label: ehphp - standardized for creatinine
+- unique_name: ehphp - standardized for creatinine
   action: added
-- label: ehphp - normalized for specific gravity
+- unique_name: ehphp - normalized for specific gravity
   action: added
-- label: fourohdphp - standardized for creatinine
+- unique_name: fourohdphp - standardized for creatinine
   action: added
-- label: fourohdphp - normalized for specific gravity
+- unique_name: fourohdphp - normalized for specific gravity
   action: added
-- label: ohehdphp - standardized for creatinine
+- unique_name: ohehdphp - standardized for creatinine
   action: added
-- label: ohehdphp - normalized for specific gravity
+- unique_name: ohehdphp - normalized for specific gravity
   action: added
-- label: ohtboep - standardized for creatinine
+- unique_name: ohtboep - standardized for creatinine
   action: added
-- label: ohtboep - normalized for specific gravity
+- unique_name: ohtboep - normalized for specific gravity
   action: added
-- label: ohtphp - standardized for creatinine
+- unique_name: ohtphp - standardized for creatinine
   action: added
-- label: ohtphp - normalized for specific gravity
+- unique_name: ohtphp - normalized for specific gravity
   action: added
-- label: tcep - standardized for creatinine
+- unique_name: tcep - standardized for creatinine
   action: added
-- label: tcep - normalized for specific gravity
+- unique_name: tcep - normalized for specific gravity
   action: added
-- label: tcpy - standardized for creatinine
+- unique_name: tcpy - standardized for creatinine
   action: added
-- label: tcpy - normalized for specific gravity
+- unique_name: tcpy - normalized for specific gravity
   action: added
-- label: cdcca - standardized for creatinine
+- unique_name: cdcca - standardized for creatinine
   action: added
-- label: cdcca - normalized for specific gravity
+- unique_name: cdcca - normalized for specific gravity
   action: added
-- label: cisdbca - standardized for creatinine
+- unique_name: cisdbca - standardized for creatinine
   action: added
-- label: cisdbca - normalized for specific gravity
+- unique_name: cisdbca - normalized for specific gravity
   action: added
-- label: fpba - standardized for creatinine
+- unique_name: fpba - standardized for creatinine
   action: added
-- label: fpba - normalized for specific gravity
+- unique_name: fpba - normalized for specific gravity
   action: added
-- label: tdcca - standardized for creatinine
+- unique_name: tdcca - standardized for creatinine
   action: added
-- label: tdcca - normalized for specific gravity
+- unique_name: tdcca - normalized for specific gravity
   action: added
-- label: threepba - standardized for creatinine
+- unique_name: threepba - standardized for creatinine
   action: added
-- label: threepba - normalized for specific gravity
+- unique_name: threepba - normalized for specific gravity
   action: added
-- label: cxmepp - standardized for creatinine
+- unique_name: cxmepp - standardized for creatinine
   action: added
-- label: cxmepp - normalized for specific gravity
+- unique_name: cxmepp - normalized for specific gravity
   action: added
-- label: cxmeptp - standardized for creatinine
+- unique_name: cxmeptp - standardized for creatinine
   action: added
-- label: cxmeptp - normalized for specific gravity
+- unique_name: cxmeptp - normalized for specific gravity
   action: added
-- label: cxmidp - standardized for creatinine
+- unique_name: cxmidp - standardized for creatinine
   action: added
-- label: cxmidp - normalized for specific gravity
+- unique_name: cxmidp - normalized for specific gravity
   action: added
-- label: cxmmhtp - standardized for creatinine
+- unique_name: cxmmhtp - standardized for creatinine
   action: added
-- label: cxmmhtp - normalized for specific gravity
+- unique_name: cxmmhtp - normalized for specific gravity
   action: added
-- label: cxmphp - standardized for creatinine
+- unique_name: cxmphp - standardized for creatinine
   action: added
-- label: cxmphp - normalized for specific gravity
+- unique_name: cxmphp - normalized for specific gravity
   action: added
-- label: cxmphxp - standardized for creatinine
+- unique_name: cxmphxp - standardized for creatinine
   action: added
-- label: cxmphxp - normalized for specific gravity
+- unique_name: cxmphxp - normalized for specific gravity
   action: added
-- label: mbzp - standardized for creatinine
+- unique_name: mbzp - standardized for creatinine
   action: added
-- label: mbzp - normalized for specific gravity
+- unique_name: mbzp - normalized for specific gravity
   action: added
-- label: mcop - standardized for creatinine
+- unique_name: mcop - standardized for creatinine
   action: added
-- label: mcop - normalized for specific gravity
+- unique_name: mcop - normalized for specific gravity
   action: added
-- label: meha - standardized for creatinine
+- unique_name: meha - standardized for creatinine
   action: added
-- label: meha - normalized for specific gravity
+- unique_name: meha - normalized for specific gravity
   action: added
-- label: mehp - standardized for creatinine
+- unique_name: mehp - standardized for creatinine
   action: added
-- label: mehp - normalized for specific gravity
+- unique_name: mehp - normalized for specific gravity
   action: added
-- label: mehtp - standardized for creatinine
+- unique_name: mehtp - standardized for creatinine
   action: added
-- label: mehtp - normalized for specific gravity
+- unique_name: mehtp - normalized for specific gravity
   action: added
-- label: mep - standardized for creatinine
+- unique_name: mep - standardized for creatinine
   action: added
-- label: mep - normalized for specific gravity
+- unique_name: mep - normalized for specific gravity
   action: added
-- label: mhnp - standardized for creatinine
+- unique_name: mhnp - standardized for creatinine
   action: added
-- label: mhnp - normalized for specific gravity
+- unique_name: mhnp - normalized for specific gravity
   action: added
-- label: mibp - standardized for creatinine
+- unique_name: mibp - standardized for creatinine
   action: added
-- label: mibp - normalized for specific gravity
+- unique_name: mibp - normalized for specific gravity
   action: added
-- label: minp - standardized for creatinine
+- unique_name: minp - standardized for creatinine
   action: added
-- label: minp - normalized for specific gravity
+- unique_name: minp - normalized for specific gravity
   action: added
-- label: mnbp - standardized for creatinine
+- unique_name: mnbp - standardized for creatinine
   action: added
-- label: mnbp - normalized for specific gravity
+- unique_name: mnbp - normalized for specific gravity
   action: added
-- label: ohmeha - standardized for creatinine
+- unique_name: ohmeha - standardized for creatinine
   action: added
-- label: ohmeha - normalized for specific gravity
+- unique_name: ohmeha - normalized for specific gravity
   action: added
-- label: ohmehp - standardized for creatinine
+- unique_name: ohmehp - standardized for creatinine
   action: added
-- label: ohmehp - normalized for specific gravity
+- unique_name: ohmehp - normalized for specific gravity
   action: added
-- label: ohmehtp - standardized for creatinine
+- unique_name: ohmehtp - standardized for creatinine
   action: added
-- label: ohmehtp - normalized for specific gravity
+- unique_name: ohmehtp - normalized for specific gravity
   action: added
-- label: ohmidp - standardized for creatinine
+- unique_name: ohmidp - standardized for creatinine
   action: added
-- label: ohmidp - normalized for specific gravity
+- unique_name: ohmidp - normalized for specific gravity
   action: added
-- label: ohmphp - standardized for creatinine
+- unique_name: ohmphp - standardized for creatinine
   action: added
-- label: ohmphp - normalized for specific gravity
+- unique_name: ohmphp - normalized for specific gravity
   action: added
-- label: ohmprhpp - standardized for creatinine
+- unique_name: ohmprhpp - standardized for creatinine
   action: added
-- label: ohmprhpp - normalized for specific gravity
+- unique_name: ohmprhpp - normalized for specific gravity
   action: added
-- label: onefourdehtm - standardized for creatinine
+- unique_name: onefourdehtm - standardized for creatinine
   action: added
-- label: onefourdehtm - normalized for specific gravity
+- unique_name: onefourdehtm - normalized for specific gravity
   action: added
-- label: oxomeha - standardized for creatinine
+- unique_name: oxomeha - standardized for creatinine
   action: added
-- label: oxomeha - normalized for specific gravity
+- unique_name: oxomeha - normalized for specific gravity
   action: added
-- label: oxomehp - standardized for creatinine
+- unique_name: oxomehp - standardized for creatinine
   action: added
-- label: oxomehp - normalized for specific gravity
+- unique_name: oxomehp - normalized for specific gravity
   action: added
-- label: oxomehtp - standardized for creatinine
+- unique_name: oxomehtp - standardized for creatinine
   action: added
-- label: oxomehtp - normalized for specific gravity
+- unique_name: oxomehtp - normalized for specific gravity
   action: added
-- label: twofourdehtm - standardized for creatinine
+- unique_name: twofourdehtm - standardized for creatinine
   action: added
-- label: twofourdehtm - normalized for specific gravity
+- unique_name: twofourdehtm - normalized for specific gravity
   action: added
-- label: Exposure Biomarker measured
+- unique_name: Exposure Biomarker measured
   action: added
-- label: LOD - available
+- unique_name: LOD - available
   action: added
-- label: Provide the limit of detection (LOD) for the selected biomarker
+- unique_name: Provide the limit of detection (LOD) for the selected biomarker
   action: added
-- label: Unit of measure LOD
+- unique_name: Unit of measure LOD
   action: added
-- label: Definition LOD
+- unique_name: Definition LOD
   action: added
-- label: Definition LOD - Other
+- unique_name: Definition LOD - Other
   action: added
-- label: LOQ - available
+- unique_name: LOQ - available
   action: added
-- label: Provide the limit of quantification (LOQ) for the selected biomarker
+- unique_name: Provide the limit of quantification (LOQ) for the selected biomarker
   action: added
-- label: Unit of measure LOQ
+- unique_name: Unit of measure LOQ
   action: added
-- label: Definition LOQ
+- unique_name: Definition LOQ
   action: added
-- label: Definition LOQ - Other
+- unique_name: Definition LOQ - Other
   action: added
-- label: Number of samples analysed
+- unique_name: Number of samples analysed
   action: added
-- label: Number of samples below LOD
+- unique_name: Number of samples below LOD
   action: added
-- label: Number of samples below LOQ
+- unique_name: Number of samples below LOQ
   action: added
-- label: Institution name of the laboratory performing the chemical analysis
+- unique_name: Institution name of the laboratory performing the chemical analysis
   action: added
-- label: Country of the laboratory performing the chemical analysis
+- unique_name: Country of the laboratory performing the chemical analysis
   action: added
-- label: if applicable; name of the group within the institution/laboratory performing
-    the chemical analysis
+- unique_name: if applicable; name of the group within the institution/laboratory
+    performing the chemical analysis
   action: added
-- label: Analytical method used
+- unique_name: Analytical method used
   action: added
-- label: Specify "other" Analytical method
+- unique_name: Specify "other" Analytical method
   action: added
-- label: List successful participation in proficiency tests (PTs)
+- unique_name: List successful participation in proficiency tests (PTs)
   action: added
-- label: Specify "other" PTs
+- unique_name: Specify "other" PTs
   action: added
-- label: Sample preparation method
+- unique_name: Sample preparation method
   action: added
-- label: Are field blank samples run to check for contamination?
+- unique_name: Are field blank samples run to check for contamination?
   action: added
-- label: If field blank samples are checked, on how many samples were blanks run?
+- unique_name: If field blank samples are checked, on how many samples were blanks
+    run?
   action: added
-- label: Are duplicate or replicate samples analyzed to ensure precision?
+- unique_name: Are duplicate or replicate samples analyzed to ensure precision?
   action: added
-- label: If yes, what is the number of duplicates/replicates?
+- unique_name: If yes, what is the number of duplicates/replicates?
   action: added
-- label: Analytical phase QA/QC
+- unique_name: Analytical phase QA/QC
   action: added
-- label: Link to Data collection Instance
+- unique_name: Link to Data collection Instance
   action: added
-- label: Data collection Identifier provided as URL
+- unique_name: Data collection Identifier provided as URL
   action: added
-- label: Name of the data collection
+- unique_name: Name of the data collection
   action: added
-- label: Short name or acronym of the data collection
+- unique_name: Short name or acronym of the data collection
   action: added
-- label: Language used
+- unique_name: Language used
   action: added
-- label: Description
+- unique_name: Description
   action: added
-- label: Publisher
+- unique_name: Publisher
   action: added
-- label: Start date of the data collection
+- unique_name: Start date of the data collection
   action: added
-- label: End date of the data collection
+- unique_name: End date of the data collection
   action: added
-- label: Implementation level
+- unique_name: Implementation level
   action: added
-- label: Email
+- unique_name: Email
   action: added
-- label: Resource type
+- unique_name: Resource type
   action: added
-- label: Distribution File Format
+- unique_name: Distribution File Format
   action: added
-- label: Conforms To
+- unique_name: Conforms To
   action: added
-- label: Data usage license
+- unique_name: Data usage license
   action: added
-- label: 'Access conditions '
+- unique_name: 'Access conditions '
   action: added
-- label: Access procedures
+- unique_name: Access procedures
   action: added
-- label: Text for acknowledgement
+- unique_name: Text for acknowledgement
   action: added
-- label: Text for disclaimer
+- unique_name: Text for disclaimer
   action: added
-- label: Anonymization process
+- unique_name: Anonymization process
   action: added
-- label: Pseudonymization/anonymization process
+- unique_name: Pseudonymization/anonymization process
   action: added
-- label: Aggregation level of data
+- unique_name: Aggregation level of data
   action: added
-- label: R-script or tool version number
+- unique_name: R-script or tool version number
   action: added
-- label: Descriptive analysis
+- unique_name: Descriptive analysis
   action: added
-- label: Stratification procedures
+- unique_name: Stratification procedures
   action: added
-- label: 'Data transformations or scaling applied '
+- unique_name: 'Data transformations or scaling applied '
   action: added
-- label: Handling values below LOD
+- unique_name: Handling values below LOD
   action: added
-- label: Please, provide a suitable description in case you selected 'other'
+- unique_name: Please, provide a suitable description in case you selected 'other'
   action: added
-- label: Handling values below LOQ
+- unique_name: Handling values below LOQ
   action: added
-- label: Please, provide a suitable description in case you selected 'other'.1
+- unique_name: Please, provide a suitable description in case you selected 'other'.1
   action: added
-- label: Handling missing values
+- unique_name: Handling missing values
   action: added
-- label: Codebook Reference
+- unique_name: Codebook Reference
   action: added
-- label: Codebook Name
+- unique_name: Codebook Name
   action: added
-- label: Codebook Version
+- unique_name: Codebook Version
   action: added
-- label: Data formats available
+- unique_name: Data formats available
   action: added
-- label: File size
+- unique_name: File size
   action: added
-- label: Access service
+- unique_name: Access service
   action: added
-- label: Access URL
+- unique_name: Access URL
   action: added
-- label: Affiliation  (Institute)
+- unique_name: Affiliation  (Institute)
   action: added
-- label: Institute country
+- unique_name: Institute country
   action: added
-- label: Type of Institution
+- unique_name: Type of Institution
   action: added
-- label: Type of Institution -  Other
+- unique_name: Type of Institution -  Other
   action: added
-- label: Project Identifier provided as URL
+- unique_name: Project Identifier provided as URL
   action: added
-- label: Name of the project (English)
+- unique_name: Name of the project (English)
   action: added
-- label: Name of the project (Original language)
+- unique_name: Name of the project (Original language)
   action: added
-- label: Short name or acronym of the project
+- unique_name: Short name or acronym of the project
   action: added
-- label: Funder
+- unique_name: Funder
   action: added
-- label: Budget in Euro
+- unique_name: Budget in Euro
   action: added
-- label: Start date of the project
+- unique_name: Start date of the project
   action: added
-- label: End date of the project
+- unique_name: End date of the project
   action: added
-- label: Activity status
+- unique_name: Activity status
   action: added
-- label: Other - activity status
+- unique_name: Other - activity status
   action: added
-- label: Links
+- unique_name: Links
   action: added
-- label: Link to Study Metadata Instance
+- unique_name: Link to Study Metadata Instance
   action: added
-- label: Type of sample collected
+- unique_name: Type of sample collected
   action: added
-- label: If you selected human biological samples, specify the matrix
+- unique_name: If you selected human biological samples, specify the matrix
   action: added
-- label: If you selected environmental samples specify the matrix
+- unique_name: If you selected environmental samples specify the matrix
   action: added
-- label: Start date of sampling
+- unique_name: Start date of sampling
   action: added
-- label: End date of sampling
+- unique_name: End date of sampling
   action: added
-- label: Number of samples
+- unique_name: Number of samples
   action: added
-- label: Planned minimal volume of sample
+- unique_name: Planned minimal volume of sample
   action: added
-- label: Unit of measure (of sample volume)
+- unique_name: Unit of measure (of sample volume)
   action: added
-- label: Are biobank samples collected
+- unique_name: Are biobank samples collected
   action: added
-- label: Sample collection method
+- unique_name: Sample collection method
   action: added
-- label: Where does sample collection take place?
+- unique_name: Where does sample collection take place?
   action: added
-- label: Other - Place of sample collection
+- unique_name: Other - Place of sample collection
   action: added
-- label: Sampling container material
+- unique_name: Sampling container material
   action: added
-- label: Dilution level
+- unique_name: Dilution level
   action: added
-- label: Other - dilution level
+- unique_name: Other - dilution level
   action: added
-- label: Blood lipids
+- unique_name: Blood lipids
   action: added
-- label: Other - blood lipids
+- unique_name: Other - blood lipids
   action: added
-- label: Quality Assurance (pre-analytical)
+- unique_name: Quality Assurance (pre-analytical)
   action: added
-- label: Other - Quality Assurance
+- unique_name: Other - Quality Assurance
   action: added
-- label: Effect biomarkers measured
+- unique_name: Effect biomarkers measured
   action: added
-- label: Link to Chemical Analysis Instance
+- unique_name: Link to Chemical Analysis Instance
   action: added
-- label: ORCID
+- unique_name: ORCID
   action: added
-- label: 'Questionnaires used '
+- unique_name: 'Questionnaires used '
   action: added
-- label: Mode of questionnaire conduct
+- unique_name: Mode of questionnaire conduct
   action: added
-- label: Who answered the questionnaire
+- unique_name: Who answered the questionnaire
   action: added
-- label: Other - person who answered the questionnaire
+- unique_name: Other - person who answered the questionnaire
   action: added
-- label: Is the questionnaire available online?
+- unique_name: Is the questionnaire available online?
   action: added
-- label: In case you answered with yes, please provide a link to the questionnaire
+- unique_name: In case you answered with yes, please provide a link to the questionnaire
   action: added
-- label: Type of target population
+- unique_name: Type of target population
   action: added
-- label: Other - target population
+- unique_name: Other - target population
   action: added
-- label: Number of participants
+- unique_name: Number of participants
   action: added
-- label: from age
+- unique_name: from age
   action: added
-- label: to age
+- unique_name: to age
   action: added
-- label: Sex of participant
+- unique_name: Sex of participant
   action: added
-- label: Inclusion criteria
+- unique_name: Inclusion criteria
   action: added
-- label: Exclusion criteria
+- unique_name: Exclusion criteria
   action: added
-- label: Lifestyle information
+- unique_name: Lifestyle information
   action: added
-- label: Socio-demographic information
+- unique_name: Socio-demographic information
   action: added
-- label: Environmental factors information
+- unique_name: Environmental factors information
   action: added
-- label: "Sampling frame \n"
+- unique_name: "Sampling frame \n"
   action: added
-- label: Other - sampling frame
+- unique_name: Other - sampling frame
   action: added
-- label: "Recruitment method\_\n"
+- unique_name: "Recruitment method\_\n"
   action: added
-- label: Other -  recruitment method
+- unique_name: Other -  recruitment method
   action: added
-- label: Repeated sampling
+- unique_name: Repeated sampling
   action: added
-- label: Repeated sampling-description
+- unique_name: Repeated sampling-description
   action: added
-- label: What type of anthropometric & health measurements are performed by fieldworkers?
+- unique_name: What type of anthropometric & health measurements are performed by
+    fieldworkers?
   action: added
-- label: Other- anthropometric & health measurements are performed by fieldworkers?
+- unique_name: Other- anthropometric & health measurements are performed by fieldworkers?
   action: added
-- label: Link to Sample Metadata Instance
+- unique_name: Link to Sample Metadata Instance
   action: added
-- label: Study Identifier provided as URL
+- unique_name: Study Identifier provided as URL
   action: added
-- label: Study name (English)
+- unique_name: Study name (English)
   action: added
-- label: Study name (Original language)
+- unique_name: Study name (Original language)
   action: added
-- label: Short name or acronym of the study
+- unique_name: Short name or acronym of the study
   action: added
-- label: Start date of the study
+- unique_name: Start date of the study
   action: added
-- label: End date of the study
+- unique_name: End date of the study
   action: added
-- label: Identifier of related studies
+- unique_name: Identifier of related studies
   action: added
-- label: 'Role of contact '
+- unique_name: 'Role of contact '
   action: added
-- label: Monitoring reasons
+- unique_name: Monitoring reasons
   action: added
-- label: Monitoring reasons - Other
+- unique_name: Monitoring reasons - Other
   action: added
-- label: Type of study
+- unique_name: Type of study
   action: added
-- label: Countries
+- unique_name: Countries
   action: added
-- label: Study setting
+- unique_name: Study setting
   action: added
-- label: Sampling method
+- unique_name: Sampling method
   action: added
-- label: Sampling method description
+- unique_name: Sampling method description
   action: added
-- label: Ethical approval - obtained
+- unique_name: Ethical approval - obtained
   action: added
-- label: Ethical approval - name of ethics committee
+- unique_name: Ethical approval - name of ethics committee
   action: added
-- label: Ethical approval - date of approval
+- unique_name: Ethical approval - date of approval
   action: added
-- label: Seasonal coverage
+- unique_name: Seasonal coverage
   action: added
-- label: Is it intended to link the collected data to other data registries?
+- unique_name: Is it intended to link the collected data to other data registries?
   action: added
-- label: In case you link to other data registries, what type of data registry?
+- unique_name: In case you link to other data registries, what type of data registry?
   action: added
-- label: Other - data registry
+- unique_name: Other - data registry
   action: added
-- label: Please, provide a link to the data registry
+- unique_name: Please, provide a link to the data registry
   action: added
-- label: Does your population sample have subgroups that need to be differentiated
+- unique_name: Does your population sample have subgroups that need to be differentiated
     from each other? Please indicate how many.
   action: added
-- label: Access conditions - Other
+- unique_name: Access conditions - Other
   action: added
-- label: Link to Study Population Metadata Instance(s)
+- unique_name: Link to Study Population Metadata Instance(s)
   action: added
